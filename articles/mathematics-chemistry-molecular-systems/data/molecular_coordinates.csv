@@ -1,0 +1,7 @@
+molecule,atom,x_angstrom,y_angstrom,z_angstrom
+water,O,0.000,0.000,0.000
+water,H1,0.958,0.000,0.000
+water,H2,-0.239,0.927,0.000
+carbon_dioxide,C,0.000,0.000,0.000
+carbon_dioxide,O1,1.160,0.000,0.000
+carbon_dioxide,O2,-1.160,0.000,0.000

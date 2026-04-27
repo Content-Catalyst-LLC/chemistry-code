@@ -1,23 +1,26 @@
 # Mathematics for Chemistry and Molecular Systems
 
-Section: Foundations of Chemistry
-
-This folder will support the Chemistry knowledge-series article:
+This article repository supports the Chemistry knowledge-series article:
 
 Mathematics for Chemistry and Molecular Systems
 
-The folder is prepared for reproducible computational chemistry workflows, synthetic datasets, documentation, notebooks, SQL metadata, and full-stack examples where useful.
+The repository provides reproducible computational scaffolding for mathematical chemistry concepts, including stoichiometry, units, concentration, pH, kinetics, thermodynamics, equilibrium, molecular geometry, linear algebra, uncertainty, graph representations, SQL metadata, notebook scaffolding, and cross-language examples in Python, R, Julia, Fortran, Rust, Go, C, and C++.
 
-## Suggested workflow types
+No university affiliation is implied by this repository. The design goal is advanced reproducible computational rigor: clear assumptions, transparent calculations, synthetic educational data, provenance records, responsible-use notes, and reusable scientific workflow structure.
 
-- chemical data analysis
-- stoichiometric and thermodynamic calculations
-- kinetics and reaction-network modeling
-- spectroscopy or chromatography data workflows
-- molecular modeling or cheminformatics examples
-- environmental chemistry or toxicology examples
-- reproducible metadata and provenance examples
+## Scientific Focus
 
-## Responsible-use note
+The workflows demonstrate:
 
-This folder is educational and methodological scaffolding. It is not a substitute for laboratory validation, safety review, regulatory compliance, chemical risk assessment, or professional chemical practice.
+1. Stoichiometric ratios and conservation.
+2. pH and logarithmic scale.
+3. First-order kinetic decay.
+4. Thermodynamic relationship between standard free energy and equilibrium.
+5. Molecular geometry from coordinates.
+6. Linear algebra and eigenvalue examples.
+7. Replicate statistics and uncertainty.
+8. Graph-style molecular connectivity.
+9. SQL-backed mathematical chemistry metadata.
+10. Cross-language numerical reproducibility.
+
+These examples are educational and methodological scaffolds. They are not laboratory protocols, chemical safety systems, regulatory tools, analytical validation systems, or substitutes for professional chemical practice.

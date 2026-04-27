@@ -1,0 +1,5 @@
+molecule,atom_i,atom_j,bond_order
+water,O,H1,1
+water,O,H2,1
+carbon_dioxide,C,O1,2
+carbon_dioxide,C,O2,2

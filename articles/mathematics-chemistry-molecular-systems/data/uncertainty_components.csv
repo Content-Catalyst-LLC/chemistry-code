@@ -1,0 +1,5 @@
+component,standard_uncertainty,unit
+balance,0.004,mg/L
+volumetric,0.006,mg/L
+calibration,0.015,mg/L
+repeatability,0.012,mg/L

@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,stoichiometry_and_ph,stoichiometry_examples.csv;ph_examples.csv,python/01_stoichiometry_and_ph.py,outputs/tables/stoichiometry_and_ph.csv,Calculate stoichiometry and pH examples
+2,kinetics_and_thermodynamics,kinetics_examples.csv;thermodynamics_examples.csv,python/02_kinetics_and_thermodynamics.py,outputs/tables/kinetics_and_thermodynamics.csv,Simulate kinetics and calculate equilibrium constants
+3,molecular_geometry,molecular_coordinates.csv,python/03_molecular_geometry.py,outputs/tables/molecular_distances.csv,Calculate molecular distances
+4,linear_algebra_and_uncertainty,matrix_examples.csv;uncertainty_components.csv,python/04_linear_algebra_and_uncertainty.py,outputs/tables/linear_algebra_and_uncertainty.csv,Calculate eigenvalues and combined uncertainty
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,stoichiometry_and_ph.csv;kinetics_and_thermodynamics.csv;molecular_distances.csv;linear_algebra_and_uncertainty.csv,python/06_generate_math_chemistry_report.py,outputs/reports/mathematics_chemistry_report.md,Generate report

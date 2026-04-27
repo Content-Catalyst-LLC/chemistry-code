@@ -1,0 +1,5 @@
+solution,hydrogen_activity
+acidic_solution,1.0e-3
+near_neutral_solution,1.0e-7
+weakly_basic_solution,1.0e-9
+trace_acid_solution,3.2e-5

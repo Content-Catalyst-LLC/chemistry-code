@@ -1,0 +1,4 @@
+reaction,reactant,reactant_moles,coefficient_reactant,product,coefficient_product
+water_formation,H2,4.0,2,H2O,2
+ammonia_synthesis,N2,1.5,1,NH3,2
+carbon_combustion,C,2.0,1,CO2,1

@@ -1,0 +1,5 @@
+reaction,delta_g_standard_kj_mol,temperature_k
+A_to_B,-5.0,298.15
+C_to_D,0.0,298.15
+E_to_F,12.0,298.15
+G_to_H,-25.0,310.15
