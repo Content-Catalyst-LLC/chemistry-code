@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,uncertainty_budget,uncertainty_budget.csv,python/01_uncertainty_budget.py,outputs/tables/uncertainty_budget_summary.csv,Calculate combined and expanded uncertainty
+2,reference_material_summary,reference_materials.csv,python/02_reference_material_summary.py,outputs/tables/reference_material_summary.csv,Summarize reference materials and relative uncertainty
+3,traceability_chain,traceability_chain.csv,python/03_traceability_chain.py,outputs/tables/traceability_chain_summary.csv,Summarize traceability-chain uncertainty growth
+4,interlaboratory_comparison,interlaboratory_comparison.csv,python/04_interlaboratory_comparison.py,outputs/tables/interlaboratory_comparison.csv,Calculate normalized error
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,uncertainty_budget_summary.csv;reference_material_summary.csv;traceability_chain_summary.csv;interlaboratory_comparison.csv,python/06_generate_metrology_report.py,outputs/reports/chemical_metrology_report.md,Generate report

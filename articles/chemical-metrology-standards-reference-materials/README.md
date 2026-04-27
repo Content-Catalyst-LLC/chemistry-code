@@ -1,23 +1,25 @@
 # Chemical Metrology, Standards, and Reference Materials
 
-Section: Foundations of Chemistry
-
-This folder will support the Chemistry knowledge-series article:
+This article repository supports the Chemistry knowledge-series article:
 
 Chemical Metrology, Standards, and Reference Materials
 
-The folder is prepared for reproducible computational chemistry workflows, synthetic datasets, documentation, notebooks, SQL metadata, and full-stack examples where useful.
+The repository provides reproducible computational scaffolding for chemical metrology concepts, including traceability-chain metadata, reference material summaries, uncertainty budgets, calibration hierarchy records, interlaboratory comparison, normalized error, SQL schemas, notebook scaffolding, and cross-language examples in Python, R, Julia, Fortran, Rust, Go, C, and C++.
 
-## Suggested workflow types
+No university affiliation is implied by this repository. The design goal is advanced reproducible computational rigor: clear assumptions, transparent calculations, synthetic educational data, provenance records, responsible-use notes, and reusable scientific workflow structure.
 
-- chemical data analysis
-- stoichiometric and thermodynamic calculations
-- kinetics and reaction-network modeling
-- spectroscopy or chromatography data workflows
-- molecular modeling or cheminformatics examples
-- environmental chemistry or toxicology examples
-- reproducible metadata and provenance examples
+## Scientific Focus
 
-## Responsible-use note
+The workflows demonstrate:
 
-This folder is educational and methodological scaffolding. It is not a substitute for laboratory validation, safety review, regulatory compliance, chemical risk assessment, or professional chemical practice.
+1. Traceability chain metadata.
+2. Reference material and certified value summaries.
+3. Combined standard uncertainty and expanded uncertainty.
+4. Relative uncertainty.
+5. Laboratory bias.
+6. Normalized error for interlaboratory comparison.
+7. SQL-backed metrology and reference-material records.
+8. Provenance and reproducibility documentation.
+9. Cross-language numerical reproducibility.
+
+These examples are educational and methodological scaffolds. They are not laboratory protocols, chemical safety systems, accreditation systems, regulatory tools, analytical validation systems, or substitutes for professional chemical metrology practice.

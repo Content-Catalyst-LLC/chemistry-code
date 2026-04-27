@@ -1,0 +1,7 @@
+component,standard_uncertainty,unit,category,notes
+balance,0.004,mg/L,calibration,Synthetic balance contribution
+volumetric_flask,0.006,mg/L,volumetric,Synthetic volumetric contribution
+reference_material,0.010,mg/L,reference,Synthetic CRM contribution
+calibration_curve,0.015,mg/L,model,Synthetic calibration model contribution
+repeatability,0.012,mg/L,precision,Synthetic repeatability contribution
+matrix_effect,0.020,mg/L,matrix,Synthetic matrix effect contribution

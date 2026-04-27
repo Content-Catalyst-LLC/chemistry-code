@@ -1,0 +1,7 @@
+level,description,example_artifact,documentation_required
+1,Primary or national reference,NMI reference value,reference certificate
+2,Certified reference material,CRM certificate,certified value and uncertainty
+3,Working standard,laboratory standard,preparation record
+4,Calibration curve,instrument calibration,calibration model and residuals
+5,Quality control material,QC sample,control chart record
+6,Unknown sample,reported result,result uncertainty and provenance

@@ -1,0 +1,7 @@
+step_order,chain_level,artifact_or_process,reference,expanded_uncertainty,unit
+1,SI_reference,amount_of_substance_and_mass,SI_units,0.000,mg/L
+2,national_reference,national_metrology_institute_reference,NMI_reference_value,0.020,mg/L
+3,certified_reference_material,CRM_A_certificate,certified_value,0.060,mg/L
+4,laboratory_working_standard,prepared_working_standard,CRM_A,0.080,mg/L
+5,instrument_calibration,calibration_curve,working_standard_series,0.120,mg/L
+6,unknown_sample_result,reported_sample_value,calibrated_measurement_system,0.200,mg/L

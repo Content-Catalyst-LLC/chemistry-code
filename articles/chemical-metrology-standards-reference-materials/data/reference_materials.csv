@@ -1,0 +1,5 @@
+material_id,material_type,measurand,certified_value,expanded_uncertainty,unit,matrix,traceability_statement
+CRM_A,CRM,lead_mass_fraction,12.4,0.6,mg/kg,soil,Traceable through certified reference value
+CRM_B,CRM,arsenic_mass_fraction,3.8,0.3,mg/kg,rice,Traceable through certified reference value
+SRM_C,SRM,glucose_concentration,5.55,0.12,mmol/L,serum,Traceable through standard reference material certificate
+RM_D,RM,nitrate_concentration,2.20,0.20,mg/L,water,Reference value for quality control
