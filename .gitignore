@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Julia
+.julia/
+Manifest.toml
+
+# Compiled binaries
+*.o
+*.out
+*.exe
+*.dll
+*.dylib
+*.so
+target/
+build/
+dist/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data and outputs
+*.sqlite
+*.db
+*.parquet
+*.feather
+.DS_Store
+
+# Secrets
+.env*
+!.env.example

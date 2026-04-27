@@ -1,0 +1,64 @@
+# Planned Chemistry Articles
+
+This file is generated as a planning companion to docs/article_index.tsv.
+
+Use each article folder under articles/ as the home for reproducible computational examples, synthetic data, SQL metadata, notebooks, and documentation associated with that article.
+- [What Is Chemistry?](../articles/what-is-chemistry/) — Foundations of Chemistry
+- [The Chemical Revolution and the Rise of Modern Chemistry](../articles/chemical-revolution-rise-modern-chemistry/) — Foundations of Chemistry
+- [Measurement, Quantification, and the Experimental Basis of Chemistry](../articles/measurement-quantification-experimental-basis-chemistry/) — Foundations of Chemistry
+- [Chemical Metrology, Standards, and Reference Materials](../articles/chemical-metrology-standards-reference-materials/) — Foundations of Chemistry
+- [Mathematics for Chemistry and Molecular Systems](../articles/mathematics-chemistry-molecular-systems/) — Foundations of Chemistry
+- [Atoms, Elements, and the Periodic Organization of Matter](../articles/atoms-elements-periodic-organization-matter/) — Atomic and Molecular Structure
+- [Electronic Structure and the Quantum Foundations of Chemistry](../articles/electronic-structure-quantum-foundations-chemistry/) — Atomic and Molecular Structure
+- [Chemical Bonding and Molecular Structure](../articles/chemical-bonding-molecular-structure/) — Atomic and Molecular Structure
+- [The Periodic Table and the Logic of Chemical Classification](../articles/periodic-table-logic-chemical-classification/) — Atomic and Molecular Structure
+- [Molecular Geometry, Symmetry, and Structure](../articles/molecular-geometry-symmetry-structure/) — Atomic and Molecular Structure
+- [Intermolecular Forces and the Chemistry of Condensed Matter](../articles/intermolecular-forces-chemistry-condensed-matter/) — Atomic and Molecular Structure
+- [Stoichiometry and the Quantitative Language of Reactions](../articles/stoichiometry-quantitative-language-reactions/) — Chemical Change and Reaction
+- [Chemical Thermodynamics and Energetics](../articles/chemical-thermodynamics-energetics/) — Chemical Change and Reaction
+- [Chemical Kinetics and Reaction Mechanisms](../articles/chemical-kinetics-reaction-mechanisms/) — Chemical Change and Reaction
+- [Equilibrium and the Dynamics of Reversible Systems](../articles/equilibrium-dynamics-reversible-systems/) — Chemical Change and Reaction
+- [Acids, Bases, and Proton Transfer](../articles/acids-bases-proton-transfer/) — Chemical Change and Reaction
+- [Oxidation, Reduction, and Electron Transfer](../articles/oxidation-reduction-electron-transfer/) — Chemical Change and Reaction
+- [Catalysis and the Control of Chemical Pathways](../articles/catalysis-control-chemical-pathways/) — Chemical Change and Reaction
+- [Reaction Networks and Chemical Systems Modeling](../articles/reaction-networks-chemical-systems-modeling/) — Chemical Change and Reaction
+- [Organic Chemistry and Carbon-Based Structure](../articles/organic-chemistry-carbon-based-structure/) — Core Domains of Chemistry
+- [Inorganic Chemistry and the Diversity of Non-Carbon Systems](../articles/inorganic-chemistry-diversity-non-carbon-systems/) — Core Domains of Chemistry
+- [Physical Chemistry and the Chemical Interpretation of Matter](../articles/physical-chemistry-chemical-interpretation-matter/) — Core Domains of Chemistry
+- [Analytical Chemistry and the Identification of Matter](../articles/analytical-chemistry-identification-matter/) — Core Domains of Chemistry
+- [Biochemistry and the Molecular Basis of Life](../articles/biochemistry-molecular-basis-life/) — Core Domains of Chemistry
+- [Chemical Biology and Molecular Intervention in Living Systems](../articles/chemical-biology-molecular-intervention-living-systems/) — Core Domains of Chemistry
+- [Computational Chemistry and Molecular Modeling](../articles/computational-chemistry-molecular-modeling/) — Computational, Theoretical, and Data-Driven Chemistry
+- [Quantum Chemistry and Electronic Structure](../articles/quantum-chemistry-electronic-structure/) — Computational, Theoretical, and Data-Driven Chemistry
+- [Molecular Dynamics and Chemical Simulation](../articles/molecular-dynamics-chemical-simulation/) — Computational, Theoretical, and Data-Driven Chemistry
+- [Cheminformatics and Molecular Data Science](../articles/cheminformatics-molecular-data-science/) — Computational, Theoretical, and Data-Driven Chemistry
+- [Python for Chemistry, Simulation, and Laboratory Data](../articles/python-chemistry-simulation-laboratory-data/) — Computational, Theoretical, and Data-Driven Chemistry
+- [R for Chemistry, Statistics, and Experimental Analysis](../articles/r-chemistry-statistics-experimental-analysis/) — Computational, Theoretical, and Data-Driven Chemistry
+- [Computational Notebooks and Reproducible Chemical Research](../articles/computational-notebooks-reproducible-chemical-research/) — Computational, Theoretical, and Data-Driven Chemistry
+- [Spectroscopy and the Measurement of Molecular Structure](../articles/spectroscopy-measurement-molecular-structure/) — Measurement, Instrumentation, and Chemical Evidence
+- [Chromatography, Separation Science, and Chemical Identification](../articles/chromatography-separation-science-chemical-identification/) — Measurement, Instrumentation, and Chemical Evidence
+- [Mass Spectrometry and Molecular Detection](../articles/mass-spectrometry-molecular-detection/) — Measurement, Instrumentation, and Chemical Evidence
+- [Electroanalytical Chemistry and Chemical Sensors](../articles/electroanalytical-chemistry-chemical-sensors/) — Measurement, Instrumentation, and Chemical Evidence
+- [Laboratory Automation, Chemical Data, and Instrument Workflows](../articles/laboratory-automation-chemical-data-instrument-workflows/) — Measurement, Instrumentation, and Chemical Evidence
+- [Materials Chemistry and the Design of Function](../articles/materials-chemistry-design-function/) — Matter, Materials, and Applied Chemical Systems
+- [Polymer Chemistry and Macromolecular Materials](../articles/polymer-chemistry-macromolecular-materials/) — Matter, Materials, and Applied Chemical Systems
+- [Surface Chemistry, Interfaces, and Catalysis](../articles/surface-chemistry-interfaces-catalysis/) — Matter, Materials, and Applied Chemical Systems
+- [Nanochemistry and Molecular-Scale Materials](../articles/nanochemistry-molecular-scale-materials/) — Matter, Materials, and Applied Chemical Systems
+- [Colloids, Soft Matter, and Complex Fluids](../articles/colloids-soft-matter-complex-fluids/) — Matter, Materials, and Applied Chemical Systems
+- [Semiconductor, Electronic, and Photochemical Materials](../articles/semiconductor-electronic-photochemical-materials/) — Matter, Materials, and Applied Chemical Systems
+- [Electrochemistry, Batteries, and Energy Storage](../articles/electrochemistry-batteries-energy-storage/) — Matter, Materials, and Applied Chemical Systems
+- [Industrial Chemistry and the Transformation of Scale](../articles/industrial-chemistry-transformation-scale/) — Matter, Materials, and Applied Chemical Systems
+- [Environmental Chemistry and the Chemical Conditions of Habitability](../articles/environmental-chemistry-chemical-conditions-habitability/) — Chemistry and the Earth System
+- [Atmospheric Chemistry and Climate Processes](../articles/atmospheric-chemistry-climate-processes/) — Chemistry and the Earth System
+- [Water Chemistry and Environmental Monitoring](../articles/water-chemistry-environmental-monitoring/) — Chemistry and the Earth System
+- [Soil Chemistry, Nutrient Cycles, and Land Systems](../articles/soil-chemistry-nutrient-cycles-land-systems/) — Chemistry and the Earth System
+- [Geochemistry and the Chemical History of Earth](../articles/geochemistry-chemical-history-earth/) — Chemistry and the Earth System
+- [Ocean Chemistry and the Carbonate System](../articles/ocean-chemistry-carbonate-system/) — Chemistry and the Earth System
+- [Astrochemistry and the Molecular Universe](../articles/astrochemistry-molecular-universe/) — Chemistry and the Earth System
+- [Medicinal Chemistry and Drug Discovery](../articles/medicinal-chemistry-drug-discovery/) — Chemistry in Human Knowledge and Practice
+- [Toxicology, Exposure, and Chemical Risk](../articles/toxicology-exposure-chemical-risk/) — Chemistry in Human Knowledge and Practice
+- [Food Chemistry and the Molecular Basis of Nutrition](../articles/food-chemistry-molecular-basis-nutrition/) — Chemistry in Human Knowledge and Practice
+- [Green Chemistry, Responsibility, and Sustainable Transformation](../articles/green-chemistry-responsibility-sustainable-transformation/) — Chemistry in Human Knowledge and Practice
+- [Circular Chemistry, Waste, and Material Futures](../articles/circular-chemistry-waste-material-futures/) — Chemistry in Human Knowledge and Practice
+- [Chemistry, Classification, and the Human Understanding of Matter](../articles/chemistry-classification-human-understanding-matter/) — Chemistry in Human Knowledge and Practice
+- [Chemistry, Ethics, and the Governance of Molecular Power](../articles/chemistry-ethics-governance-molecular-power/) — Chemistry in Human Knowledge and Practice

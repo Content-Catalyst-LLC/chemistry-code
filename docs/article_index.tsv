@@ -1,0 +1,60 @@
+slug	title	section	status
+what-is-chemistry	What Is Chemistry?	Foundations of Chemistry	planned
+chemical-revolution-rise-modern-chemistry	The Chemical Revolution and the Rise of Modern Chemistry	Foundations of Chemistry	planned
+measurement-quantification-experimental-basis-chemistry	Measurement, Quantification, and the Experimental Basis of Chemistry	Foundations of Chemistry	planned
+chemical-metrology-standards-reference-materials	Chemical Metrology, Standards, and Reference Materials	Foundations of Chemistry	planned
+mathematics-chemistry-molecular-systems	Mathematics for Chemistry and Molecular Systems	Foundations of Chemistry	planned
+atoms-elements-periodic-organization-matter	Atoms, Elements, and the Periodic Organization of Matter	Atomic and Molecular Structure	planned
+electronic-structure-quantum-foundations-chemistry	Electronic Structure and the Quantum Foundations of Chemistry	Atomic and Molecular Structure	planned
+chemical-bonding-molecular-structure	Chemical Bonding and Molecular Structure	Atomic and Molecular Structure	planned
+periodic-table-logic-chemical-classification	The Periodic Table and the Logic of Chemical Classification	Atomic and Molecular Structure	planned
+molecular-geometry-symmetry-structure	Molecular Geometry, Symmetry, and Structure	Atomic and Molecular Structure	planned
+intermolecular-forces-chemistry-condensed-matter	Intermolecular Forces and the Chemistry of Condensed Matter	Atomic and Molecular Structure	planned
+stoichiometry-quantitative-language-reactions	Stoichiometry and the Quantitative Language of Reactions	Chemical Change and Reaction	planned
+chemical-thermodynamics-energetics	Chemical Thermodynamics and Energetics	Chemical Change and Reaction	planned
+chemical-kinetics-reaction-mechanisms	Chemical Kinetics and Reaction Mechanisms	Chemical Change and Reaction	planned
+equilibrium-dynamics-reversible-systems	Equilibrium and the Dynamics of Reversible Systems	Chemical Change and Reaction	planned
+acids-bases-proton-transfer	Acids, Bases, and Proton Transfer	Chemical Change and Reaction	planned
+oxidation-reduction-electron-transfer	Oxidation, Reduction, and Electron Transfer	Chemical Change and Reaction	planned
+catalysis-control-chemical-pathways	Catalysis and the Control of Chemical Pathways	Chemical Change and Reaction	planned
+reaction-networks-chemical-systems-modeling	Reaction Networks and Chemical Systems Modeling	Chemical Change and Reaction	planned
+organic-chemistry-carbon-based-structure	Organic Chemistry and Carbon-Based Structure	Core Domains of Chemistry	planned
+inorganic-chemistry-diversity-non-carbon-systems	Inorganic Chemistry and the Diversity of Non-Carbon Systems	Core Domains of Chemistry	planned
+physical-chemistry-chemical-interpretation-matter	Physical Chemistry and the Chemical Interpretation of Matter	Core Domains of Chemistry	planned
+analytical-chemistry-identification-matter	Analytical Chemistry and the Identification of Matter	Core Domains of Chemistry	planned
+biochemistry-molecular-basis-life	Biochemistry and the Molecular Basis of Life	Core Domains of Chemistry	planned
+chemical-biology-molecular-intervention-living-systems	Chemical Biology and Molecular Intervention in Living Systems	Core Domains of Chemistry	planned
+computational-chemistry-molecular-modeling	Computational Chemistry and Molecular Modeling	Computational, Theoretical, and Data-Driven Chemistry	planned
+quantum-chemistry-electronic-structure	Quantum Chemistry and Electronic Structure	Computational, Theoretical, and Data-Driven Chemistry	planned
+molecular-dynamics-chemical-simulation	Molecular Dynamics and Chemical Simulation	Computational, Theoretical, and Data-Driven Chemistry	planned
+cheminformatics-molecular-data-science	Cheminformatics and Molecular Data Science	Computational, Theoretical, and Data-Driven Chemistry	planned
+python-chemistry-simulation-laboratory-data	Python for Chemistry, Simulation, and Laboratory Data	Computational, Theoretical, and Data-Driven Chemistry	planned
+r-chemistry-statistics-experimental-analysis	R for Chemistry, Statistics, and Experimental Analysis	Computational, Theoretical, and Data-Driven Chemistry	planned
+computational-notebooks-reproducible-chemical-research	Computational Notebooks and Reproducible Chemical Research	Computational, Theoretical, and Data-Driven Chemistry	planned
+spectroscopy-measurement-molecular-structure	Spectroscopy and the Measurement of Molecular Structure	Measurement, Instrumentation, and Chemical Evidence	planned
+chromatography-separation-science-chemical-identification	Chromatography, Separation Science, and Chemical Identification	Measurement, Instrumentation, and Chemical Evidence	planned
+mass-spectrometry-molecular-detection	Mass Spectrometry and Molecular Detection	Measurement, Instrumentation, and Chemical Evidence	planned
+electroanalytical-chemistry-chemical-sensors	Electroanalytical Chemistry and Chemical Sensors	Measurement, Instrumentation, and Chemical Evidence	planned
+laboratory-automation-chemical-data-instrument-workflows	Laboratory Automation, Chemical Data, and Instrument Workflows	Measurement, Instrumentation, and Chemical Evidence	planned
+materials-chemistry-design-function	Materials Chemistry and the Design of Function	Matter, Materials, and Applied Chemical Systems	planned
+polymer-chemistry-macromolecular-materials	Polymer Chemistry and Macromolecular Materials	Matter, Materials, and Applied Chemical Systems	planned
+surface-chemistry-interfaces-catalysis	Surface Chemistry, Interfaces, and Catalysis	Matter, Materials, and Applied Chemical Systems	planned
+nanochemistry-molecular-scale-materials	Nanochemistry and Molecular-Scale Materials	Matter, Materials, and Applied Chemical Systems	planned
+colloids-soft-matter-complex-fluids	Colloids, Soft Matter, and Complex Fluids	Matter, Materials, and Applied Chemical Systems	planned
+semiconductor-electronic-photochemical-materials	Semiconductor, Electronic, and Photochemical Materials	Matter, Materials, and Applied Chemical Systems	planned
+electrochemistry-batteries-energy-storage	Electrochemistry, Batteries, and Energy Storage	Matter, Materials, and Applied Chemical Systems	planned
+industrial-chemistry-transformation-scale	Industrial Chemistry and the Transformation of Scale	Matter, Materials, and Applied Chemical Systems	planned
+environmental-chemistry-chemical-conditions-habitability	Environmental Chemistry and the Chemical Conditions of Habitability	Chemistry and the Earth System	planned
+atmospheric-chemistry-climate-processes	Atmospheric Chemistry and Climate Processes	Chemistry and the Earth System	planned
+water-chemistry-environmental-monitoring	Water Chemistry and Environmental Monitoring	Chemistry and the Earth System	planned
+soil-chemistry-nutrient-cycles-land-systems	Soil Chemistry, Nutrient Cycles, and Land Systems	Chemistry and the Earth System	planned
+geochemistry-chemical-history-earth	Geochemistry and the Chemical History of Earth	Chemistry and the Earth System	planned
+ocean-chemistry-carbonate-system	Ocean Chemistry and the Carbonate System	Chemistry and the Earth System	planned
+astrochemistry-molecular-universe	Astrochemistry and the Molecular Universe	Chemistry and the Earth System	planned
+medicinal-chemistry-drug-discovery	Medicinal Chemistry and Drug Discovery	Chemistry in Human Knowledge and Practice	planned
+toxicology-exposure-chemical-risk	Toxicology, Exposure, and Chemical Risk	Chemistry in Human Knowledge and Practice	planned
+food-chemistry-molecular-basis-nutrition	Food Chemistry and the Molecular Basis of Nutrition	Chemistry in Human Knowledge and Practice	planned
+green-chemistry-responsibility-sustainable-transformation	Green Chemistry, Responsibility, and Sustainable Transformation	Chemistry in Human Knowledge and Practice	planned
+circular-chemistry-waste-material-futures	Circular Chemistry, Waste, and Material Futures	Chemistry in Human Knowledge and Practice	planned
+chemistry-classification-human-understanding-matter	Chemistry, Classification, and the Human Understanding of Matter	Chemistry in Human Knowledge and Practice	planned
+chemistry-ethics-governance-molecular-power	Chemistry, Ethics, and the Governance of Molecular Power	Chemistry in Human Knowledge and Practice	planned
