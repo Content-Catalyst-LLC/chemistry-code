@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,mass_volume_concentration,mass_volume_concentration.csv,python/01_mass_volume_concentration.py,outputs/tables/mass_volume_concentration.csv,Calculate moles and molarity
+2,calibration_curve,calibration_curve.csv;unknown_samples.csv,python/02_calibration_curve.py,outputs/tables/calibration_estimates.csv,Fit linear calibration and estimate unknown concentrations
+3,replicate_uncertainty,replicate_measurements.csv,python/03_replicate_uncertainty.py,outputs/tables/replicate_uncertainty.csv,Calculate mean standard deviation RSD and expanded uncertainty
+4,dilution_workflow,dilution_plan.csv,python/04_dilution_workflow.py,outputs/tables/dilution_plan_calculated.csv,Calculate stock volumes for dilution plans
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,mass_volume_concentration.csv;calibration_estimates.csv;replicate_uncertainty.csv;dilution_plan_calculated.csv,python/06_generate_measurement_report.py,outputs/reports/measurement_quantification_report.md,Generate report

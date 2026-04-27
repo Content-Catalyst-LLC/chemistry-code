@@ -1,0 +1,5 @@
+record_id,sample,instrument,method,unit,standard_reference,operator_note
+1,S1,balance_A,mass_measurement,g,traceable_mass_set,synthetic_example
+2,S1,volumetric_flask_A,solution_preparation,L,class_A_glassware,synthetic_example
+3,std_1,spectrometer_A,calibration_response,absorbance,synthetic_standard_series,synthetic_example
+4,unknown_A,spectrometer_A,unknown_response,absorbance,synthetic_standard_series,synthetic_example

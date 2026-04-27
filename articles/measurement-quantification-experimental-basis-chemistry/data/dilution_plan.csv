@@ -1,0 +1,5 @@
+solution,stock_concentration_mol_l,target_concentration_mol_l,final_volume_ml
+A,1.0,0.10,100
+B,0.5,0.05,250
+C,2.0,0.25,50
+D,1.5,0.15,200

@@ -1,0 +1,7 @@
+standard_id,concentration_mol_l,instrument_response
+blank,0.00,0.003
+std_1,0.02,0.118
+std_2,0.04,0.231
+std_3,0.06,0.351
+std_4,0.08,0.462
+std_5,0.10,0.579
