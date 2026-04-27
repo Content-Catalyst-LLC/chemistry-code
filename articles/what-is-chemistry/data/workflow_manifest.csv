@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,moles_molarity_dilution,intro_chemistry_examples.csv,python/01_moles_molarity_dilution.py,outputs/tables/moles_molarity_dilution.csv,Calculate moles and molarity
+2,first_order_kinetics,kinetics_examples.csv,python/02_first_order_kinetics.py,outputs/tables/first_order_kinetics.csv,Simulate first-order kinetics
+3,beer_lambert_calibration,beer_lambert_calibration.csv,python/03_beer_lambert_calibration.py,outputs/tables/beer_lambert_fit.csv,Fit Beer-Lambert calibration
+4,ph_calculations,ph_examples.csv,python/04_ph_calculations.py,outputs/tables/ph_calculations.csv,Calculate simplified pH values
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,moles_molarity_dilution.csv;first_order_kinetics.csv;beer_lambert_fit.csv;ph_calculations.csv,python/06_generate_chemistry_report.py,outputs/reports/what_is_chemistry_report.md,Generate report
