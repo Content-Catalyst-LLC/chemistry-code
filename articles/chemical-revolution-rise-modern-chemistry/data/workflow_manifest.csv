@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,mass_conservation,mass_conservation_examples.csv,python/01_mass_conservation.py,outputs/tables/mass_conservation.csv,Check conservation of mass examples
+2,oxidation_mass_gain,oxidation_mass_gain.csv,python/02_oxidation_mass_gain.py,outputs/tables/oxidation_mass_gain.csv,Calculate oxidation mass gain and oxygen fraction
+3,combustion_stoichiometry,combustion_stoichiometry.csv,python/03_combustion_stoichiometry.py,outputs/tables/combustion_stoichiometry.csv,Calculate simplified carbon combustion stoichiometry
+4,nomenclature_mapping,nomenclature_mapping.csv,python/04_nomenclature_mapping.py,outputs/tables/nomenclature_mapping.csv,Create historical-to-modern nomenclature map
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,mass_conservation.csv;oxidation_mass_gain.csv;combustion_stoichiometry.csv;nomenclature_mapping.csv,python/06_generate_chemical_revolution_report.py,outputs/reports/chemical_revolution_report.md,Generate report

@@ -1,0 +1,4 @@
+reaction,carbon_moles,oxygen_moles_required,carbon_dioxide_moles_produced
+carbon_combustion,1.0,1.0,1.0
+carbon_combustion_half_mole,0.5,0.5,0.5
+carbon_combustion_two_moles,2.0,2.0,2.0

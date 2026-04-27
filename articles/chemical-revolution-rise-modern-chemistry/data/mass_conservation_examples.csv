@@ -1,0 +1,5 @@
+reaction,reactant_mass_g,product_mass_g,system_type
+carbon_combustion_closed,44.0,44.0,closed
+magnesium_oxidation_closed,40.3,40.3,closed
+water_formation_closed,36.0,36.0,closed
+apparent_open_combustion,12.0,44.0,open_environment_includes_oxygen
