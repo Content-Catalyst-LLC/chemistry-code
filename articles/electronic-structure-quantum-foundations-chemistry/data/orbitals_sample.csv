@@ -1,0 +1,5 @@
+subshell,l,label
+s,0,spherical
+p,1,directional
+d,2,complex angular
+f,3,high angular complexity

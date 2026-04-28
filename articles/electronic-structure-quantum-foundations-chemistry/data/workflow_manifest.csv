@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,hydrogen_energy_levels,constants.csv,python/01_hydrogen_energy_levels.py,outputs/tables/hydrogen_energy_levels.csv,Calculate hydrogen-like energy levels and transitions
+2,orbital_capacity_and_configuration,orbitals_sample.csv;electron_configurations_sample.csv;effective_nuclear_charge_sample.csv,python/02_orbital_capacity_and_configuration.py,outputs/tables/orbital_capacity_and_configuration.csv,Summarize orbital capacities configurations and effective nuclear charge
+3,particle_in_box,constants.csv;particle_box_examples.csv,python/03_particle_in_box.py,outputs/tables/particle_in_box_levels.csv,Calculate particle-in-a-box energy levels
+4,hamiltonian_eigenproblem,hamiltonian_matrices.csv,python/04_hamiltonian_eigenproblem.py,outputs/tables/hamiltonian_eigenvalues.csv,Calculate eigenvalues for small Hamiltonian-style matrices
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,hydrogen_energy_levels.csv;orbital_capacity_and_configuration.csv;particle_in_box_levels.csv;hamiltonian_eigenvalues.csv,python/06_generate_electronic_structure_report.py,outputs/reports/electronic_structure_report.md,Generate report

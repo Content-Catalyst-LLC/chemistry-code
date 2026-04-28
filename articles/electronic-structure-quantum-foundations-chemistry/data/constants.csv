@@ -1,0 +1,6 @@
+constant,symbol,value,unit
+Planck constant,h,6.62607015e-34,J s
+speed of light,c,299792458,m/s
+elementary charge,e,1.602176634e-19,C
+electron mass,m_e,9.1093837139e-31,kg
+hydrogen ground energy,E1,-13.6,eV
