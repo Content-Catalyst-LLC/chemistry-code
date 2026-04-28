@@ -1,0 +1,4 @@
+case_id,reaction_id,available_a_mol,available_b_mol,actual_yield_g
+case_001,water_synthesis,4.00,1.50,45.00
+case_002,ammonia_synthesis,2.00,5.00,50.00
+case_003,carbon_dioxide_formation,3.00,2.20,82.00

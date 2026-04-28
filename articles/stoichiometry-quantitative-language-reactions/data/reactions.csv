@@ -1,0 +1,5 @@
+reaction_id,equation,reactant_a,coefficient_a,reactant_b,coefficient_b,product,coefficient_product,product_molar_mass_g_mol
+water_synthesis,2 H2 + O2 -> 2 H2O,H2,2,O2,1,H2O,2,18.01528
+ammonia_synthesis,N2 + 3 H2 -> 2 NH3,N2,1,H2,3,NH3,2,17.03052
+carbon_dioxide_formation,C + O2 -> CO2,C,1,O2,1,CO2,1,44.00950
+calcium_carbonate_decomposition,CaCO3 -> CaO + CO2,CaCO3,1,,0,CO2,1,44.00950

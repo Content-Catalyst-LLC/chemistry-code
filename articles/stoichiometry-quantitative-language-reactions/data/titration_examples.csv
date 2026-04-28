@@ -1,0 +1,4 @@
+case_id,analyte_name,titrant_name,analyte_coefficient,titrant_coefficient,titrant_concentration_mol_l,titrant_volume_l,analyte_volume_l
+acid_base_001,HCl,NaOH,1,1,0.1000,0.02340,0.02500
+diprotic_001,H2SO4,NaOH,1,2,0.1000,0.03000,0.02500
+redox_001,Fe2+,MnO4-,5,1,0.0200,0.01800,0.02500

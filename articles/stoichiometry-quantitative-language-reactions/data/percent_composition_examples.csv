@@ -1,0 +1,6 @@
+case_id,element,percent_mass,atomic_mass_g_mol
+glucose_like,C,40.00,12.011
+glucose_like,H,6.71,1.008
+glucose_like,O,53.29,15.999
+hydrocarbon_like,C,85.63,12.011
+hydrocarbon_like,H,14.37,1.008

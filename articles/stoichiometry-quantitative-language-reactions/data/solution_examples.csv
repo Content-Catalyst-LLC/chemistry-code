@@ -1,0 +1,4 @@
+case_id,calculation_type,stock_concentration_mol_l,target_concentration_mol_l,target_volume_l
+dilution_001,dilution,1.000,0.100,0.250
+dilution_002,dilution,2.000,0.250,0.100
+dilution_003,dilution,0.500,0.050,0.500

@@ -1,0 +1,3 @@
+case_id,reaction_id,gas_species,pressure_atm,volume_l,temperature_k,coefficient_gas,coefficient_target,target_species
+gas_001,water_synthesis,O2,1.000,2.500,298.15,1,2,H2O
+gas_002,ammonia_synthesis,N2,1.000,5.000,298.15,1,2,NH3

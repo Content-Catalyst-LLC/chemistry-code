@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,limiting_reagent_yield,reactions.csv;limiting_reagent_examples.csv,python/01_limiting_reagent_yield.py,outputs/tables/limiting_reagent_yield.csv,Calculate limiting reagent theoretical yield and percent yield
+2,solution_titration_gas,solution_examples.csv;titration_examples.csv;gas_stoichiometry_examples.csv,python/02_solution_titration_gas.py,outputs/tables/solution_titration_gas.csv,Calculate dilution titration and gas stoichiometry examples
+3,empirical_formula_combustion,percent_composition_examples.csv;combustion_analysis_examples.csv,python/03_empirical_formula_combustion.py,outputs/tables/empirical_formula_combustion.csv,Infer empirical formula ratios and combustion analysis scaffold
+4,reaction_extent_balances,reaction_extent_examples.csv,python/04_reaction_extent_balances.py,outputs/tables/reaction_extent_balances.csv,Calculate final amounts from reaction extent
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,limiting_reagent_yield.csv;solution_titration_gas.csv;empirical_formula_combustion.csv;reaction_extent_balances.csv,python/06_generate_stoichiometry_report.py,outputs/reports/stoichiometry_report.md,Generate report

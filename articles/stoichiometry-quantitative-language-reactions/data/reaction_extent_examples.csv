@@ -1,0 +1,7 @@
+case_id,species,initial_mol,stoichiometric_number,extent_mol
+water_extent,H2,4.00,-2,1.50
+water_extent,O2,1.50,-1,1.50
+water_extent,H2O,0.00,2,1.50
+ammonia_extent,N2,2.00,-1,1.50
+ammonia_extent,H2,5.00,-3,1.50
+ammonia_extent,NH3,0.00,2,1.50

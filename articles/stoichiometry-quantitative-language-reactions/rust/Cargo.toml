@@ -1,0 +1,6 @@
+[package]
+name = "stoichiometry_quantitative_language_reactions"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
