@@ -1,0 +1,5 @@
+case_id,E_standard_V,electrons_transferred,temperature_K,reaction_quotient
+standard_like,1.10,2,298.15,1.0
+product_rich,1.10,2,298.15,100.0
+reactant_rich,1.10,2,298.15,0.01
+high_temperature,1.10,2,320.00,10.0

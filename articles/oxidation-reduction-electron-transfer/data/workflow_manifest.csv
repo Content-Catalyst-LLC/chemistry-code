@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,cell_potential_gibbs,cell_potential_cases.csv,python/01_cell_potential_gibbs.py,outputs/tables/cell_potential_gibbs.csv,Calculate standard cell potential Gibbs free energy and equilibrium constants
+2,nernst_equation,nernst_cases.csv,python/02_nernst_equation.py,outputs/tables/nernst_equation.csv,Calculate redox potentials under nonstandard reaction quotients
+3,redox_titration,redox_titration_cases.csv,python/03_redox_titration.py,outputs/tables/redox_titration.csv,Calculate redox titration electron equivalence
+4,ph_corrosion_redox,ph_redox_cases.csv;corrosion_pairs.csv,python/04_ph_corrosion_redox.py,outputs/tables/ph_corrosion_redox.csv,Generate pH dependent redox and galvanic corrosion scaffolds
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,cell_potential_gibbs.csv;nernst_equation.csv;redox_titration.csv;ph_corrosion_redox.csv,python/06_generate_redox_report.py,outputs/reports/redox_report.md,Generate report

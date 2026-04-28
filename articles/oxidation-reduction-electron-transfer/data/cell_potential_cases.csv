@@ -1,0 +1,5 @@
+case_id,cell,E_cathode_V,E_anode_V,electrons_transferred
+cell_001,zinc_copper_demo,0.34,-0.76,2
+cell_002,iron_copper_demo,0.34,-0.44,2
+cell_003,hydrogen_copper_demo,0.34,0.00,2
+cell_004,silver_zinc_demo,0.80,-0.76,2

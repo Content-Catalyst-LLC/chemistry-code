@@ -1,23 +1,26 @@
 # Oxidation, Reduction, and Electron Transfer
 
-Section: Chemical Change and Reaction
-
-This folder will support the Chemistry knowledge-series article:
+This article repository supports the Chemistry knowledge-series article:
 
 Oxidation, Reduction, and Electron Transfer
 
-The folder is prepared for reproducible computational chemistry workflows, synthetic datasets, documentation, notebooks, SQL metadata, and full-stack examples where useful.
+The repository provides reproducible computational scaffolding for redox chemistry, including oxidation-state accounting, redox half-reaction concepts, standard cell potential calculations, Gibbs free energy from electrochemical potential, Nernst equation modeling, pH-dependent redox scaffolds, redox titration electron-equivalence calculations, corrosion-risk examples, SQL-backed metadata, notebook scaffolding, and cross-language examples in Python, R, Julia, Fortran, Rust, Go, C, and C++.
 
-## Suggested workflow types
+No university affiliation is implied by this repository. The design goal is advanced reproducible computational rigor: clear assumptions, transparent calculations, synthetic educational data, provenance records, responsible-use notes, and reusable scientific workflow structure.
 
-- chemical data analysis
-- stoichiometric and thermodynamic calculations
-- kinetics and reaction-network modeling
-- spectroscopy or chromatography data workflows
-- molecular modeling or cheminformatics examples
-- environmental chemistry or toxicology examples
-- reproducible metadata and provenance examples
+## Scientific Focus
 
-## Responsible-use note
+The workflows demonstrate:
 
-This folder is educational and methodological scaffolding. It is not a substitute for laboratory validation, safety review, regulatory compliance, chemical risk assessment, or professional chemical practice.
+1. Oxidation and reduction half-reaction accounting.
+2. Standard cell potential from reduction potentials.
+3. Gibbs free energy from electron count and cell potential.
+4. Nernst equation calculations under nonstandard conditions.
+5. Equilibrium constants from standard cell potentials.
+6. Redox titration electron-equivalence calculations.
+7. pH-dependent redox potential scaffolds.
+8. Corrosion and galvanic potential examples.
+9. SQL-backed redox metadata.
+10. Cross-language numerical reproducibility.
+
+These examples are educational and methodological scaffolds. They are not laboratory protocols, battery safety models, corrosion-engineering tools, environmental compliance systems, industrial process controls, medical tools, or substitutes for professional chemical practice.

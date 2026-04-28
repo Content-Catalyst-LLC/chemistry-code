@@ -1,0 +1,5 @@
+case_id,metal_a,E_reduction_a_V,metal_b,E_reduction_b_V
+zinc_copper,Zn2+/Zn,-0.76,Cu2+/Cu,0.34
+iron_copper,Fe2+/Fe,-0.44,Cu2+/Cu,0.34
+magnesium_iron,Mg2+/Mg,-2.37,Fe2+/Fe,-0.44
+aluminum_copper,Al3+/Al,-1.66,Cu2+/Cu,0.34

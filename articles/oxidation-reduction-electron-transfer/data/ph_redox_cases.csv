@@ -1,0 +1,4 @@
+case_id,E_standard_V,electrons_transferred,protons_transferred,temperature_K,pH_min,pH_max,pH_step
+oxygen_like,1.23,4,4,298.15,0,14,1
+manganese_like,1.51,5,8,298.15,0,14,1
+generic_two_electron,0.80,2,2,298.15,0,14,1
