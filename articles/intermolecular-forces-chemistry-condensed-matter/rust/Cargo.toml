@@ -1,0 +1,6 @@
+[package]
+name = "intermolecular_forces_condensed_matter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

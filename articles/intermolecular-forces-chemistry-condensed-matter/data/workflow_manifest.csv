@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,lennard_jones_potential,pair_potential_parameters.csv,python/01_lennard_jones_potential.py,outputs/tables/lennard_jones_potentials.csv,Calculate LJ potential curves and minima
+2,vapor_pressure_fit,vapor_pressure_sample.csv,python/02_vapor_pressure_fit.py,outputs/tables/vapor_pressure_fit.csv,Fit Clausius-Clapeyron-style relation
+3,radial_distribution_scaffold,particle_coordinates.csv,python/03_radial_distribution_scaffold.py,outputs/tables/radial_distribution_scaffold.csv,Create pair-distance histogram scaffold
+4,phase_property_summary,phase_properties_sample.csv;surface_tension_sample.csv,python/04_phase_property_summary.py,outputs/tables/phase_property_summary.csv,Summarize condensed-matter property tables
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,lennard_jones_potentials.csv;vapor_pressure_fit.csv;radial_distribution_scaffold.csv;phase_property_summary.csv,python/06_generate_condensed_matter_report.py,outputs/reports/intermolecular_forces_report.md,Generate report

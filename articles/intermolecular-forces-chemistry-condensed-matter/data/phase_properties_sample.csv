@@ -1,0 +1,6 @@
+substance,molecular_mass_g_mol,dominant_interaction,phase_at_room_conditions,boiling_point_C,melting_point_C
+water,18.015,hydrogen bonding,liquid,100.0,0.0
+methane,16.043,dispersion,gas,-161.5,-182.5
+carbon_dioxide,44.010,dispersion and quadrupolar,gas,-78.5,-56.6
+ethanol,46.069,hydrogen bonding and dispersion,liquid,78.4,-114.1
+iodine,253.808,dispersion,solid,184.3,113.7

@@ -1,0 +1,5 @@
+pair,epsilon_kj_mol,sigma_angstrom,interaction_note
+argon_argon,0.997,3.40,simplified noble gas Lennard-Jones pair
+methane_methane,1.230,3.73,simplified nonpolar molecular pair
+carbon_dioxide_carbon_dioxide,1.650,3.90,simplified quadrupolar molecule represented with LJ scaffold
+water_oxygen_water_oxygen,0.650,3.15,simplified water oxygen site scaffold
