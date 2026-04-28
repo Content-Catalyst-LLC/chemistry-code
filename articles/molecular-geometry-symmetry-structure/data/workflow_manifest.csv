@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,distance_matrix_and_angles,molecular_coordinates.csv;bonds_sample.csv;angle_definitions.csv,python/01_distance_matrix_and_angles.py,outputs/tables/distance_matrix_and_angles.csv,Calculate bond distances distance matrices and bond angles
+2,centers_and_extents,molecular_coordinates.csv,python/02_centers_and_extents.py,outputs/tables/centers_and_extents.csv,Calculate centers of geometry mass and molecular extents
+3,rotation_and_symmetry,symmetry_operations_sample.csv,python/03_rotation_and_symmetry_operation.py,outputs/tables/rotation_and_symmetry_operation.csv,Apply rotation matrices as simple symmetry-operation examples
+4,conformer_rmsd_and_torsion,conformer_coordinates.csv;vsepr_examples.csv,python/04_conformer_rmsd_and_torsion.py,outputs/tables/conformer_rmsd_and_torsion.csv,Calculate RMSD torsion scaffolding and VSEPR summary
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,distance_matrix_and_angles.csv;centers_and_extents.csv;rotation_and_symmetry_operation.csv;conformer_rmsd_and_torsion.csv,python/06_generate_geometry_report.py,outputs/reports/molecular_geometry_report.md,Generate report

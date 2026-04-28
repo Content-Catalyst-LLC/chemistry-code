@@ -1,0 +1,5 @@
+molecule,atom_a,atom_b,atom_c,angle_name
+water,H1,O,H2,H-O-H
+carbon_dioxide,O1,C,O2,O-C-O
+ammonia,H1,N,H2,H-N-H
+methane,H1,C,H2,H-C-H

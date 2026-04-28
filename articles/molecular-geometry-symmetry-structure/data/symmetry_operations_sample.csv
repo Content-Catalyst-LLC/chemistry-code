@@ -1,0 +1,6 @@
+operation_name,operation_type,angle_degrees,axis
+identity,identity,0,none
+c2_z,rotation,180,z
+c3_z,rotation,120,z
+c4_z,rotation,90,z
+mirror_xy,reflection,0,xy_plane

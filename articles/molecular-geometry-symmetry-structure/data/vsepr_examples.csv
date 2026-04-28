@@ -1,0 +1,8 @@
+molecule,central_atom,bonding_domains,lone_pair_domains,electron_domain_geometry,molecular_geometry,approx_point_group
+CO2,C,2,0,linear,linear,Dinfh
+BF3,B,3,0,trigonal planar,trigonal planar,D3h
+CH4,C,4,0,tetrahedral,tetrahedral,Td
+NH3,N,3,1,tetrahedral,trigonal pyramidal,C3v
+H2O,O,2,2,tetrahedral,bent,C2v
+PCl5,P,5,0,trigonal bipyramidal,trigonal bipyramidal,D3h
+SF6,S,6,0,octahedral,octahedral,Oh

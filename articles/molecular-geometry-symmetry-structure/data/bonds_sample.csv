@@ -1,0 +1,12 @@
+molecule,atom_i,atom_j,bond_type
+water,O,H1,single
+water,O,H2,single
+carbon_dioxide,C,O1,double
+carbon_dioxide,C,O2,double
+ammonia,N,H1,single
+ammonia,N,H2,single
+ammonia,N,H3,single
+methane,C,H1,single
+methane,C,H2,single
+methane,C,H3,single
+methane,C,H4,single
