@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,reaction_quotient_free_energy,reaction_quotient_cases.csv,python/01_reaction_quotient_free_energy.py,outputs/tables/reaction_quotient_free_energy.csv,Calculate Q compare Q to K and compute Delta G
+2,equilibrium_solver,simple_equilibrium_cases.csv,python/02_equilibrium_solver.py,outputs/tables/equilibrium_solver.csv,Solve simple A reversible B equilibrium from total concentration and K
+3,reversible_dynamics,reversible_dynamics_cases.csv,python/03_reversible_dynamics.py,outputs/tables/reversible_dynamics.csv,Simulate reversible first-order approach to equilibrium
+4,vant_hoff_solubility_activity,vant_hoff_equilibrium.csv;solubility_cases.csv;activity_cases.csv,python/04_vant_hoff_solubility_activity.py,outputs/tables/vant_hoff_solubility_activity.csv,Fit van't Hoff data summarize Ksp and activity scaffolds
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,reaction_quotient_free_energy.csv;equilibrium_solver.csv;reversible_dynamics.csv;vant_hoff_solubility_activity.csv,python/06_generate_equilibrium_report.py,outputs/reports/equilibrium_report.md,Generate report

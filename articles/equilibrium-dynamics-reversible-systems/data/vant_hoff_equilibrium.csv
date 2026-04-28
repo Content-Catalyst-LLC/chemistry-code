@@ -1,0 +1,11 @@
+reaction,temperature_K,K
+synthetic_equilibrium,290,0.42
+synthetic_equilibrium,300,0.60
+synthetic_equilibrium,310,0.83
+synthetic_equilibrium,320,1.10
+synthetic_equilibrium,330,1.42
+exothermic_equilibrium,290,15.0
+exothermic_equilibrium,300,11.2
+exothermic_equilibrium,310,8.6
+exothermic_equilibrium,320,6.7
+exothermic_equilibrium,330,5.4

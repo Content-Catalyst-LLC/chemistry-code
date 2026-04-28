@@ -1,0 +1,5 @@
+case_id,species,concentration_mol_l,activity_coefficient,standard_concentration_mol_l
+ideal_dilute,A,0.010,1.00,1.0
+moderate_nonideal,A,0.100,0.82,1.0
+strong_nonideal,A,1.000,0.55,1.0
+ion_example,Ca2+,0.005,0.42,1.0

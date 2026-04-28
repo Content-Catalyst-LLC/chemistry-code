@@ -1,0 +1,4 @@
+case_id,kf_per_min,kr_per_min,A0_mol_l,B0_mol_l,total_time_min,time_step_min
+dynamic_001,0.20,0.05,1.0,0.0,50,0.25
+dynamic_002,0.08,0.12,1.0,0.0,80,0.50
+dynamic_003,0.30,0.10,0.2,0.8,40,0.25

@@ -1,0 +1,5 @@
+case_id,salt,Ksp,cation_concentration_mol_l,anion_concentration_mol_l,cation_power,anion_power
+calcium_carbonate_below,CaCO3,3.3e-9,2.0e-5,1.0e-4,1,1
+calcium_carbonate_above,CaCO3,3.3e-9,2.0e-4,1.0e-4,1,1
+silver_chloride_near,AgCl,1.8e-10,1.4e-5,1.3e-5,1,1
+magnesium_hydroxide,Mg(OH)2,5.6e-12,1.0e-4,2.0e-4,1,2

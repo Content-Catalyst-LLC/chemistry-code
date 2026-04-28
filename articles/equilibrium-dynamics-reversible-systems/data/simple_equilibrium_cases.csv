@@ -1,0 +1,4 @@
+case_id,reaction,K,total_concentration_mol_l,initial_A_mol_l,initial_B_mol_l
+isomerization_001,A <=> B,4.0,1.0,1.0,0.0
+isomerization_002,A <=> B,0.25,1.0,1.0,0.0
+isomerization_003,A <=> B,1.0,2.0,2.0,0.0

@@ -1,0 +1,5 @@
+case_id,reaction,K,temperature_K,A_mol_l,B_mol_l,C_mol_l,D_mol_l,stoich_A,stoich_B,stoich_C,stoich_D
+reactant_rich,A + B <=> C,12.0,298.15,1.00,1.00,0.20,1.0,1,1,1,0
+near_equilibrium,A + B <=> C,12.0,298.15,0.30,0.30,1.05,1.0,1,1,1,0
+product_rich,A + B <=> C,12.0,298.15,0.05,0.05,1.20,1.0,1,1,1,0
+four_species,A + B <=> C + D,8.0,298.15,0.40,0.60,0.80,1.20,1,1,1,1
