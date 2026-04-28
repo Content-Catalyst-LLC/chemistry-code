@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,bond_geometry,molecular_coordinates.csv;bonds_sample.csv,python/01_bond_geometry.py,outputs/tables/bond_geometry.csv,Calculate bond distances and selected bond angles
+2,bond_polarity,bond_polarity_sample.csv,python/02_bond_polarity.py,outputs/tables/bond_polarity.csv,Classify simplified bond polarity from electronegativity differences
+3,formal_charge_and_bond_order,formal_charge_examples.csv;mo_bond_order_examples.csv,python/03_formal_charge_and_bond_order.py,outputs/tables/formal_charge_and_bond_order.csv,Calculate formal charge and MO bond order
+4,dipole_and_vsepr,molecular_coordinates.csv;vsepr_examples.csv,python/04_dipole_and_vsepr_summary.py,outputs/tables/dipole_and_vsepr_summary.csv,Estimate simple dipoles and summarize VSEPR metadata
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,bond_geometry.csv;bond_polarity.csv;formal_charge_and_bond_order.csv;dipole_and_vsepr_summary.csv,python/06_generate_bonding_report.py,outputs/reports/chemical_bonding_report.md,Generate report

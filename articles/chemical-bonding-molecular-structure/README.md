@@ -1,23 +1,26 @@
 # Chemical Bonding and Molecular Structure
 
-Section: Atomic and Molecular Structure
-
-This folder will support the Chemistry knowledge-series article:
+This article repository supports the Chemistry knowledge-series article:
 
 Chemical Bonding and Molecular Structure
 
-The folder is prepared for reproducible computational chemistry workflows, synthetic datasets, documentation, notebooks, SQL metadata, and full-stack examples where useful.
+The repository provides reproducible computational scaffolding for chemical bonding and molecular structure, including bond distances, bond angles, electronegativity differences, simplified polarity classification, formal charge bookkeeping, molecular-orbital bond order, simple dipole-moment estimation, SQL-backed molecular metadata, notebook scaffolding, and cross-language examples in Python, R, Julia, Fortran, Rust, Go, C, and C++.
 
-## Suggested workflow types
+No university affiliation is implied by this repository. The design goal is advanced reproducible computational rigor: clear assumptions, transparent calculations, synthetic educational data, provenance records, responsible-use notes, and reusable scientific workflow structure.
 
-- chemical data analysis
-- stoichiometric and thermodynamic calculations
-- kinetics and reaction-network modeling
-- spectroscopy or chromatography data workflows
-- molecular modeling or cheminformatics examples
-- environmental chemistry or toxicology examples
-- reproducible metadata and provenance examples
+## Scientific Focus
 
-## Responsible-use note
+The workflows demonstrate:
 
-This folder is educational and methodological scaffolding. It is not a substitute for laboratory validation, safety review, regulatory compliance, chemical risk assessment, or professional chemical practice.
+1. Bond distances from three-dimensional coordinates.
+2. Bond angles from vector operations.
+3. Electronegativity differences and simplified polarity classification.
+4. Formal charge bookkeeping.
+5. Molecular-orbital bond order.
+6. Simple dipole-moment estimation.
+7. VSEPR-style geometry metadata.
+8. SQL-backed bonding and molecular-structure records.
+9. Cross-language numerical reproducibility.
+10. Provenance and workflow documentation.
+
+These examples are educational and methodological scaffolds. They are not laboratory protocols, validated quantum-chemistry packages, chemical safety systems, regulatory tools, molecular design systems, or substitutes for professional chemical practice.

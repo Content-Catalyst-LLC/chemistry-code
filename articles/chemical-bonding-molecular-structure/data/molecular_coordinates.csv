@@ -1,0 +1,11 @@
+molecule,atom,x_angstrom,y_angstrom,z_angstrom,partial_charge
+water,O,0.000,0.000,0.000,-0.84
+water,H1,0.958,0.000,0.000,0.42
+water,H2,-0.239,0.927,0.000,0.42
+carbon_dioxide,C,0.000,0.000,0.000,0.70
+carbon_dioxide,O1,1.160,0.000,0.000,-0.35
+carbon_dioxide,O2,-1.160,0.000,0.000,-0.35
+ammonia,N,0.000,0.000,0.000,-0.90
+ammonia,H1,0.940,0.000,-0.310,0.30
+ammonia,H2,-0.470,0.814,-0.310,0.30
+ammonia,H3,-0.470,-0.814,-0.310,0.30

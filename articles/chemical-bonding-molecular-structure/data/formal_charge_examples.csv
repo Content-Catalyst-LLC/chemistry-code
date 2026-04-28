@@ -1,0 +1,5 @@
+species,atom,valence_electrons,nonbonding_electrons,bonding_electrons
+neutral_oxygen_single_bonded,O,6,6,2
+ammonium_nitrogen,N,5,0,8
+nitrate_single_bonded_oxygen,O,6,6,2
+carbon_dioxide_carbon,C,4,0,8

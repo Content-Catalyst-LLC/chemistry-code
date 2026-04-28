@@ -1,0 +1,8 @@
+molecule,central_atom,bonding_domains,lone_pair_domains,electron_domain_geometry,molecular_geometry
+CO2,C,2,0,linear,linear
+BF3,B,3,0,trigonal planar,trigonal planar
+CH4,C,4,0,tetrahedral,tetrahedral
+NH3,N,3,1,tetrahedral,trigonal pyramidal
+H2O,O,2,2,tetrahedral,bent
+PCl5,P,5,0,trigonal bipyramidal,trigonal bipyramidal
+SF6,S,6,0,octahedral,octahedral

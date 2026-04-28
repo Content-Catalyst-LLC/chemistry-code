@@ -1,0 +1,5 @@
+molecule,bonding_electrons,antibonding_electrons
+H2,2,0
+He2,2,2
+O2_simplified,10,6
+N2_simplified,10,4
