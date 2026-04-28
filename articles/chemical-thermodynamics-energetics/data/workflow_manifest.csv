@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,calorimetry_enthalpy,calorimetry_examples.csv,python/01_calorimetry_enthalpy.py,outputs/tables/calorimetry_enthalpy.csv,Calculate q solution q reaction and molar reaction enthalpy
+2,hess_law_formation_enthalpy,formation_enthalpy_examples.csv,python/02_hess_law_formation_enthalpy.py,outputs/tables/hess_law_formation_enthalpy.csv,Calculate reaction enthalpies from formation enthalpies
+3,gibbs_equilibrium,gibbs_examples.csv,python/03_gibbs_equilibrium.py,outputs/tables/gibbs_equilibrium.csv,Calculate Gibbs free energy equilibrium constants and nonstandard free energy
+4,vant_hoff_phase_coupling,vant_hoff_examples.csv;phase_transition_examples.csv;coupled_reaction_examples.csv,python/04_vant_hoff_phase_coupling.py,outputs/tables/vant_hoff_phase_coupling.csv,Fit van't Hoff data summarize phase transitions and coupled reactions
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,calorimetry_enthalpy.csv;hess_law_formation_enthalpy.csv;gibbs_equilibrium.csv;vant_hoff_phase_coupling.csv,python/06_generate_thermodynamics_report.py,outputs/reports/chemical_thermodynamics_report.md,Generate report

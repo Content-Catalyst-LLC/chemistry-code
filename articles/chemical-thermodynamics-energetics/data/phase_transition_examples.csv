@@ -1,0 +1,5 @@
+substance,transition,temperature_k,delta_h_transition_kj_mol,entropy_change_j_mol_k
+water,vaporization,373.15,40.65,108.94
+water,fusion,273.15,6.01,22.00
+ethanol,vaporization,351.52,38.56,109.69
+carbon_dioxide,sublimation,194.65,25.23,129.62

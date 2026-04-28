@@ -1,0 +1,5 @@
+reaction,delta_h_kj_mol,delta_s_j_mol_k,temperature_k,reaction_quotient
+exergonic_entropy_supported,20.0,120.0,298.15,1.0
+enthalpy_driven,-80.0,-100.0,298.15,1.0
+near_equilibrium,-10.0,-33.5,298.15,1.0
+nonstandard_shift,-25.0,20.0,298.15,50.0

@@ -1,23 +1,27 @@
 # Chemical Thermodynamics and Energetics
 
-Section: Chemical Change and Reaction
-
-This folder will support the Chemistry knowledge-series article:
+This article repository supports the Chemistry knowledge-series article:
 
 Chemical Thermodynamics and Energetics
 
-The folder is prepared for reproducible computational chemistry workflows, synthetic datasets, documentation, notebooks, SQL metadata, and full-stack examples where useful.
+The repository provides reproducible computational scaffolding for chemical thermodynamics and energetics, including calorimetry, reaction enthalpy, Hess's law, Gibbs free energy, equilibrium constants, van 't Hoff fitting, phase-transition energetics, coupled reactions, chemical-potential scaffolding, SQL-backed metadata, notebook scaffolding, and cross-language examples in Python, R, Julia, Fortran, Rust, Go, C, and C++.
 
-## Suggested workflow types
+No university affiliation is implied by this repository. The design goal is advanced reproducible computational rigor: clear assumptions, transparent calculations, synthetic educational data, provenance records, responsible-use notes, and reusable scientific workflow structure.
 
-- chemical data analysis
-- stoichiometric and thermodynamic calculations
-- kinetics and reaction-network modeling
-- spectroscopy or chromatography data workflows
-- molecular modeling or cheminformatics examples
-- environmental chemistry or toxicology examples
-- reproducible metadata and provenance examples
+## Scientific Focus
 
-## Responsible-use note
+The workflows demonstrate:
 
-This folder is educational and methodological scaffolding. It is not a substitute for laboratory validation, safety review, regulatory compliance, chemical risk assessment, or professional chemical practice.
+1. Constant-pressure calorimetry calculations.
+2. Reaction enthalpy from measured thermal change.
+3. Hess's law using standard formation enthalpies.
+4. Gibbs free energy from enthalpy and entropy.
+5. Equilibrium constants from standard Gibbs free energy.
+6. Reaction quotient effects on free energy.
+7. van 't Hoff fitting from temperature-dependent equilibrium data.
+8. Phase-transition energy relationships.
+9. Coupled reaction free-energy accounting.
+10. SQL-backed thermodynamic metadata.
+11. Cross-language numerical reproducibility.
+
+These examples are educational and methodological scaffolds. They are not laboratory protocols, chemical safety systems, validated thermodynamic databases, regulatory tools, industrial process models, or substitutes for professional chemical practice.

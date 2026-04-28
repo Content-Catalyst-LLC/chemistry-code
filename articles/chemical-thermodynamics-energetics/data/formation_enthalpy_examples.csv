@@ -1,0 +1,11 @@
+reaction_id,species,coefficient,delta_h_f_kj_mol,phase
+methane_combustion,CH4,-1,-74.8,g
+methane_combustion,O2,-2,0.0,g
+methane_combustion,CO2,1,-393.5,g
+methane_combustion,H2O_l,2,-285.8,l
+carbon_monoxide_combustion,CO,-2,-110.5,g
+carbon_monoxide_combustion,O2,-1,0.0,g
+carbon_monoxide_combustion,CO2,2,-393.5,g
+ammonia_formation,N2,-1,0.0,g
+ammonia_formation,H2,-3,0.0,g
+ammonia_formation,NH3,2,-46.1,g

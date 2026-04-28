@@ -1,0 +1,6 @@
+reaction,temperature_k,equilibrium_constant
+synthetic_equilibrium,290,0.42
+synthetic_equilibrium,300,0.60
+synthetic_equilibrium,310,0.83
+synthetic_equilibrium,320,1.10
+synthetic_equilibrium,330,1.42

@@ -1,0 +1,7 @@
+coupling_case,step,delta_g_kj_mol
+biosynthesis_coupling,unfavorable_biosynthesis,18.0
+biosynthesis_coupling,atp_hydrolysis_like_step,-30.5
+transport_coupling,unfavorable_transport,12.0
+transport_coupling,ion_gradient_dissipation,-19.0
+redox_coupling,unfavorable_reduction,22.0
+redox_coupling,favorable_oxidation,-35.0
