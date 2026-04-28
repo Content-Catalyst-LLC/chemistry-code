@@ -1,0 +1,8 @@
+rule_id,classification_layer,description
+1,identity,Atomic number defines elemental identity.
+2,position,Group and period locate an element in the periodic table.
+3,block,Block reflects the subshell associated with periodic placement.
+4,family,Family labels summarize recurring chemical behavior.
+5,property,Periodic trends support prediction but include exceptions.
+6,measurement,Atomic weights depend on isotopic composition and evaluated data.
+7,computation,Element descriptors can be represented as structured feature vectors.

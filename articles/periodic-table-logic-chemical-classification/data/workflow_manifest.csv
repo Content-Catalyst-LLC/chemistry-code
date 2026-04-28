@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,periodic_classification,elements_classification.csv,python/01_periodic_classification.py,outputs/tables/periodic_classification_summary.csv,Summarize elements by group period block category and family
+2,periodic_trends,elements_classification.csv,python/02_periodic_trends.py,outputs/tables/periodic_trends.csv,Model simplified periodic trends
+3,element_similarity,elements_classification.csv,python/03_element_similarity.py,outputs/tables/element_similarity.csv,Compute element similarity distances from selected periodic features
+4,atomic_weight_and_features,isotopes_sample.csv;elements_classification.csv,python/04_atomic_weight_and_features.py,outputs/tables/atomic_weight_and_features.csv,Calculate isotope-weighted masses and feature matrix
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,periodic_classification_summary.csv;periodic_trends.csv;element_similarity.csv;atomic_weight_and_features.csv,python/06_generate_periodic_classification_report.py,outputs/reports/periodic_classification_report.md,Generate report
