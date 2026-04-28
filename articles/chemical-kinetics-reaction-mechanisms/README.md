@@ -1,23 +1,26 @@
 # Chemical Kinetics and Reaction Mechanisms
 
-Section: Chemical Change and Reaction
-
-This folder will support the Chemistry knowledge-series article:
+This article repository supports the Chemistry knowledge-series article:
 
 Chemical Kinetics and Reaction Mechanisms
 
-The folder is prepared for reproducible computational chemistry workflows, synthetic datasets, documentation, notebooks, SQL metadata, and full-stack examples where useful.
+The repository provides reproducible computational scaffolding for chemical kinetics and mechanistic analysis, including rate laws, integrated rate-law fitting, Arrhenius analysis, activation-energy estimation, elementary reaction mechanisms, consecutive reaction simulation, steady-state approximation scaffolds, enzyme kinetics, SQL-backed kinetic metadata, notebook scaffolding, and cross-language examples in Python, R, Julia, Fortran, Rust, Go, C, and C++.
 
-## Suggested workflow types
+No university affiliation is implied by this repository. The design goal is advanced reproducible computational rigor: clear assumptions, transparent calculations, synthetic educational data, provenance records, responsible-use notes, and reusable scientific workflow structure.
 
-- chemical data analysis
-- stoichiometric and thermodynamic calculations
-- kinetics and reaction-network modeling
-- spectroscopy or chromatography data workflows
-- molecular modeling or cheminformatics examples
-- environmental chemistry or toxicology examples
-- reproducible metadata and provenance examples
+## Scientific Focus
 
-## Responsible-use note
+The workflows demonstrate:
 
-This folder is educational and methodological scaffolding. It is not a substitute for laboratory validation, safety review, regulatory compliance, chemical risk assessment, or professional chemical practice.
+1. First-order kinetic fitting.
+2. Zero-, first-, and second-order integrated rate-law scaffolds.
+3. Half-life calculations.
+4. Arrhenius activation-energy estimation.
+5. Consecutive reaction simulation.
+6. Steady-state approximation examples.
+7. Michaelis-Menten enzyme kinetics.
+8. Reaction-network ODE scaffolding.
+9. SQL-backed kinetic experiment metadata.
+10. Cross-language numerical reproducibility.
+
+These examples are educational and methodological scaffolds. They are not validated laboratory protocols, chemical safety systems, industrial reactor controls, pharmaceutical stability methods, regulatory tools, or substitutes for professional chemical practice.

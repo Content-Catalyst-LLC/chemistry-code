@@ -1,0 +1,4 @@
+case_id,order,initial_concentration_mol_l,rate_constant,total_time,time_step
+zero_order_example,0,1.0,0.025,30,5
+first_order_example,1,1.0,0.120,30,5
+second_order_example,2,1.0,0.180,30,5

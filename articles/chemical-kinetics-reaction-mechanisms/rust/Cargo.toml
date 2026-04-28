@@ -1,0 +1,6 @@
+[package]
+name = "chemical_kinetics_reaction_mechanisms"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

@@ -1,0 +1,13 @@
+experiment,time_min,concentration_mol_l
+first_order_demo,0,1.000
+first_order_demo,5,0.741
+first_order_demo,10,0.549
+first_order_demo,15,0.407
+first_order_demo,20,0.301
+first_order_demo,25,0.223
+first_order_demo,30,0.165
+slow_first_order_demo,0,1.000
+slow_first_order_demo,10,0.607
+slow_first_order_demo,20,0.368
+slow_first_order_demo,30,0.223
+slow_first_order_demo,40,0.135

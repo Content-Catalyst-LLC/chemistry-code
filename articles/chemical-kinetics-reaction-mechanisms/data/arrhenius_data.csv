@@ -1,0 +1,11 @@
+reaction,temperature_K,rate_constant_s_inv
+synthetic_decomposition,290,0.0012
+synthetic_decomposition,300,0.0021
+synthetic_decomposition,310,0.0037
+synthetic_decomposition,320,0.0063
+synthetic_decomposition,330,0.0104
+surface_reaction,300,0.0008
+surface_reaction,315,0.0019
+surface_reaction,330,0.0042
+surface_reaction,345,0.0085
+surface_reaction,360,0.0158

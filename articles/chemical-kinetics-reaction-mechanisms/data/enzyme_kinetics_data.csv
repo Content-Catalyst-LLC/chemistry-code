@@ -1,0 +1,8 @@
+experiment,substrate_mM,rate_umol_min
+enzyme_demo,0.10,0.18
+enzyme_demo,0.25,0.39
+enzyme_demo,0.50,0.63
+enzyme_demo,1.00,0.91
+enzyme_demo,2.00,1.18
+enzyme_demo,5.00,1.47
+enzyme_demo,10.00,1.62

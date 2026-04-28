@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,integrated_rate_laws,first_order_data.csv;reaction_order_examples.csv,python/01_integrated_rate_laws.py,outputs/tables/integrated_rate_laws.csv,Fit first-order data and generate integrated rate-law trajectories
+2,arrhenius_analysis,arrhenius_data.csv,python/02_arrhenius_analysis.py,outputs/tables/arrhenius_analysis.csv,Estimate activation energy and pre-exponential factors
+3,reaction_mechanism_odes,mechanism_parameters.csv,python/03_reaction_mechanism_odes.py,outputs/tables/reaction_mechanism_odes.csv,Simulate consecutive reaction mechanisms
+4,enzyme_kinetics,enzyme_kinetics_data.csv,python/04_enzyme_kinetics.py,outputs/tables/enzyme_kinetics.csv,Estimate Michaelis-Menten parameters from transformed data
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,integrated_rate_laws.csv;arrhenius_analysis.csv;reaction_mechanism_odes.csv;enzyme_kinetics.csv,python/06_generate_kinetics_report.py,outputs/reports/chemical_kinetics_report.md,Generate report
