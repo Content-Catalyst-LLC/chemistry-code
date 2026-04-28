@@ -1,0 +1,6 @@
+[package]
+name = "atoms_elements_periodic"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,element_features,elements_sample.csv,python/01_element_features.py,outputs/tables/element_features_summary.csv,Summarize periodic table sample features
+2,isotope_weighted_mass,isotopes_sample.csv,python/02_isotope_weighted_mass.py,outputs/tables/isotope_weighted_masses.csv,Calculate isotope-weighted atomic masses
+3,periodic_trends,elements_sample.csv,python/03_periodic_trends.py,outputs/tables/periodic_trends.csv,Analyze simplified periodic trends
+4,mole_and_composition,mole_examples.csv;compounds_sample.csv,python/04_mole_and_composition.py,outputs/tables/mole_and_composition.csv,Calculate mole conversions and percent composition
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,element_features_summary.csv;isotope_weighted_masses.csv;periodic_trends.csv;mole_and_composition.csv,python/06_generate_periodic_report.py,outputs/reports/atoms_elements_periodic_report.md,Generate report

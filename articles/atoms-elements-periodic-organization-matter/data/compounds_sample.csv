@@ -1,0 +1,10 @@
+compound,formula,element_symbol,atom_count,atomic_mass_u
+water,H2O,H,2,1.008
+water,H2O,O,1,15.999
+carbon_dioxide,CO2,C,1,12.011
+carbon_dioxide,CO2,O,2,15.999
+sodium_chloride,NaCl,Na,1,22.990
+sodium_chloride,NaCl,Cl,1,35.45
+glucose,C6H12O6,C,6,12.011
+glucose,C6H12O6,H,12,1.008
+glucose,C6H12O6,O,6,15.999
