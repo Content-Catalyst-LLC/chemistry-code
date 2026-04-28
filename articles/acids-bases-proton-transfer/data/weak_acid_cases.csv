@@ -1,0 +1,5 @@
+case_id,acid,Ka,initial_concentration_mol_l
+weak_acid_001,acetic_acid_like,1.8e-5,0.100
+weak_acid_002,formic_acid_like,1.8e-4,0.100
+weak_acid_003,benzoic_acid_like,6.3e-5,0.050
+weak_acid_004,hypochlorous_acid_like,3.0e-8,0.100

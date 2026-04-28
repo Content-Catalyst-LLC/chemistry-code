@@ -1,0 +1,3 @@
+case_id,titration_type,acid_concentration_mol_l,acid_volume_l,base_concentration_mol_l,Ka
+strong_acid_strong_base,strong_acid_strong_base,0.100,0.025,0.100,
+weak_acid_strong_base,weak_acid_strong_base,0.100,0.025,0.100,1.8e-5

@@ -1,23 +1,27 @@
 # Acids, Bases, and Proton Transfer
 
-Section: Chemical Change and Reaction
-
-This folder will support the Chemistry knowledge-series article:
+This article repository supports the Chemistry knowledge-series article:
 
 Acids, Bases, and Proton Transfer
 
-The folder is prepared for reproducible computational chemistry workflows, synthetic datasets, documentation, notebooks, SQL metadata, and full-stack examples where useful.
+The repository provides reproducible computational scaffolding for acid-base chemistry, including weak acid pH calculations, weak base calculations, Henderson-Hasselbalch buffer estimates, strong acid-strong base titration curves, weak acid titration scaffolds, monoprotic and polyprotic speciation, charge-balance concepts, SQL-backed metadata, notebook scaffolding, and cross-language examples in Python, R, Julia, Fortran, Rust, Go, C, and C++.
 
-## Suggested workflow types
+No university affiliation is implied by this repository. The design goal is advanced reproducible computational rigor: clear assumptions, transparent calculations, synthetic educational data, provenance records, responsible-use notes, and reusable scientific workflow structure.
 
-- chemical data analysis
-- stoichiometric and thermodynamic calculations
-- kinetics and reaction-network modeling
-- spectroscopy or chromatography data workflows
-- molecular modeling or cheminformatics examples
-- environmental chemistry or toxicology examples
-- reproducible metadata and provenance examples
+## Scientific Focus
 
-## Responsible-use note
+The workflows demonstrate:
 
-This folder is educational and methodological scaffolding. It is not a substitute for laboratory validation, safety review, regulatory compliance, chemical risk assessment, or professional chemical practice.
+1. Weak acid pH calculations using exact quadratic solutions.
+2. Weak base and conjugate acid-base relationships.
+3. Henderson-Hasselbalch buffer pH estimates.
+4. Buffer ratio and capacity scaffolds.
+5. Strong acid-strong base titration curves.
+6. Weak acid titration scaffolds.
+7. Monoprotic acid speciation fractions.
+8. Polyprotic acid distribution scaffolds.
+9. pH, pOH, Kw, Ka, Kb, pKa, and pKb relationships.
+10. SQL-backed acid-base metadata.
+11. Cross-language numerical reproducibility.
+
+These examples are educational and methodological scaffolds. They are not laboratory protocols, chemical safety systems, medical tools, water-treatment dosing tools, environmental compliance tools, regulatory systems, or substitutes for professional chemical practice.

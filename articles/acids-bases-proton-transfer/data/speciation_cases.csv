@@ -1,0 +1,4 @@
+case_id,acid,pKa,pH_min,pH_max,pH_step
+acetic_acid_like,acetic_acid_like,4.76,0,14,0.5
+ammonium_like,ammonium_like,9.25,0,14,0.5
+carbonic_first_step_like,carbonic_first_step_like,6.35,0,14,0.5

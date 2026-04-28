@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,weak_acid_base_ph,weak_acid_cases.csv;weak_base_cases.csv,python/01_weak_acid_base_ph.py,outputs/tables/weak_acid_base_ph.csv,Calculate weak acid and weak base pH scaffolds
+2,buffer_henderson_hasselbalch,buffer_cases.csv,python/02_buffer_henderson_hasselbalch.py,outputs/tables/buffer_henderson_hasselbalch.csv,Calculate buffer pH using Henderson-Hasselbalch relationship
+3,titration_curves,titration_cases.csv,python/03_titration_curves.py,outputs/tables/titration_curves.csv,Generate strong and weak acid titration curve scaffolds
+4,speciation_polyprotic,speciation_cases.csv;polyprotic_cases.csv,python/04_speciation_polyprotic.py,outputs/tables/speciation_polyprotic.csv,Generate monoprotic and polyprotic speciation scaffolds
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,weak_acid_base_ph.csv;buffer_henderson_hasselbalch.csv;titration_curves.csv;speciation_polyprotic.csv,python/06_generate_acid_base_report.py,outputs/reports/acid_base_report.md,Generate report

@@ -1,0 +1,4 @@
+case_id,base,Kb,initial_concentration_mol_l
+weak_base_001,ammonia_like,1.8e-5,0.100
+weak_base_002,methylamine_like,4.4e-4,0.050
+weak_base_003,pyridine_like,1.7e-9,0.100

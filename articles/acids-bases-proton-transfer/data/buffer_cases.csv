@@ -1,0 +1,5 @@
+case_id,buffer,pKa,weak_acid_mol_l,conjugate_base_mol_l
+buffer_001,acetate_buffer,4.76,0.100,0.120
+buffer_002,phosphate_buffer_region,7.21,0.100,0.080
+buffer_003,ammonium_buffer,9.25,0.100,0.050
+buffer_004,near_equal_buffer,6.86,0.100,0.100
