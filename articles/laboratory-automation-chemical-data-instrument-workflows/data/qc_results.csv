@@ -1,0 +1,5 @@
+qc_id,run_id,instrument_id,metric_name,metric_value,lower_limit,upper_limit,qc_status
+qc_001,run_003,lc_uv_01,response_ratio,1.002,0.980,1.020,pass
+qc_002,run_005,lc_uv_01,response_ratio,0.972,0.980,1.020,warning
+qc_003,run_006,lc_uv_01,response_ratio,0.941,0.980,1.020,failed
+qc_004,run_008,gc_ms_01,tuning_score,0.955,0.960,1.020,warning

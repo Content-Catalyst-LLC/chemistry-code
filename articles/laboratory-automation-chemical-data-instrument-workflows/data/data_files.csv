@@ -1,0 +1,11 @@
+file_id,run_id,file_type,relative_path,checksum_present,format,created_time
+file_001,run_001,raw,data/raw/run_001.raw,true,vendor_raw,2026-04-29 08:12
+file_002,run_001,processed,data/processed/run_001_results.csv,true,csv,2026-04-29 08:14
+file_003,run_002,raw,data/raw/run_002.raw,true,vendor_raw,2026-04-29 08:28
+file_004,run_002,processed,data/processed/run_002_results.csv,true,csv,2026-04-29 08:30
+file_005,run_003,raw,data/raw/run_003.raw,true,vendor_raw,2026-04-29 08:43
+file_006,run_003,processed,data/processed/run_003_results.csv,true,csv,2026-04-29 08:45
+file_007,run_004,raw,data/raw/run_004.raw,true,vendor_raw,2026-04-29 08:59
+file_008,run_004,processed,data/processed/run_004_results.csv,true,csv,2026-04-29 09:01
+file_009,run_005,raw,data/raw/run_005.raw,true,vendor_raw,2026-04-29 09:16
+file_010,run_005,processed,data/processed/run_005_results.csv,false,csv,2026-04-29 09:18

@@ -1,0 +1,7 @@
+event_id,run_id,event_time,event_type,actor,details
+evt_001,run_001,2026-04-29 08:00,run_started,scheduler,synthetic scheduled run started
+evt_002,run_001,2026-04-29 08:12,run_completed,instrument,synthetic run completed
+evt_003,run_005,2026-04-29 09:16,qc_warning,pipeline,synthetic QC warning generated
+evt_004,run_005,2026-04-29 09:19,manual_review,analyst_alpha,synthetic analyst review requested
+evt_005,run_006,2026-04-29 09:24,run_failed,instrument,synthetic missing raw and processed file
+evt_006,run_008,2026-04-29 10:47,qc_warning,pipeline,synthetic GC-MS tuning warning generated

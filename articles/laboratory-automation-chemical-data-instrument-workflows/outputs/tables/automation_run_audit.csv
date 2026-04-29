@@ -1,0 +1,9 @@
+run_id,sample_id,sample_type,instrument_id,method_id,qc_status,metadata_completeness,turnaround_min,expected_runtime_min,runtime_delta_min,raw_file_count,processed_file_count,missing_checksum_count,review_required
+run_001,blank,blank,lc_uv_01,lc_assay_v3,pass,1.0,12.0,14.0,-2.0,1,1,0,False
+run_002,std_01,standard,lc_uv_01,lc_assay_v3,pass,1.0,13.0,14.0,-1.0,1,1,0,False
+run_003,qc_01,qc,lc_uv_01,lc_assay_v3,pass,1.0,13.0,14.0,-1.0,1,1,0,False
+run_004,sample_A,unknown,lc_uv_01,lc_assay_v3,pass,1.0,14.0,14.0,0.0,1,1,0,False
+run_005,sample_B,unknown,lc_uv_01,lc_assay_v3,warning,1.0,16.0,14.0,2.0,1,1,1,True
+run_006,sample_C,unknown,lc_uv_01,lc_assay_v3,true,0.8,,14.0,,0,0,0,True
+run_007,blank_02,blank,gc_ms_01,gcms_screen_v2,pass,1.0,21.0,22.0,-1.0,0,0,0,True
+run_008,qc_02,qc,gc_ms_01,gcms_screen_v2,warning,1.0,22.0,22.0,0.0,0,0,0,True

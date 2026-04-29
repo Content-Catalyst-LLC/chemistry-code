@@ -1,0 +1,31 @@
+Synthetic Laboratory Automation Statistics Report
+================================================
+
+Instrument turnaround summary:
+  instrument_id mean_turnaround_min max_turnaround_min completed_run_count
+1      gc_ms_01                21.5                 22                   2
+2      lc_uv_01                13.6                 16                   5
+
+QC response summary:
+  qc_count mean_qc_response min_qc_response max_qc_response warning_count
+1        3        0.9716667           0.941           1.002             2
+  failed_count
+1            1
+
+Run status summary:
+  qc_status run_count
+1      pass         5
+2      true         1
+3   warning         2
+
+Method records:
+        method_id                method_name instrument_type version
+1     lc_assay_v3         LC UV assay method           LC-UV       3
+2  gcms_screen_v2     GC MS screening method           GC-MS       2
+3 robotic_prep_v1 Robotic sample preparation  liquid_handler       1
+  validated_status expected_runtime_min   required_qc_type
+1 educational_demo                   14      bracketing_qc
+2 educational_demo                   22 system_suitability
+3 educational_demo                    8         deck_check
+
+Responsible-use note: synthetic educational data only.

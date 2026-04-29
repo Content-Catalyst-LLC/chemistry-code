@@ -1,0 +1,19 @@
+{
+  "article": "Laboratory Automation, Chemical Data, and Instrument Workflows",
+  "data_type": "synthetic educational laboratory automation data",
+  "scheduled_count": 8,
+  "completed_count": 7,
+  "failed_count": 0,
+  "warning_count": 2,
+  "completion_fraction": 0.875,
+  "failure_fraction": 0.0,
+  "mean_metadata_completeness": 0.975,
+  "mean_turnaround_min": 15.857142857142858,
+  "review_required_count": 4,
+  "sample_count": 8,
+  "method_count": 3,
+  "qc_result_count": 4,
+  "data_file_count": 10,
+  "audit_event_count": 6,
+  "responsible_use": "Synthetic educational data only; not validated for regulated laboratory decisions."
+}

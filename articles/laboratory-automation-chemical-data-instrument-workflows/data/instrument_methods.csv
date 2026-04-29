@@ -1,0 +1,4 @@
+method_id,method_name,instrument_type,version,validated_status,expected_runtime_min,required_qc_type
+lc_assay_v3,LC UV assay method,LC-UV,3.0,educational_demo,14,bracketing_qc
+gcms_screen_v2,GC MS screening method,GC-MS,2.0,educational_demo,22,system_suitability
+robotic_prep_v1,Robotic sample preparation,liquid_handler,1.0,educational_demo,8,deck_check

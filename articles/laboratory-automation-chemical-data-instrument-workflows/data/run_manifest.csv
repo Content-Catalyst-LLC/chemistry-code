@@ -1,0 +1,9 @@
+run_id,sample_id,sample_type,instrument_id,method_id,scheduled_time,completed_time,raw_file,processed_file,qc_status,exception_flag
+run_001,blank,blank,lc_uv_01,lc_assay_v3,2026-04-29 08:00,2026-04-29 08:12,run_001.raw,run_001_results.csv,pass,false
+run_002,std_01,standard,lc_uv_01,lc_assay_v3,2026-04-29 08:15,2026-04-29 08:28,run_002.raw,run_002_results.csv,pass,false
+run_003,qc_01,qc,lc_uv_01,lc_assay_v3,2026-04-29 08:30,2026-04-29 08:43,run_003.raw,run_003_results.csv,pass,false
+run_004,sample_A,unknown,lc_uv_01,lc_assay_v3,2026-04-29 08:45,2026-04-29 08:59,run_004.raw,run_004_results.csv,pass,false
+run_005,sample_B,unknown,lc_uv_01,lc_assay_v3,2026-04-29 09:00,2026-04-29 09:16,run_005.raw,run_005_results.csv,warning,true
+run_006,sample_C,unknown,lc_uv_01,lc_assay_v3,2026-04-29 09:15,,,failed,true
+run_007,blank_02,blank,gc_ms_01,gcms_screen_v2,2026-04-29 10:00,2026-04-29 10:21,run_007.raw,run_007_results.csv,pass,false
+run_008,qc_02,qc,gc_ms_01,gcms_screen_v2,2026-04-29 10:25,2026-04-29 10:47,run_008.raw,run_008_results.csv,warning,true

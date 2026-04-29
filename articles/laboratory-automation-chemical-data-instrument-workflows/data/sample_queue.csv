@@ -1,0 +1,9 @@
+sample_id,container_id,plate_position,received_time,priority,matrix,storage_condition
+blank,vial_001,A01,2026-04-29 07:30,normal,solvent,room_temperature
+std_01,vial_002,A02,2026-04-29 07:31,normal,standard_solution,room_temperature
+qc_01,vial_003,A03,2026-04-29 07:32,normal,qc_solution,room_temperature
+sample_A,vial_004,A04,2026-04-29 07:35,normal,synthetic_matrix,refrigerated
+sample_B,vial_005,A05,2026-04-29 07:36,high,synthetic_matrix,refrigerated
+sample_C,vial_006,A06,2026-04-29 07:37,normal,synthetic_matrix,refrigerated
+blank_02,vial_007,B01,2026-04-29 09:40,normal,solvent,room_temperature
+qc_02,vial_008,B02,2026-04-29 09:42,normal,qc_solution,room_temperature
