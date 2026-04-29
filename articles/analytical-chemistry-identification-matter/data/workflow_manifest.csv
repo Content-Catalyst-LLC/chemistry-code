@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,calibration_lod_loq,calibration_standards.csv;blank_signals.csv;unknown_samples.csv,python/01_calibration_lod_loq.py,outputs/tables/calibration_lod_loq.csv,Calculate calibration slope intercept unknown concentrations LOD and LOQ
+2,precision_recovery_qc,replicate_measurements.csv;spike_recovery.csv;qc_rules.csv,python/02_precision_recovery_qc.py,outputs/tables/precision_recovery_qc.csv,Calculate precision RSD recovery and QC flags
+3,chromatography_spectroscopy,chromatography_peaks.csv;beer_lambert_cases.csv,python/03_chromatography_spectroscopy.py,outputs/tables/chromatography_spectroscopy.csv,Calculate chromatographic resolution and Beer-Lambert concentrations
+4,spectral_matching_reporting,spectral_vectors.csv,python/04_spectral_matching_reporting.py,outputs/tables/spectral_matching_reporting.csv,Calculate simple spectral similarity scores and report-ready summary
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,calibration_lod_loq.csv;precision_recovery_qc.csv;chromatography_spectroscopy.csv;spectral_matching_reporting.csv,python/06_generate_analytical_report.py,outputs/reports/analytical_report.md,Generate report

@@ -1,0 +1,11 @@
+sample_id,replicate,measured_mg_L
+sample_A,1,9.8
+sample_A,2,10.1
+sample_A,3,10.0
+sample_A,4,10.2
+sample_A,5,9.9
+sample_B,1,2.95
+sample_B,2,3.05
+sample_B,3,3.10
+sample_B,4,2.98
+sample_B,5,3.02

@@ -1,0 +1,5 @@
+rule_id,metric,lower_limit,upper_limit,notes
+recovery_window,recovery_percent,80,120,educational spike recovery acceptance window
+rsd_window,RSD_percent,0,5,educational replicate precision acceptance window
+calibration_r2_window,calibration_r2,0.995,1.0,educational linear calibration fit window
+resolution_window,chromatographic_resolution,1.5,999,educational baseline separation hint

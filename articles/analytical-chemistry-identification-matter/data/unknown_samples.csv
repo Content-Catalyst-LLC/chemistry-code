@@ -1,0 +1,5 @@
+sample_id,signal,dilution_factor
+unknown_001,3.72,1
+unknown_002,6.05,2
+unknown_003,0.62,1
+qc_check_sample,5.10,1

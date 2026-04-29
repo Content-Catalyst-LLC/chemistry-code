@@ -1,0 +1,7 @@
+standard_id,concentration_mg_L,signal
+blank_standard,0,0.04
+std_1,1,0.58
+std_2,2,1.05
+std_5,5,2.64
+std_10,10,5.18
+std_20,20,10.35

@@ -1,0 +1,4 @@
+case_id,absorbance,epsilon_L_mol_cm,path_length_cm
+case_001,0.625,12500,1.0
+case_002,0.300,9000,1.0
+case_003,1.150,15000,0.5
