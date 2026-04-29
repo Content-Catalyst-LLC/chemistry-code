@@ -1,0 +1,37 @@
+{
+  "article": "Materials Chemistry and the Design of Function",
+  "data_type": "synthetic educational materials chemistry data",
+  "target_profile": {
+    "density_g_cm3": 1.5,
+    "modulus_GPa": 10.0,
+    "thermal_stability_C": 300.0,
+    "conductivity_S_m": 1.0,
+    "recyclability_score": 0.85,
+    "relative_cost_score": 0.3
+  },
+  "weights": {
+    "density_g_cm3": 1.2,
+    "modulus_GPa": 0.8,
+    "thermal_stability_C": 1.0,
+    "conductivity_S_m": 1.0,
+    "recyclability_score": 1.4,
+    "relative_cost_score": 1.2
+  },
+  "scales": {
+    "density_g_cm3": 1.0,
+    "modulus_GPa": 25.0,
+    "thermal_stability_C": 250.0,
+    "conductivity_S_m": 10.0,
+    "recyclability_score": 0.25,
+    "relative_cost_score": 0.3
+  },
+  "candidate_count": 7,
+  "processing_record_count": 7,
+  "property_measurement_count": 8,
+  "target_count": 3,
+  "lifecycle_note_count": 7,
+  "best_candidate": "mat_A",
+  "mean_functional_mismatch_score": 2799996121.4338884,
+  "responsible_design_review_count": 5,
+  "responsible_use": "Synthetic educational data only; not validated for engineering certification, safety-critical design, or regulatory use."
+}

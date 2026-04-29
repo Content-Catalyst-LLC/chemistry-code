@@ -1,0 +1,9 @@
+measurement_id,material_id,property_name,value,unit,method,temperature_C
+meas_001,mat_A,density,1.28,g_cm3,bulk_measurement,25
+meas_002,mat_A,modulus,4.2,GPa,tensile_test,25
+meas_003,mat_B,modulus,180.0,GPa,three_point_bend,25
+meas_004,mat_C,surface_area,1500,m2_g,BET,25
+meas_005,mat_D,conductivity,1400000,S_m,four_point_probe,25
+meas_006,mat_E,band_gap,1.72,eV,optical_estimate,25
+meas_007,mat_F,swelling_ratio,8.4,dimensionless,gravimetric,25
+meas_008,mat_G,oxygen_flux,0.031,arbitrary_units,membrane_test,750

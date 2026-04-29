@@ -1,0 +1,6 @@
+material_id,material_class,functional_mismatch_score,critical_element_flag,toxicity_flag,processing_temperature_C,responsible_design_review_required,rank
+mat_C,porous_framework,5.792578293333333,True,medium,160.0,True,3
+mat_G,oxide_membrane,28.727557333333337,False,low,1100.0,True,4
+mat_B,ceramic,60.13833133343333,False,low,1250.0,True,5
+mat_E,semiconductor,649.1648799999999,True,medium,450.0,True,6
+mat_D,alloy,19599972103.37789,True,medium,1450.0,True,7

@@ -1,0 +1,7 @@
+[package]
+name = "materials_design_manifest_validator"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[dependencies]

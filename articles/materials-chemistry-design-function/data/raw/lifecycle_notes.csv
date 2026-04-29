@@ -1,0 +1,8 @@
+note_id,material_id,critical_element_flag,toxicity_flag,recyclability_note,processing_energy_note,end_of_life_note
+life_001,mat_A,false,low,recyclable with polymer stream,moderate cure energy,mechanical recycling possible
+life_002,mat_B,false,low,inert but difficult to recycle,high sintering energy,long service life
+life_003,mat_C,true,medium,framework recovery uncertain,solvent intensive synthesis,requires solvent recovery plan
+life_004,mat_D,true,medium,high scrap value,energy intensive melting,recyclable alloy stream
+life_005,mat_E,true,medium,recycling route specialized,moderate deposition energy,electronic waste pathway needed
+life_006,mat_F,false,low,water-rich soft material,low processing energy,depends on polymer chemistry
+life_007,mat_G,false,low,ceramic recycling difficult,high sintering energy,long service life

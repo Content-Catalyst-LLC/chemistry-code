@@ -1,0 +1,8 @@
+process_id,material_id,synthesis_route,processing_temperature_C,processing_time_h,atmosphere,post_treatment
+proc_001,mat_A,solution_casting,80,4,nitrogen,thermal_cure
+proc_002,mat_B,solid_state_sintering,1250,8,air,slow_cool
+proc_003,mat_C,solvothermal_synthesis,160,24,nitrogen,solvent_exchange
+proc_004,mat_D,arc_melting,1450,1,argon,anneal
+proc_005,mat_E,vapor_deposition,450,2,nitrogen,rapid_thermal_anneal
+proc_006,mat_F,photopolymerization,25,0.5,air,hydration
+proc_007,mat_G,tape_casting_sintering,1100,6,air,polishing

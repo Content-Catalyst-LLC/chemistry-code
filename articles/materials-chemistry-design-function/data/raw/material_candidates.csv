@@ -1,0 +1,8 @@
+material_id,material_class,density_g_cm3,modulus_GPa,thermal_stability_C,conductivity_S_m,recyclability_score,relative_cost_score
+mat_A,polymer_composite,1.28,4.2,180,0.02,0.72,0.35
+mat_B,ceramic,3.85,180.0,1150,0.0001,0.45,0.62
+mat_C,porous_framework,0.72,2.1,320,0.004,0.58,0.80
+mat_D,alloy,7.80,210.0,780,1400000,0.88,0.55
+mat_E,semiconductor,5.30,72.0,540,250.0,0.62,0.90
+mat_F,hydrogel,1.05,0.08,90,0.12,0.66,0.42
+mat_G,oxide_membrane,4.20,95.0,920,0.08,0.52,0.70
