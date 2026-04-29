@@ -1,0 +1,16 @@
+{
+  "article": "Computational Notebooks and Reproducible Chemical Research",
+  "dataset": "data/synthetic_chemical_notebook_runs.csv",
+  "dataset_type": "synthetic educational UV-Vis calibration records",
+  "record_count": 12,
+  "notebook_count": 2,
+  "environment_count": 1,
+  "calibration_model": "absorbance = intercept + slope * concentration_mol_l",
+  "calibration": {
+    "slope_absorbance_per_mol_l": 74.24999999999999,
+    "intercept_absorbance": 0.006000000000000061,
+    "r_squared": 0.9998788738114492,
+    "residual_standard_deviation": 0.0029154759474226714
+  },
+  "responsible_use": "Synthetic data only; not for regulatory, safety, clinical, or environmental-compliance decisions."
+}

@@ -1,0 +1,29 @@
+---
+title: "Computational Notebooks and Reproducible Chemical Research"
+format: html
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+## Purpose
+
+This Quarto scaffold demonstrates how a chemical research report can combine narrative, code, data, tables, and interpretation.
+
+## Reproducibility Checklist
+
+The notebook or report should preserve raw data, document units, record dependencies, generate outputs from code, and include limitations.
+
+```{python}
+import pandas as pd
+from pathlib import Path
+
+article_dir = Path("..")
+runs = pd.read_csv(article_dir / "data" / "synthetic_chemical_notebook_runs.csv")
+runs.head()
+```
+
+## Responsible-Use Note
+
+The data are synthetic and educational only.

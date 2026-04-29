@@ -1,0 +1,35 @@
+R Reproducibility Summary for Synthetic Chemical Notebook Data
+=============================================================
+
+Calibration model: absorbance ~ concentration_mol_l
+
+
+Call:
+lm(formula = absorbance ~ concentration_mol_l, data = runs)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.004500 -0.002125 -0.000250  0.002000  0.006000 
+
+Coefficients:
+                     Estimate Std. Error t value Pr(>|t|)    
+(Intercept)          0.006000   0.001565   3.834   0.0033 ** 
+concentration_mol_l 74.250000   0.258429 287.313   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.003058 on 10 degrees of freedom
+Multiple R-squared:  0.9999,	Adjusted R-squared:  0.9999 
+F-statistic: 8.255e+04 on 1 and 10 DF,  p-value: < 2.2e-16
+
+
+Notebook and instrument summary:
+           notebook_id instrument_id environment_id mean_absorbance
+1 uvvis_calibration_v1       uvvis_A     py311_r443       0.3773333
+2 uvvis_calibration_v2       uvvis_B     py311_r443       0.3771667
+  sd_absorbance n
+1     0.2782759 6
+2     0.2773932 6
+
+Responsible-use note:
+Synthetic educational data only. Do not use for regulatory, clinical, safety-critical, or environmental-compliance decisions.

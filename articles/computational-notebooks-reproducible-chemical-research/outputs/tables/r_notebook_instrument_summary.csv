@@ -1,0 +1,3 @@
+"notebook_id","instrument_id","environment_id","mean_absorbance","sd_absorbance","n"
+"uvvis_calibration_v1","uvvis_A","py311_r443",0.377333333333333,0.278275882294292,6
+"uvvis_calibration_v2","uvvis_B","py311_r443",0.377166666666667,0.277393162617009,6

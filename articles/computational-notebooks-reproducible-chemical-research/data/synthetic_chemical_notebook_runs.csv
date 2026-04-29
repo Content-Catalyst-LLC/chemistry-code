@@ -1,0 +1,13 @@
+run_id,notebook_id,molecule,method,instrument_id,environment_id,concentration_mol_l,absorbance,temperature_k,analyst,random_seed,execution_order
+run_001,uvvis_calibration_v1,caffeine,UV-Vis,uvvis_A,py311_r443,0.000,0.006,298.15,analyst_alpha,101,1
+run_002,uvvis_calibration_v1,caffeine,UV-Vis,uvvis_A,py311_r443,0.002,0.154,298.16,analyst_alpha,101,2
+run_003,uvvis_calibration_v1,caffeine,UV-Vis,uvvis_A,py311_r443,0.004,0.301,298.14,analyst_alpha,101,3
+run_004,uvvis_calibration_v1,caffeine,UV-Vis,uvvis_A,py311_r443,0.006,0.453,298.15,analyst_alpha,101,4
+run_005,uvvis_calibration_v1,caffeine,UV-Vis,uvvis_A,py311_r443,0.008,0.602,298.17,analyst_alpha,101,5
+run_006,uvvis_calibration_v1,caffeine,UV-Vis,uvvis_A,py311_r443,0.010,0.748,298.15,analyst_alpha,101,6
+run_007,uvvis_calibration_v2,caffeine,UV-Vis,uvvis_B,py311_r443,0.000,0.008,298.20,analyst_beta,202,1
+run_008,uvvis_calibration_v2,caffeine,UV-Vis,uvvis_B,py311_r443,0.002,0.151,298.19,analyst_beta,202,2
+run_009,uvvis_calibration_v2,caffeine,UV-Vis,uvvis_B,py311_r443,0.004,0.305,298.21,analyst_beta,202,3
+run_010,uvvis_calibration_v2,caffeine,UV-Vis,uvvis_B,py311_r443,0.006,0.449,298.18,analyst_beta,202,4
+run_011,uvvis_calibration_v2,caffeine,UV-Vis,uvvis_B,py311_r443,0.008,0.606,298.22,analyst_beta,202,5
+run_012,uvvis_calibration_v2,caffeine,UV-Vis,uvvis_B,py311_r443,0.010,0.744,298.20,analyst_beta,202,6

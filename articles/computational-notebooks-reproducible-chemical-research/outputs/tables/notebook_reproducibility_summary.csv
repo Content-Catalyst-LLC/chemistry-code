@@ -1,0 +1,3 @@
+notebook_id,row_count,molecule,method,instrument_ids,environment_ids,analysts,mean_absorbance,sd_absorbance,mean_temperature_k,random_seeds
+uvvis_calibration_v1,6,caffeine,UV-Vis,uvvis_A,py311_r443,analyst_alpha,0.37733333333333335,0.278275882294292,298.1533333333333,101
+uvvis_calibration_v2,6,caffeine,UV-Vis,uvvis_B,py311_r443,analyst_beta,0.37716666666666665,0.27739316261700947,298.2,202
