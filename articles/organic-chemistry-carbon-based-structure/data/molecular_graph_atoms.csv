@@ -1,0 +1,14 @@
+molecule,atom_id,element
+ethanol_skeleton,C1,C
+ethanol_skeleton,C2,C
+ethanol_skeleton,O1,O
+acetone_skeleton,C1,C
+acetone_skeleton,C2,C
+acetone_skeleton,C3,C
+acetone_skeleton,O1,O
+benzene_skeleton,C1,C
+benzene_skeleton,C2,C
+benzene_skeleton,C3,C
+benzene_skeleton,C4,C
+benzene_skeleton,C5,C
+benzene_skeleton,C6,C

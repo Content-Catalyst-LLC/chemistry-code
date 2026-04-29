@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,formula_descriptors,molecular_formulas.csv;carbon_hybridization_cases.csv,python/01_formula_descriptors.py,outputs/tables/formula_descriptors.csv,Calculate formula descriptors DBE and hybridization summary
+2,molecular_graphs,molecular_graph_atoms.csv;molecular_graph_edges.csv,python/02_molecular_graphs.py,outputs/tables/molecular_graphs.csv,Build simplified molecular graph adjacency and graph descriptors
+3,functional_groups_stereochemistry,functional_group_cases.csv;stereochemistry_cases.csv,python/03_functional_groups_stereochemistry.py,outputs/tables/functional_groups_stereochemistry.csv,Summarize functional groups and stereochemistry scaffolds
+4,structure_property_scaffold,structure_property_cases.csv,python/04_structure_property_scaffold.py,outputs/tables/structure_property_scaffold.csv,Generate simple organic structure property descriptors
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,formula_descriptors.csv;molecular_graphs.csv;functional_groups_stereochemistry.csv;structure_property_scaffold.csv,python/06_generate_organic_structure_report.py,outputs/reports/organic_structure_report.md,Generate report

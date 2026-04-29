@@ -1,0 +1,11 @@
+molecule,alcohol,ether,amine,alkyl_halide,alkene,alkyne,arene,aldehyde,ketone,carboxylic_acid,ester,amide,nitrile,thiol,sulfide
+ethanol_like,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+diethyl_ether_like,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+ethylamine_like,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+chloroethane_like,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+acetone_like,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+acetic_acid_like,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+ethyl_acetate_like,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+acetamide_like,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+benzonitrile_like,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+thiol_like,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0

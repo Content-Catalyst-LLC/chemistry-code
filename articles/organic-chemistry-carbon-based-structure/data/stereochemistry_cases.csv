@@ -1,0 +1,6 @@
+case_id,molecule,stereocenters,double_bond_stereo_centers,chiral,notes
+achiral_alkane,butane_like,0,0,0,no stereocenter in simplified scaffold
+single_stereocenter,lactic_acid_like,1,0,1,one tetrahedral stereocenter scaffold
+alkene_stereo,disubstituted_alkene_like,0,1,0,restricted double-bond geometry scaffold
+multiple_stereocenters,sugar_like,4,0,1,multiple stereocenter scaffold
+meso_like,meso_tartaric_like,2,0,0,internal symmetry scaffold

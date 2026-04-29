@@ -1,0 +1,6 @@
+case_id,carbon_type,hybridization,approximate_geometry,approximate_bond_angle_degrees,sigma_bonds,pi_bonds
+alkane_carbon,tetrahedral_carbon,sp3,tetrahedral,109.5,4,0
+alkene_carbon,trigonal_planar_carbon,sp2,trigonal planar,120,3,1
+alkyne_carbon,linear_carbon,sp,linear,180,2,2
+carbonyl_carbon,trigonal_planar_carbonyl,sp2,trigonal planar,120,3,1
+aromatic_carbon,aromatic_sp2_carbon,sp2,trigonal planar,120,3,1

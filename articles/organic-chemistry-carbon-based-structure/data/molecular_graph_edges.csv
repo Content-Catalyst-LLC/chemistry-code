@@ -1,0 +1,12 @@
+molecule,atom_a,atom_b,bond_order,bond_type
+ethanol_skeleton,C1,C2,1,single
+ethanol_skeleton,C2,O1,1,single
+acetone_skeleton,C1,C2,1,single
+acetone_skeleton,C2,C3,1,single
+acetone_skeleton,C2,O1,2,double
+benzene_skeleton,C1,C2,1.5,aromatic
+benzene_skeleton,C2,C3,1.5,aromatic
+benzene_skeleton,C3,C4,1.5,aromatic
+benzene_skeleton,C4,C5,1.5,aromatic
+benzene_skeleton,C5,C6,1.5,aromatic
+benzene_skeleton,C6,C1,1.5,aromatic

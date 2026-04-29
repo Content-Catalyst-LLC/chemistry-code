@@ -1,0 +1,8 @@
+molecule,carbon_count,heteroatom_count,hydrogen_bond_donors,hydrogen_bond_acceptors,ring_count,aromatic_ring_count,stereocenter_count
+alkane_like,6,0,0,0,0,0,0
+alcohol_like,4,1,1,1,0,0,0
+acid_like,3,2,1,2,0,0,0
+amine_like,3,1,1,1,0,0,0
+aromatic_like,6,0,0,0,1,1,0
+chiral_druglike_scaffold,12,4,1,5,2,1,2
+polymer_monomer_like,8,2,0,2,1,1,0

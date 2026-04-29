@@ -1,0 +1,8 @@
+molecule,C,H,N,O,S,X,notes
+hexane,6,14,0,0,0,0,acyclic alkane-like hydrocarbon
+cyclohexane,6,12,0,0,0,0,cycloalkane-like hydrocarbon
+benzene,6,6,0,0,0,0,aromatic hydrocarbon scaffold
+acetic_acid,2,4,0,2,0,0,carboxylic acid scaffold
+pyridine_like,5,5,1,0,0,0,nitrogen heteroaromatic scaffold
+chloroethane,2,5,0,0,0,1,alkyl halide scaffold
+thiophene_like,4,4,0,0,1,0,sulfur heteroaromatic scaffold
