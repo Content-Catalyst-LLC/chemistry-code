@@ -1,0 +1,7 @@
+note_id,catalyst_id,critical_material_flag,toxicity_flag,regeneration_note,end_of_life_note,sustainability_review_required
+life_001,cat_A,false,medium,regeneration by mild oxidation,metal recovery recommended,true
+life_002,cat_B,false,low,thermal regeneration possible,inert oxide waste review,false
+life_003,cat_C,true,medium,regeneration uncertain,critical metal recovery required,true
+life_004,cat_D,false,medium,coke burnoff possible,carbon waste and emissions review,true
+life_005,cat_E,false,low,calcination regeneration possible,framework disposal review,false
+life_006,cat_F,true,medium,site stability uncertain,critical metal recovery required,true

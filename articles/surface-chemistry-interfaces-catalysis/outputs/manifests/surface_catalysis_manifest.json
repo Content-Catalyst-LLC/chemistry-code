@@ -1,0 +1,17 @@
+{
+  "article": "Surface Chemistry, Interfaces, and Catalysis",
+  "data_type": "synthetic educational surface chemistry and catalysis data",
+  "model": "competitive Langmuir coverage with simplified rate proxy",
+  "pressure_A_bar": 1.0,
+  "pressure_B_bar": 0.5,
+  "temperature_K": 550.0,
+  "catalyst_count": 6,
+  "adsorption_record_count": 10,
+  "performance_record_count": 12,
+  "deactivation_record_count": 12,
+  "characterization_record_count": 6,
+  "lifecycle_note_count": 6,
+  "interface_record_count": 5,
+  "best_candidate": "cat_E",
+  "responsible_use": "Synthetic educational data only; not validated for catalyst design, process engineering, environmental claims, or regulatory use."
+}

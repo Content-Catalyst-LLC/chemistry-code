@@ -1,0 +1,13 @@
+catalyst_id,time_h,normalized_rate,condition
+cat_C,0,1.00,synthetic_time_on_stream
+cat_C,1,0.96,synthetic_time_on_stream
+cat_C,2,0.93,synthetic_time_on_stream
+cat_C,4,0.88,synthetic_time_on_stream
+cat_C,8,0.81,synthetic_time_on_stream
+cat_C,12,0.74,synthetic_time_on_stream
+cat_E,0,1.00,synthetic_time_on_stream
+cat_E,1,0.99,synthetic_time_on_stream
+cat_E,2,0.97,synthetic_time_on_stream
+cat_E,4,0.94,synthetic_time_on_stream
+cat_E,8,0.90,synthetic_time_on_stream
+cat_E,12,0.86,synthetic_time_on_stream

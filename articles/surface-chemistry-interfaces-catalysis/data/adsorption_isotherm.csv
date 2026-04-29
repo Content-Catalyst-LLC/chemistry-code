@@ -1,0 +1,11 @@
+experiment_id,catalyst_id,adsorbate,pressure_bar,coverage_fraction,temperature_K
+ads_001,cat_A,A,0.05,0.082,550
+ads_002,cat_A,A,0.10,0.153,550
+ads_003,cat_A,A,0.25,0.310,550
+ads_004,cat_A,A,0.50,0.474,550
+ads_005,cat_A,A,1.00,0.643,550
+ads_006,cat_C,A,0.05,0.115,550
+ads_007,cat_C,A,0.10,0.206,550
+ads_008,cat_C,A,0.25,0.394,550
+ads_009,cat_C,A,0.50,0.565,550
+ads_010,cat_C,A,1.00,0.722,550

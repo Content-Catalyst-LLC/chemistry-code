@@ -1,0 +1,40 @@
+Synthetic Surface Catalysis Statistics Report
+============================================
+
+Catalyst replicate summary:
+  catalyst_id mean_conversion_percent sd_conversion_percent replicate_count
+1       cat_A                42.13333             0.6506407               3
+2       cat_B                34.33333             0.6110101               3
+3       cat_C                46.50000             0.6000000               3
+4       cat_E                40.13333             0.3511885               3
+  mean_selectivity_percent sd_selectivity_percent
+1                 82.33333              0.6027714
+2                 74.30000              0.5567764
+3                 88.03333              0.4041452
+4                 91.03333              0.3511885
+
+Deactivation summaries:
+      catalyst_id deactivation_slope_per_h initial_rate final_rate
+cat_C       cat_C              -0.02083721            1       0.74
+cat_E       cat_E              -0.01172093            1       0.86
+      percent_rate_loss
+cat_C                26
+cat_E                14
+
+Catalyst class summary:
+         catalyst_class mean_surface_area_m2_g max_surface_area_m2_g
+1          acidic_oxide                    210                   210
+2 metal_oxide_interface                    145                   145
+3         porous_carbon                     60                    60
+4  single_atom_catalyst                     75                    75
+5       supported_metal                     85                    85
+6               zeolite                    430                   430
+  catalyst_count
+1              1
+2              1
+3              1
+4              1
+5              1
+6              1
+
+Responsible-use note: synthetic educational data only.

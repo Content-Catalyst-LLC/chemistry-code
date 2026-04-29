@@ -1,0 +1,7 @@
+catalyst_id,catalyst_class,surface_area_m2_g,site_density_umol_g,K_A_bar_inv,K_B_bar_inv,activation_energy_kJ_mol,selectivity_target,critical_metal_flag
+cat_A,supported_metal,85,120,1.8,0.7,58,0.82,false
+cat_B,acidic_oxide,210,240,0.9,1.2,72,0.74,false
+cat_C,metal_oxide_interface,145,180,2.6,0.5,54,0.88,true
+cat_D,porous_carbon,60,95,0.4,2.0,80,0.61,false
+cat_E,zeolite,430,310,1.2,0.8,66,0.91,false
+cat_F,single_atom_catalyst,75,45,3.1,0.3,52,0.86,true

@@ -1,0 +1,3 @@
+catalyst_id,deactivation_slope_per_h,initial_rate,final_rate,percent_rate_loss
+cat_C,-0.020837209302325584,1.0,0.74,26.0
+cat_E,-0.011720930232558137,1.0,0.86,14.000000000000002

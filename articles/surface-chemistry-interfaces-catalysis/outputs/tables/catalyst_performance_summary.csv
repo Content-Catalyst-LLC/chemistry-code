@@ -1,0 +1,5 @@
+catalyst_id,mean_conversion_percent,mean_selectivity_percent,replicate_count
+cat_A,42.13333333333333,82.33333333333334,3
+cat_B,34.333333333333336,74.3,3
+cat_C,46.5,88.03333333333333,3
+cat_E,40.13333333333333,91.03333333333333,3

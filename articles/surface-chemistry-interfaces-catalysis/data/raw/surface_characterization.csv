@@ -1,0 +1,7 @@
+measurement_id,catalyst_id,method,measurement_target,value,unit,condition
+char_001,cat_A,BET,surface_area,85,m2_g,pre_reaction
+char_002,cat_A,XPS,metal_oxidation_state_proxy,2.1,arbitrary,pre_reaction
+char_003,cat_C,XPS,metal_oxidation_state_proxy,3.4,arbitrary,pre_reaction
+char_004,cat_C,TEM,particle_size_mean,4.8,nm,pre_reaction
+char_005,cat_E,NH3_TPD,acid_site_density,310,umol_g,pre_reaction
+char_006,cat_F,XAS,coordination_number_proxy,4.0,arbitrary,operando
