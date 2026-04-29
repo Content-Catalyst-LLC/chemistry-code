@@ -1,0 +1,7 @@
+"sample_id","replicate_id","current_uA","electrode_id","matrix","estimated_concentration_uM"
+"unknown_A","r1",1.214,"spe_01","synthetic_buffer",35.8065547766464
+"unknown_A","r2",1.238,"spe_01","synthetic_buffer",36.5219004247045
+"unknown_A","r3",1.205,"spe_01","synthetic_buffer",35.5383001586246
+"unknown_B","r1",2.112,"spe_01","synthetic_buffer",62.572404441488
+"unknown_B","r2",2.09,"spe_01","synthetic_buffer",61.916670930768
+"unknown_B","r3",2.128,"spe_01","synthetic_buffer",63.0493015401934

@@ -1,23 +1,29 @@
 # Electroanalytical Chemistry and Chemical Sensors
 
-Section: Measurement, Instrumentation, and Chemical Evidence
+This article folder supports the Chemistry knowledge-series article **Electroanalytical Chemistry and Chemical Sensors**.
 
-This folder will support the Chemistry knowledge-series article:
+The workflows use synthetic educational data to demonstrate electrochemical sensor calibration, amperometric response, potentiometric Nernst behavior, voltammetric peak summaries, drift evaluation, detection-limit estimation, interference testing, and full-stack scientific-computing scaffolding.
 
-Electroanalytical Chemistry and Chemical Sensors
+## Repository structure
 
-The folder is prepared for reproducible computational chemistry workflows, synthetic datasets, documentation, notebooks, SQL metadata, and full-stack examples where useful.
-
-## Suggested workflow types
-
-- chemical data analysis
-- stoichiometric and thermodynamic calculations
-- kinetics and reaction-network modeling
-- spectroscopy or chromatography data workflows
-- molecular modeling or cheminformatics examples
-- environmental chemistry or toxicology examples
-- reproducible metadata and provenance examples
+- `python/` — amperometric calibration, detection limits, unknown estimates, drift metrics, and provenance workflows
+- `r/` — replicate summaries, drift analysis, and quantitative reporting
+- `julia/` — Nernst-response and detection-limit calculations
+- `fortran/` — compact electrochemical metric kernel
+- `rust/` — electrochemical sensor manifest validator
+- `go/` — CSV audit utility for sensor records
+- `c/` — Nernst and detection-limit utility
+- `cpp/` — interference and calibration classifier
+- `sql/` — schema and queries for sensor calibration, measurements, interferences, and validation
+- `docs/` — methodology, reproducibility, and responsible-use notes
+- `data/` — synthetic educational electroanalytical data
+- `notebooks/` — notebook scaffolds and report notes
+- `outputs/` — generated tables, reports, figures, and manifests
 
 ## Responsible-use note
 
-This folder is educational and methodological scaffolding. It is not a substitute for laboratory validation, safety review, regulatory compliance, chemical risk assessment, or professional chemical practice.
+All data in this folder are synthetic and educational. These workflows are not validated for clinical, environmental-compliance, forensic, industrial-quality, or safety-critical chemical decisions.
+
+## License
+
+This article folder follows the MIT-licensed repository convention used for the Chemistry code collection.

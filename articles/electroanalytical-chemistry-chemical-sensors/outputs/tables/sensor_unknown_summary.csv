@@ -1,0 +1,3 @@
+sample_id,mean_current_uA,sd_current_uA,mean_concentration_uM,sd_concentration_uM,replicate_count
+unknown_A,1.219,0.01705872210923195,35.95558511999181,0.5084534425946698,3
+unknown_B,2.11,0.019078784028339048,62.51279230414982,0.5686635468713854,3

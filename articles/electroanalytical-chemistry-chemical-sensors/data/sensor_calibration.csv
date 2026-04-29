@@ -1,0 +1,9 @@
+standard_id,analyte,concentration_uM,current_uA,electrode_id,method
+blank_1,target_analyte,0,0.012,spe_01,amperometry
+blank_2,target_analyte,0,0.015,spe_01,amperometry
+blank_3,target_analyte,0,0.011,spe_01,amperometry
+std_01,target_analyte,5,0.188,spe_01,amperometry
+std_02,target_analyte,10,0.351,spe_01,amperometry
+std_03,target_analyte,25,0.842,spe_01,amperometry
+std_04,target_analyte,50,1.685,spe_01,amperometry
+std_05,target_analyte,100,3.372,spe_01,amperometry

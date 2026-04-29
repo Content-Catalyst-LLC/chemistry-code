@@ -1,0 +1,7 @@
+sample_id,replicate_id,current_uA,estimated_concentration_uM,electrode_id,matrix
+unknown_A,r1,1.214,35.806554776646365,spe_01,synthetic_buffer
+unknown_A,r2,1.238,36.5219004247045,spe_01,synthetic_buffer
+unknown_A,r3,1.205,35.53830015862457,spe_01,synthetic_buffer
+unknown_B,r1,2.112,62.572404441488,spe_01,synthetic_buffer
+unknown_B,r2,2.09,61.91667093076804,spe_01,synthetic_buffer
+unknown_B,r3,2.128,63.04930154019342,spe_01,synthetic_buffer

@@ -1,0 +1,5 @@
+scan_id,analyte,peak_potential_V,peak_current_uA,scan_rate_mV_s,electrode_id
+cv_01,redox_probe,0.211,4.82,25,gce_01
+cv_02,redox_probe,0.214,6.81,50,gce_01
+cv_03,redox_probe,0.218,9.62,100,gce_01
+cv_04,redox_probe,0.224,13.55,200,gce_01

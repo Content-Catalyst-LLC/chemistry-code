@@ -1,0 +1,2 @@
+"test_id","target_concentration_uM","interferent","interferent_concentration_uM","current_uA","response_change_percent"
+"int_03",25,"acetaminophen",50,0.913,8.4

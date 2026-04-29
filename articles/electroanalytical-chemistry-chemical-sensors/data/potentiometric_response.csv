@@ -1,0 +1,6 @@
+standard_id,ion_activity,potential_mV,temperature_K,electrode_id
+pH_like_01,1.0e-3,177.4,298.15,ise_01
+pH_like_02,1.0e-4,236.2,298.15,ise_01
+pH_like_03,1.0e-5,295.1,298.15,ise_01
+pH_like_04,1.0e-6,354.0,298.15,ise_01
+pH_like_05,1.0e-7,413.1,298.15,ise_01

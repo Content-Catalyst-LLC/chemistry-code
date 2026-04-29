@@ -1,0 +1,42 @@
+Synthetic Electrochemical Sensor Statistics Report
+=================================================
+
+Calibration model:
+
+Call:
+lm(formula = current_uA ~ concentration_uM, data = calibration)
+
+Residuals:
+       Min         1Q     Median         3Q        Max 
+-0.0094378 -0.0025601  0.0008176  0.0031856  0.0075665 
+
+Coefficients:
+                  Estimate Std. Error t value Pr(>|t|)    
+(Intercept)      1.268e-02  2.566e-03   4.943   0.0026 ** 
+concentration_uM 3.355e-02  6.304e-05 532.200 2.97e-15 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.005893 on 6 degrees of freedom
+Multiple R-squared:      1,	Adjusted R-squared:      1 
+F-statistic: 2.832e+05 on 1 and 6 DF,  p-value: 2.971e-15
+
+
+Unknown summary:
+  sample_id mean_concentration_uM sd_concentration_uM replicate_count
+1 unknown_A              35.95559           0.5084534               3
+2 unknown_B              62.51279           0.5686635               3
+
+Drift summary:
+         drift_slope_uA_per_min initial_current_uA final_current_uA
+time_min           -0.001235714                  1            0.956
+         percent_change
+time_min           -4.4
+
+Interference flags:
+  test_id target_concentration_uM   interferent interferent_concentration_uM
+3  int_03                      25 acetaminophen                           50
+  current_uA response_change_percent
+3      0.913                     8.4
+
+Responsible-use note: synthetic educational data only.

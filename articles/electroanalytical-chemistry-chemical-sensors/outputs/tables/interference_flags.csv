@@ -1,0 +1,2 @@
+test_id,interferent,interferent_concentration_uM,response_change_percent,interpretation
+int_03,acetaminophen,50.0,8.4,potentially important interference in synthetic test

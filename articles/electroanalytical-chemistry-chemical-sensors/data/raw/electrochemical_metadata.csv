@@ -1,0 +1,4 @@
+record_id,method,instrument_id,electrode_id,electrode_material,reference_electrode,electrolyte,pH,temperature_K,notes
+m1,amperometry,potentiostat_A,spe_01,screen_printed_carbon,Ag_AgCl,phosphate_buffer,7.4,298.15,synthetic educational sensor calibration
+m2,potentiometry,potentiometer_A,ise_01,ion_selective_membrane,Ag_AgCl,background_electrolyte,7.0,298.15,synthetic educational Nernst response
+m3,cyclic_voltammetry,potentiostat_A,gce_01,glassy_carbon,Ag_AgCl,supporting_electrolyte,7.0,298.15,synthetic educational redox-probe workflow

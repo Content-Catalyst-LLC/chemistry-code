@@ -1,0 +1,9 @@
+time_min,sample_id,current_uA,electrode_id,condition
+0,sensor_check,1.000,spe_01,continuous_operation
+5,sensor_check,0.992,spe_01,continuous_operation
+10,sensor_check,0.984,spe_01,continuous_operation
+15,sensor_check,0.981,spe_01,continuous_operation
+20,sensor_check,0.973,spe_01,continuous_operation
+25,sensor_check,0.968,spe_01,continuous_operation
+30,sensor_check,0.961,spe_01,continuous_operation
+35,sensor_check,0.956,spe_01,continuous_operation

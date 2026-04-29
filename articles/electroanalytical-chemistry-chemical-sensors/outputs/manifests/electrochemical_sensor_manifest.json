@@ -1,0 +1,19 @@
+{
+  "article": "Electroanalytical Chemistry and Chemical Sensors",
+  "data_type": "synthetic educational electroanalytical data",
+  "calibration_model": {
+    "model": "current_uA = intercept + sensitivity * concentration_uM",
+    "sensitivity_uA_per_uM": 0.033550214592274676,
+    "intercept_uA": 0.012682403433476486,
+    "r_squared": 0.9999788167474093,
+    "blank_standard_deviation_uA": 0.0020816659994661326,
+    "limit_of_detection_uM": 0.18613883917858398
+  },
+  "nernst_like_potential_slope_mV_per_decade": -58.92,
+  "unknown_sample_count": 2,
+  "drift_percent_change": -4.400000000000004,
+  "voltammetric_peak_count": 4,
+  "interference_flag_count": 1,
+  "metadata_record_count": 3,
+  "responsible_use": "Synthetic educational data only; not validated for clinical, environmental, forensic, regulatory, or safety-critical use."
+}
