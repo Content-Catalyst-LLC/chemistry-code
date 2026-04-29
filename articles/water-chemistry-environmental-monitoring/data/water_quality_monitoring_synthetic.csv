@@ -1,0 +1,17 @@
+sample_id,date,site,medium,water_body_type,analyte,concentration,unit,benchmark,benchmark_unit,pH,temperature_c,conductivity_uS_cm,flow_L_s,latitude,longitude,method,filtered,qualifier
+W001,2026-04-01,River-A,surface_water,river,nitrate_as_N,7.8,mg/L,10.0,mg/L,7.4,13.2,640,820,38.6270,-90.1994,colorimetry,true,detected
+W002,2026-04-01,River-A,surface_water,river,phosphate_as_P,0.18,mg/L,0.10,mg/L,7.4,13.2,640,820,38.6270,-90.1994,colorimetry,true,detected
+W003,2026-04-01,River-A,surface_water,river,dissolved_oxygen,8.2,mg/L,5.0,mg/L,7.4,13.2,640,820,38.6270,-90.1994,optical_probe,false,detected
+W004,2026-04-02,Lake-B,surface_water,lake,dissolved_oxygen,5.6,mg/L,5.0,mg/L,8.6,22.4,420,0,38.7300,-90.1200,optical_probe,false,detected
+W005,2026-04-02,Lake-B,surface_water,lake,chlorophyll_a,26.0,ug/L,20.0,ug/L,8.6,22.4,420,0,38.7300,-90.1200,fluorometry,false,estimated
+W006,2026-04-03,Groundwater-C,groundwater,aquifer,arsenic,12.0,ug/L,10.0,ug/L,7.1,12.1,780,5,38.7000,-90.3100,ICP-MS,true,detected
+W007,2026-04-03,Groundwater-C,groundwater,aquifer,nitrate_as_N,11.4,mg/L,10.0,mg/L,7.1,12.1,780,5,38.7000,-90.3100,colorimetry,true,detected
+W008,2026-04-04,Urban-D,stormwater,urban_outfall,turbidity,38.0,NTU,25.0,NTU,7.0,18.9,920,210,38.6400,-90.2500,nephelometry,false,detected
+W009,2026-04-04,Urban-D,stormwater,urban_outfall,lead,18.0,ug/L,15.0,ug/L,7.0,18.9,920,210,38.6400,-90.2500,ICP-MS,false,detected
+W010,2026-04-04,Urban-D,stormwater,urban_outfall,E_coli,420,MPN/100mL,235,MPN/100mL,7.0,18.9,920,210,38.6400,-90.2500,membrane_filtration,false,detected
+W011,2026-04-05,Wetland-E,surface_water,wetland,ammonia_as_N,0.62,mg/L,1.20,mg/L,6.8,20.1,350,18,38.6155,-90.2100,colorimetry,true,detected
+W012,2026-04-05,Wetland-E,surface_water,wetland,dissolved_organic_carbon,8.9,mg/L,10.0,mg/L,6.8,20.1,350,18,38.6155,-90.2100,TOC_analyzer,true,detected
+W013,2026-04-06,Mine-F,surface_water,stream,cadmium,1.6,ug/L,0.8,ug/L,5.2,15.8,1450,95,38.5900,-90.1800,ICP-MS,true,detected
+W014,2026-04-06,Mine-F,surface_water,stream,sulfate,410,mg/L,250,mg/L,5.2,15.8,1450,95,38.5900,-90.1800,ion_chromatography,true,detected
+W015,2026-04-07,Reservoir-G,surface_water,reservoir,total_phosphorus,0.07,mg/L,0.10,mg/L,8.1,24.0,510,140,38.7800,-90.3500,persulfate_digestion,false,detected
+W016,2026-04-07,Reservoir-G,surface_water,reservoir,dissolved_oxygen,4.6,mg/L,5.0,mg/L,8.1,24.0,510,140,38.7800,-90.3500,optical_probe,false,detected

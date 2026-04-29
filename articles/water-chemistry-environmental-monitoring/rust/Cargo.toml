@@ -1,0 +1,8 @@
+[package]
+name = "water_chemistry_screening"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Educational water chemistry screening and nutrient-load calculations"
+
+[dependencies]
