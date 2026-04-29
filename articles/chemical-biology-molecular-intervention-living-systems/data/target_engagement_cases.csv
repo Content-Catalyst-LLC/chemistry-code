@@ -1,0 +1,5 @@
+condition,signal_control,signal_treated,signal_max,compound_uM
+low_dose,100,82,20,0.1
+mid_dose,100,55,20,1.0
+high_dose,100,22,20,10.0
+inactive_control,100,97,20,10.0

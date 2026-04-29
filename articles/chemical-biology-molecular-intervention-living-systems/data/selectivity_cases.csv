@@ -1,0 +1,7 @@
+compound,target,activity_nM,target_class
+compound_A,target_main,20,primary
+compound_A,off_target_1,3000,off_target
+compound_A,off_target_2,5000,off_target
+compound_B,target_main,200,primary
+compound_B,off_target_1,600,off_target
+compound_B,off_target_2,800,off_target

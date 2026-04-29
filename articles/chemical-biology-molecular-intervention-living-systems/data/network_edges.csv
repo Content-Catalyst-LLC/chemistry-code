@@ -1,0 +1,8 @@
+source,target,interaction_type,weight
+compound_X,target_A,binds,1.0
+target_A,pathway_A,inhibits,-0.8
+pathway_A,phenotype_1,drives,0.7
+target_A,pathway_B,activates,0.4
+pathway_B,phenotype_2,suppresses,-0.5
+compound_X,off_target_C,weak_binds,0.2
+off_target_C,pathway_D,perturbs,0.3

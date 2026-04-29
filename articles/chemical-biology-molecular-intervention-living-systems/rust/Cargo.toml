@@ -1,0 +1,6 @@
+[package]
+name = "chemical_biology_molecular_intervention_living_systems"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

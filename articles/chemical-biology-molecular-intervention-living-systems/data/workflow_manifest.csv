@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,dose_response,dose_response_cases.csv;occupancy_cases.csv,python/01_dose_response.py,outputs/tables/dose_response.csv,Calculate dose-response and occupancy scaffolds
+2,target_engagement_probe_quality,target_engagement_cases.csv;probe_quality_cases.csv,python/02_target_engagement_probe_quality.py,outputs/tables/target_engagement_probe_quality.csv,Calculate target engagement and probe quality metrics
+3,chemoproteomics_selectivity,chemoproteomics_competition.csv;selectivity_cases.csv,python/03_chemoproteomics_selectivity.py,outputs/tables/chemoproteomics_selectivity.csv,Calculate chemoproteomic competition and selectivity summaries
+4,perturbation_networks,perturbation_features.csv;network_edges.csv,python/04_perturbation_networks.py,outputs/tables/perturbation_networks.csv,Calculate perturbation-vector and network summaries
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,dose_response.csv;target_engagement_probe_quality.csv;chemoproteomics_selectivity.csv;perturbation_networks.csv,python/06_generate_chemical_biology_report.py,outputs/reports/chemical_biology_report.md,Generate report

@@ -1,0 +1,6 @@
+protein,control_intensity,treated_intensity,competition_intensity,known_target
+kinase_A,1000,220,850,1
+enzyme_B,800,760,770,0
+reader_C,1200,500,1100,1
+protease_D,600,580,590,0
+transporter_E,900,300,420,0
