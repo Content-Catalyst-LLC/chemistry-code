@@ -1,0 +1,13 @@
+sample_id,date,site,medium,analyte,concentration,unit,benchmark,benchmark_unit,pH,temperature_c,flow_L_s,latitude,longitude,method,qualifier
+S001,2026-04-01,River-A,surface_water,nitrate_as_N,7.8,mg/L,10.0,mg/L,7.4,13.2,820,38.6270,-90.1994,colorimetry,estimated
+S002,2026-04-01,River-A,surface_water,phosphate_as_P,0.18,mg/L,0.10,mg/L,7.4,13.2,820,38.6270,-90.1994,colorimetry,detected
+S003,2026-04-02,Wetland-B,sediment,lead,42.0,mg/kg,35.0,mg/kg,6.8,14.1,0,38.6155,-90.2100,ICP-MS,detected
+S004,2026-04-02,Urban-C,air,ozone,0.071,ppm,0.070,ppm,NA,21.4,0,38.6400,-90.2500,UV_photometry,detected
+S005,2026-04-02,Urban-C,air,PM2.5,18.5,ug/m3,15.0,ug/m3,NA,21.4,0,38.6400,-90.2500,beta_attenuation,detected
+S006,2026-04-03,Agricultural-D,groundwater,nitrate_as_N,12.3,mg/L,10.0,mg/L,7.1,12.7,35,38.7000,-90.3100,colorimetry,detected
+S007,2026-04-03,Agricultural-D,groundwater,atrazine,2.7,ug/L,3.0,ug/L,7.1,12.7,35,38.7000,-90.3100,LC-MS,detected
+S008,2026-04-04,Industrial-E,soil,benzene,0.042,mg/kg,0.030,mg/kg,6.4,18.8,0,38.5900,-90.1800,GC-MS,detected
+S009,2026-04-04,Industrial-E,groundwater,benzene,6.2,ug/L,5.0,ug/L,6.5,16.2,18,38.5900,-90.1800,GC-MS,detected
+S010,2026-04-05,Lake-F,surface_water,dissolved_oxygen,6.1,mg/L,5.0,mg/L,8.0,19.7,210,38.7300,-90.1200,electrochemical_probe,detected
+S011,2026-04-05,Lake-F,surface_water,phosphate_as_P,0.08,mg/L,0.10,mg/L,8.0,19.7,210,38.7300,-90.1200,colorimetry,detected
+S012,2026-04-06,Forest-G,soil,cadmium,0.52,mg/kg,0.70,mg/kg,5.9,15.3,0,38.7800,-90.3500,ICP-MS,detected

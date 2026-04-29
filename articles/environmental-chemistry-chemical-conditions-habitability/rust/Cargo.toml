@@ -1,0 +1,8 @@
+[package]
+name = "environmental_chemistry_screening"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Educational environmental chemistry screening and persistence example"
+
+[dependencies]
