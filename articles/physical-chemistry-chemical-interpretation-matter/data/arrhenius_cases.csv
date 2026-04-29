@@ -1,0 +1,6 @@
+case_id,temperature_K,pre_exponential_s_inv,activation_energy_kj_mol
+T280,280.00,1.0e12,75.0
+T298,298.15,1.0e12,75.0
+T320,320.00,1.0e12,75.0
+T350,350.00,1.0e12,75.0
+T400,400.00,1.0e12,75.0

@@ -1,0 +1,6 @@
+[package]
+name = "physical_chemistry_chemical_interpretation_matter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

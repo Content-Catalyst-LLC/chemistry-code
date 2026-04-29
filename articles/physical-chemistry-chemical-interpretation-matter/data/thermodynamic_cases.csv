@@ -1,0 +1,6 @@
+case_id,delta_g_standard_kj_mol,temperature_K,reaction_quotient
+favorable_demo,-20.0,298.15,1.0
+near_neutral_demo,0.0,298.15,1.0
+unfavorable_demo,20.0,298.15,1.0
+composition_shift_demo,-10.0,298.15,100.0
+temperature_high_demo,-20.0,350.00,10.0

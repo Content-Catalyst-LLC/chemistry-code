@@ -1,0 +1,4 @@
+case_id,grid_points,dx,dt,diffusion_coefficient,steps
+diffusion_demo,21,1.0,0.05,0.5,20
+slow_diffusion,21,1.0,0.05,0.2,20
+fast_diffusion,21,1.0,0.05,0.8,20

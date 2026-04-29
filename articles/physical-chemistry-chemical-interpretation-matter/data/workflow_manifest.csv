@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,thermodynamics_equilibrium,thermodynamic_cases.csv,python/01_thermodynamics_equilibrium.py,outputs/tables/thermodynamics_equilibrium.csv,Calculate equilibrium constants and nonstandard Gibbs free energy
+2,arrhenius_kinetics,arrhenius_cases.csv,python/02_arrhenius_kinetics.py,outputs/tables/arrhenius_kinetics.csv,Calculate Arrhenius temperature dependence
+3,boltzmann_diffusion,boltzmann_states.csv;diffusion_cases.csv,python/03_boltzmann_diffusion.py,outputs/tables/boltzmann_diffusion.csv,Calculate Boltzmann populations and diffusion profiles
+4,electrochemistry_transport,electrochemistry_cases.csv,python/04_electrochemistry_transport.py,outputs/tables/electrochemistry_transport.csv,Calculate electrochemical free energy and Nernst potentials
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,thermodynamics_equilibrium.csv;arrhenius_kinetics.csv;boltzmann_diffusion.csv;electrochemistry_transport.csv,python/06_generate_physical_chemistry_report.py,outputs/reports/physical_chemistry_report.md,Generate report
