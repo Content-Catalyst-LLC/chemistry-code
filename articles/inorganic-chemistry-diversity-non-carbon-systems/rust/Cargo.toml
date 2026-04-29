@@ -1,0 +1,6 @@
+[package]
+name = "inorganic_chemistry_diversity_non_carbon_systems"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

@@ -1,0 +1,6 @@
+complex_id,central_atom,formal_oxidation_state,coordination_number,ligand_count,geometry,charge
+hexaaqua_metal_like,M,2,6,6,octahedral,2
+tetraammine_metal_like,M,2,4,4,tetrahedral_or_square_planar,2
+square_planar_metal_like,M,2,4,4,square_planar,0
+octahedral_low_spin_like,M,3,6,6,octahedral,3
+linear_d10_like,M,1,2,2,linear,1

@@ -1,0 +1,6 @@
+material,metal_count,nonmetal_count,oxygen_count,transition_metal_present,halide_present,formal_average_metal_oxidation_state,structure_dimensionality_hint
+oxide_catalyst_like,2,3,3,1,0,3,extended_solid
+halide_perovskite_like,1,4,0,0,1,2,extended_solid
+phosphate_mineral_like,3,8,8,0,0,2,extended_solid
+coordination_complex_like,1,6,0,1,0,2,discrete_complex
+mixed_metal_oxide_like,3,4,4,1,0,2.67,extended_solid

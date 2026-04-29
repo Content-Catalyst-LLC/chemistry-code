@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,oxidation_states,oxidation_state_cases.csv,python/01_oxidation_states.py,outputs/tables/oxidation_states.csv,Calculate unknown oxidation states from charge balance
+2,coordination_ligands,coordination_cases.csv;ligand_cases.csv,python/02_coordination_ligands.py,outputs/tables/coordination_ligands.csv,Summarize coordination complexes and ligand descriptors
+3,crystal_field_magnetism,crystal_field_cases.csv,python/03_crystal_field_magnetism.py,outputs/tables/crystal_field_magnetism.csv,Calculate CFSE and spin-only magnetic moment scaffolds
+4,ionic_materials_descriptors,ionic_solid_cases.csv;perovskite_cases.csv;material_descriptor_cases.csv,python/04_ionic_materials_descriptors.py,outputs/tables/ionic_materials_descriptors.csv,Generate ionic solid perovskite and materials descriptors
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,oxidation_states.csv;coordination_ligands.csv;crystal_field_magnetism.csv;ionic_materials_descriptors.csv,python/06_generate_inorganic_report.py,outputs/reports/inorganic_report.md,Generate report

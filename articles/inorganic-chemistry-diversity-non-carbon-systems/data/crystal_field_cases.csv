@@ -1,0 +1,6 @@
+case_id,geometry,d_electron_count,t2g_electrons,eg_electrons,unpaired_electrons,delta_o_units
+octahedral_d3,octahedral,3,3,0,3,1.0
+octahedral_high_spin_d5,octahedral,5,3,2,5,1.0
+octahedral_low_spin_d6,octahedral,6,6,0,0,1.0
+octahedral_high_spin_d6,octahedral,6,4,2,4,1.0
+octahedral_d8,octahedral,8,6,2,2,1.0

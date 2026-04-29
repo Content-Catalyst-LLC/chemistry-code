@@ -1,0 +1,6 @@
+compound,cation_charge,anion_charge,ionic_separation_relative,structure_type_hint
+NaCl,1,-1,1.00,rock_salt_like
+MgO,2,-2,0.90,rock_salt_like
+CaF2,2,-1,1.10,fluorite_like
+Al2O3,3,-2,0.85,corundum_like
+LiF,1,-1,0.75,rock_salt_like

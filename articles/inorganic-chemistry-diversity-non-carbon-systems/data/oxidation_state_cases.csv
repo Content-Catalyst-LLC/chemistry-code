@@ -1,0 +1,8 @@
+compound,total_charge,known_contribution,unknown_atom_count,unknown_element,notes
+NaCl,0,-1,1,Na,sodium chloride charge-balance scaffold
+MgO,0,-2,1,Mg,magnesium oxide charge-balance scaffold
+Fe2O3,0,-6,2,Fe,iron oxide oxidation-state scaffold
+KMnO4,0,-7,1,Mn,permanganate oxidation-state scaffold
+SO4_2_minus,-2,-8,1,S,sulfate oxidation-state scaffold
+Cr2O7_2_minus,-2,-14,2,Cr,dichromate oxidation-state scaffold
+NH4_plus,1,4,1,N,ammonium oxidation-state scaffold

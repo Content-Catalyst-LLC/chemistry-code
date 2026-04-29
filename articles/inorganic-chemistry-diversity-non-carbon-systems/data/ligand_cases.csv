@@ -1,0 +1,8 @@
+ligand,charge,donor_atoms,denticity,field_strength_hint,notes
+water,0,O,1,weak_to_intermediate,neutral oxygen donor scaffold
+ammonia,0,N,1,intermediate,neutral nitrogen donor scaffold
+chloride,-1,Cl,1,weak,anionic halide donor scaffold
+cyanide,-1,C,1,strong,pi-acceptor ligand scaffold
+carbon_monoxide,0,C,1,strong,neutral pi-acceptor ligand scaffold
+ethylenediamine,0,N;N,2,intermediate,bidentate chelating ligand scaffold
+hydroxide,-1,O,1,weak_to_intermediate,anionic oxygen donor scaffold

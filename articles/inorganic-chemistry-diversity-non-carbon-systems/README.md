@@ -1,23 +1,27 @@
 # Inorganic Chemistry and the Diversity of Non-Carbon Systems
 
-Section: Core Domains of Chemistry
-
-This folder will support the Chemistry knowledge-series article:
+This article repository supports the Chemistry knowledge-series article:
 
 Inorganic Chemistry and the Diversity of Non-Carbon Systems
 
-The folder is prepared for reproducible computational chemistry workflows, synthetic datasets, documentation, notebooks, SQL metadata, and full-stack examples where useful.
+The repository provides reproducible computational scaffolding for inorganic chemistry, including oxidation-state accounting, coordination-number descriptors, ligand tables, crystal-field stabilization energy scaffolds, spin-only magnetic moment estimates, ionic-solid descriptors, perovskite tolerance factors, inorganic materials descriptors, SQL-backed inorganic-structure metadata, notebook scaffolding, and cross-language examples in Python, R, Julia, Fortran, Rust, Go, C, and C++.
 
-## Suggested workflow types
+No university affiliation is implied by this repository. The design goal is advanced reproducible computational rigor: clear assumptions, transparent calculations, synthetic educational data, provenance records, responsible-use notes, and reusable scientific workflow structure.
 
-- chemical data analysis
-- stoichiometric and thermodynamic calculations
-- kinetics and reaction-network modeling
-- spectroscopy or chromatography data workflows
-- molecular modeling or cheminformatics examples
-- environmental chemistry or toxicology examples
-- reproducible metadata and provenance examples
+## Scientific Focus
 
-## Responsible-use note
+The workflows demonstrate:
 
-This folder is educational and methodological scaffolding. It is not a substitute for laboratory validation, safety review, regulatory compliance, chemical risk assessment, or professional chemical practice.
+1. Oxidation-state accounting.
+2. Charge-balance checks.
+3. Coordination-number descriptors.
+4. Ligand and complex metadata.
+5. Crystal-field stabilization energy scaffolds.
+6. Spin-only magnetic moment estimates.
+7. Ionic-solid descriptor tables.
+8. Perovskite tolerance factor calculation.
+9. Materials descriptor scaffolds.
+10. SQL-backed inorganic-chemistry metadata.
+11. Cross-language numerical reproducibility.
+
+These examples are educational and methodological scaffolds. They are not validated materials-design tools, toxicity predictors, battery safety systems, environmental compliance systems, regulatory tools, or substitutes for professional chemical practice.
