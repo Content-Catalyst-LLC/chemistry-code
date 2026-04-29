@@ -1,0 +1,4 @@
+case_id,k1_A_to_B,k2_B_to_C,k3_A_to_D,k4_B_to_E,A0,B0,C0,D0,E0,total_time,time_step
+base_network,0.20,0.08,0.05,0.03,1.0,0.0,0.0,0.0,0.0,50,0.25
+fast_product,0.20,0.20,0.05,0.03,1.0,0.0,0.0,0.0,0.0,50,0.25
+side_reaction_high,0.20,0.08,0.15,0.10,1.0,0.0,0.0,0.0,0.0,50,0.25

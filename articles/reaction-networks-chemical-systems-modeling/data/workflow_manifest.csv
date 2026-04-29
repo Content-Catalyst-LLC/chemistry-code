@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,stoichiometric_matrix,species.csv;reactions.csv;stoichiometry.csv,python/01_stoichiometric_matrix.py,outputs/tables/stoichiometric_matrix.csv,Build stoichiometric matrix and metadata tables
+2,network_ode_simulation,network_cases.csv,python/02_network_ode_simulation.py,outputs/tables/network_ode_simulation.csv,Simulate reaction-network ODE trajectories
+3,parallel_branching_selectivity,parallel_cases.csv;network_cases.csv,python/03_parallel_branching_selectivity.py,outputs/tables/parallel_branching_selectivity.csv,Calculate parallel selectivity and branching outcomes
+4,flux_sensitivity_fitting,sensitivity_cases.csv;fitting_data.csv,python/04_flux_sensitivity_fitting.py,outputs/tables/flux_sensitivity_fitting.csv,Calculate flux tables sensitivity and simple parameter fit
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,stoichiometric_matrix.csv;network_ode_simulation.csv;parallel_branching_selectivity.csv;flux_sensitivity_fitting.csv,python/06_generate_network_report.py,outputs/reports/reaction_network_report.md,Generate report

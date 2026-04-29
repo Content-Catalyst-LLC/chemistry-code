@@ -1,0 +1,5 @@
+reaction_id,reaction,rate_constant,description
+r1,A_to_B,0.20,A converts to intermediate B
+r2,B_to_C,0.08,B converts to product C
+r3,A_to_D,0.05,A converts to side product D
+r4,B_to_E,0.03,B branches to side product E

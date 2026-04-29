@@ -1,0 +1,4 @@
+case_id,base_k1,delta,k2,k3,k4,total_time,time_step
+sensitivity_base,0.20,0.01,0.08,0.05,0.03,50,0.25
+sensitivity_fast,0.30,0.01,0.08,0.05,0.03,50,0.25
+sensitivity_slow,0.10,0.01,0.08,0.05,0.03,50,0.25
