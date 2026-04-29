@@ -1,0 +1,5 @@
+reaction,reactant_energy_kj_mol,product_energy_kj_mol,transition_state_energy_kj_mol
+reaction_A,0.0,-25.0,55.0
+reaction_B,0.0,10.0,80.0
+reaction_C,0.0,-5.0,35.0
+catalyzed_A,0.0,-25.0,30.0

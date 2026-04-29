@@ -1,0 +1,7 @@
+molecule,heavy_atoms,hetero_atoms,rings,h_bond_donors,h_bond_acceptors,rotatable_bonds,formal_charge
+water,1,1,0,2,1,0,0
+ethanol,3,1,0,1,1,1,0
+benzene,6,0,1,0,0,0,0
+acetic_acid,4,2,0,1,2,1,0
+aniline,7,1,1,1,1,1,0
+pyridine,6,1,1,0,1,0,0

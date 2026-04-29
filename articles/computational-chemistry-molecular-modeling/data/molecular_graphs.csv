@@ -1,0 +1,7 @@
+molecule,node_count,edge_count,aromatic_edges,hetero_nodes,connected_components
+water,1,0,0,1,1
+ethanol,3,2,0,1,1
+benzene,6,6,6,0,1
+acetic_acid,4,3,0,2,1
+aniline,7,7,6,1,1
+pyridine,6,6,6,1,1

@@ -1,0 +1,9 @@
+molecule,conformer,relative_energy_kj_mol,temperature_K
+butane_like,anti,0.0,298.15
+butane_like,gauche_1,3.8,298.15
+butane_like,gauche_2,3.8,298.15
+butane_like,eclipsed,16.0,298.15
+flexible_ligand,conf_1,0.0,298.15
+flexible_ligand,conf_2,2.5,298.15
+flexible_ligand,conf_3,5.0,298.15
+flexible_ligand,conf_4,9.0,298.15

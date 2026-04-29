@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,molecular_descriptors,molecular_descriptors.csv;molecular_graphs.csv,python/01_molecular_descriptors.py,outputs/tables/molecular_descriptors.csv,Calculate descriptor and molecular graph scaffolds
+2,conformer_boltzmann,conformer_energies.csv,python/02_conformer_boltzmann.py,outputs/tables/conformer_boltzmann.csv,Calculate Boltzmann conformer populations
+3,potentials_similarity,lennard_jones_cases.csv;fingerprints.csv,python/03_potentials_similarity.py,outputs/tables/potentials_similarity.csv,Calculate Lennard-Jones energies and Tanimoto similarity
+4,reaction_energy_modeling,reaction_energies.csv;md_toy_initial.csv,python/04_reaction_energy_modeling.py,outputs/tables/reaction_energy_modeling.csv,Calculate reaction energy barriers and toy MD update
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,molecular_descriptors.csv;conformer_boltzmann.csv;potentials_similarity.csv;reaction_energy_modeling.csv,python/06_generate_computational_chemistry_report.py,outputs/reports/computational_chemistry_report.md,Generate report

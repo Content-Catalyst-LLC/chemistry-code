@@ -1,0 +1,5 @@
+molecule,bit_1,bit_2,bit_3,bit_4,bit_5,bit_6,bit_7,bit_8
+mol_A,1,0,1,1,0,1,0,1
+mol_B,1,1,1,0,0,1,0,0
+mol_C,0,0,1,1,1,0,1,1
+mol_D,1,0,0,1,0,1,1,0
