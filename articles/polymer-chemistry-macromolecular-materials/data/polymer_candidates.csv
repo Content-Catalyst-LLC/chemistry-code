@@ -1,0 +1,8 @@
+polymer_id,polymer_class,glass_transition_C,melting_temperature_C,crystallinity_percent,oxygen_permeability_relative,modulus_MPa,elongation_percent,recyclability_score,relative_cost_score
+poly_A,polyolefin,-20,130,55,0.80,900,450,0.82,0.28
+poly_B,polyester,72,255,38,0.18,2400,120,0.74,0.42
+poly_C,polyamide,48,220,42,0.12,1800,180,0.52,0.55
+poly_D,elastomer,-55,,5,2.80,4,700,0.35,0.38
+poly_E,biopolymer,58,165,30,0.35,3200,40,0.68,0.62
+poly_F,fluoropolymer,115,327,60,0.05,650,250,0.22,0.92
+poly_G,hydrogel,-5,,0,6.50,0.2,950,0.48,0.50

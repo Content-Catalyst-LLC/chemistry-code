@@ -1,0 +1,8 @@
+process_id,polymer_id,polymerization_route,processing_method,processing_temperature_C,processing_time_h,atmosphere,post_treatment
+proc_001,poly_A,coordination_polymerization,extrusion,190,0.5,nitrogen,drawn_film
+proc_002,poly_B,step_growth_polycondensation,injection_molding,270,0.3,nitrogen,annealed
+proc_003,poly_C,step_growth_polyamidation,film_casting,240,1.0,nitrogen,conditioned_humidity
+proc_004,poly_D,network_curing,compression_molding,120,2.0,air,post_cure
+proc_005,poly_E,ring_opening_polymerization,solvent_casting,80,4.0,nitrogen,slow_dry
+proc_006,poly_F,radical_polymerization,compression_molding,340,0.7,nitrogen,quenched
+proc_007,poly_G,photopolymerization,casting,25,0.2,air,hydrated

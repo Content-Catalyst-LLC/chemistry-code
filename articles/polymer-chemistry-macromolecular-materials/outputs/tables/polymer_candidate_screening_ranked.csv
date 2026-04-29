@@ -1,0 +1,8 @@
+polymer_id,polymer_class,functional_mismatch_score,oxygen_permeability_term,modulus_term,elongation_term,recyclability_term,cost_term,recycling_pathway,biodegradation_claim_status,processing_temperature_C,responsible_design_review_required,rank
+poly_B,polyester,2.32384,0.002560000000000005,1.5679999999999998,0.5184,0.07488000000000014,0.16000000000000003,mechanical_or_chemical_recycling,no_biodegradation_claim,270.0,False,1
+poly_A,polyolefin,2.6847644444444447,2.3040000000000007,0.008000000000000002,0.36,0.008319999999999923,0.004444444444444428,mechanical_recycling,no_biodegradation_claim,190.0,False,2
+poly_C,polyamide,3.108524444444445,0.040960000000000024,0.5120000000000001,0.2304,1.6307200000000004,0.6944444444444449,limited_mechanical_recycling,no_biodegradation_claim,240.0,False,3
+poly_E,biopolymer,6.534897777777779,0.14399999999999993,3.8720000000000008,1.0816000000000001,0.29952,1.1377777777777778,composting_or_chemical_recycling,conditional_environment_specific,80.0,True,4
+poly_F,fluoropolymer,11.550231111111117,0.14400000000000004,0.09799999999999999,0.04000000000000001,6.9971200000000024,4.2711111111111135,specialized_recycling,no_biodegradation_claim,340.0,True,5
+poly_D,elastomer,50.9007239111111,43.26399999999999,0.7936128,2.5600000000000005,4.2120000000000015,0.07111111111111114,difficult_network_recycling,no_biodegradation_claim,120.0,True,6
+poly_G,hydrogel,264.15004447644446,254.016,0.7996800319999999,6.760000000000001,2.129920000000001,0.44444444444444453,application_specific,conditional_environment_specific,25.0,True,7

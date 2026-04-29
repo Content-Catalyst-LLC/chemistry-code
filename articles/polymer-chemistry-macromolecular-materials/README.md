@@ -1,23 +1,29 @@
 # Polymer Chemistry and Macromolecular Materials
 
-Section: Matter, Materials, and Applied Chemical Systems
+This article folder supports the Chemistry knowledge-series article **Polymer Chemistry and Macromolecular Materials**.
 
-This folder will support the Chemistry knowledge-series article:
+The workflows use synthetic educational data to demonstrate polymer candidate screening, molar-mass distribution calculations, dispersity, thermal and mechanical property tradeoffs, degradation and circularity flags, processing-condition tracking, and full-stack scientific-computing scaffolding.
 
-Polymer Chemistry and Macromolecular Materials
+## Repository structure
 
-The folder is prepared for reproducible computational chemistry workflows, synthetic datasets, documentation, notebooks, SQL metadata, and full-stack examples where useful.
-
-## Suggested workflow types
-
-- chemical data analysis
-- stoichiometric and thermodynamic calculations
-- kinetics and reaction-network modeling
-- spectroscopy or chromatography data workflows
-- molecular modeling or cheminformatics examples
-- environmental chemistry or toxicology examples
-- reproducible metadata and provenance examples
+- `python/` — polymer candidate screening, property-vector scoring, dispersity calculations, and provenance manifests
+- `r/` — molar-mass summaries, property tradeoff rankings, and reporting
+- `julia/` — molar-mass and dispersity calculations
+- `fortran/` — compact polymer metric kernel
+- `rust/` — polymer dataset manifest validator
+- `go/` — CSV audit utility for polymer records
+- `c/` — dispersity and degree-of-polymerization utility
+- `cpp/` — polymer candidate classifier
+- `sql/` — schema and queries for polymers, molar-mass fractions, processing, properties, and lifecycle notes
+- `docs/` — methodology, reproducibility, and responsible-use notes
+- `data/` — synthetic educational polymer chemistry data
+- `notebooks/` — notebook scaffolds and report notes
+- `outputs/` — generated tables, reports, figures, and manifests
 
 ## Responsible-use note
 
-This folder is educational and methodological scaffolding. It is not a substitute for laboratory validation, safety review, regulatory compliance, chemical risk assessment, or professional chemical practice.
+All data in this folder are synthetic and educational. These workflows are not validated for engineering certification, medical-device design, food-contact claims, biodegradation claims, recycling claims, or safety-critical polymer selection.
+
+## License
+
+This article folder follows the MIT-licensed repository convention used for the Chemistry code collection.

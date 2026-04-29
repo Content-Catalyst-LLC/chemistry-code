@@ -1,0 +1,35 @@
+{
+  "article": "Polymer Chemistry and Macromolecular Materials",
+  "data_type": "synthetic educational polymer chemistry data",
+  "target_profile": {
+    "oxygen_permeability_relative": 0.2,
+    "modulus_MPa": 1000.0,
+    "elongation_percent": 300.0,
+    "recyclability_score": 0.8,
+    "relative_cost_score": 0.3
+  },
+  "weights": {
+    "oxygen_permeability_relative": 1.6,
+    "modulus_MPa": 0.8,
+    "elongation_percent": 1.0,
+    "recyclability_score": 1.3,
+    "relative_cost_score": 1.0
+  },
+  "scales": {
+    "oxygen_permeability_relative": 0.5,
+    "modulus_MPa": 1000.0,
+    "elongation_percent": 250.0,
+    "recyclability_score": 0.25,
+    "relative_cost_score": 0.3
+  },
+  "candidate_count": 7,
+  "molar_mass_fraction_count": 15,
+  "processing_record_count": 7,
+  "property_measurement_count": 8,
+  "lifecycle_note_count": 7,
+  "target_count": 3,
+  "best_candidate": "poly_B",
+  "mean_functional_mismatch_score": 48.750432309333334,
+  "responsible_design_review_count": 4,
+  "responsible_use": "Synthetic educational data only; not validated for engineering certification, biodegradation claims, recycling claims, or regulated polymer use."
+}

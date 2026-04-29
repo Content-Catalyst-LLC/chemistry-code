@@ -1,0 +1,9 @@
+measurement_id,polymer_id,property_name,value,unit,method,temperature_C
+meas_001,poly_A,glass_transition,-20,C,DSC,25
+meas_002,poly_A,modulus,900,MPa,tensile_test,25
+meas_003,poly_B,oxygen_permeability_relative,0.18,relative,gas_permeation,25
+meas_004,poly_C,water_uptake,2.3,percent,gravimetric,25
+meas_005,poly_D,elongation,700,percent,tensile_test,25
+meas_006,poly_E,hydrolysis_half_life,180,days,accelerated_aging,37
+meas_007,poly_F,oxygen_permeability_relative,0.05,relative,gas_permeation,25
+meas_008,poly_G,swelling_ratio,15.4,dimensionless,gravimetric,25

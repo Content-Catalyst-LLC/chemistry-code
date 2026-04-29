@@ -1,0 +1,4 @@
+target_id,application,oxygen_permeability_relative,modulus_MPa,elongation_percent,recyclability_score,relative_cost_score
+target_001,flexible_barrier_material,0.20,1000,300,0.80,0.30
+target_002,tough_engineering_plastic,0.50,2500,100,0.60,0.50
+target_003,soft_hydrogel_material,5.00,1,800,0.50,0.50

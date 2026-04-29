@@ -1,0 +1,8 @@
+note_id,polymer_id,hydrolysis_sensitive,oxidation_sensitive,uv_sensitive,recycling_pathway,biodegradation_claim_status,additive_or_leachable_note
+life_001,poly_A,false,medium,medium,mechanical_recycling,no_biodegradation_claim,stabilizer package must be documented
+life_002,poly_B,medium,low,medium,mechanical_or_chemical_recycling,no_biodegradation_claim,residual catalyst and additives require tracking
+life_003,poly_C,medium,low,medium,limited_mechanical_recycling,no_biodegradation_claim,water uptake changes properties
+life_004,poly_D,low,medium,medium,difficult_network_recycling,no_biodegradation_claim,crosslinked additives require review
+life_005,poly_E,high,medium,medium,composting_or_chemical_recycling,conditional_environment_specific,biodegradation depends on conditions
+life_006,poly_F,low,low,low,specialized_recycling,no_biodegradation_claim,persistence and processing aids require review
+life_007,poly_G,high,medium,medium,application_specific,conditional_environment_specific,extractables and swelling medium require review

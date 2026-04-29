@@ -1,0 +1,16 @@
+polymer_id,fraction_id,molecule_count,molar_mass_g_mol
+poly_A,f1,1000,25000
+poly_A,f2,1800,55000
+poly_A,f3,2400,90000
+poly_A,f4,1600,135000
+poly_A,f5,700,210000
+poly_B,f1,900,30000
+poly_B,f2,1600,70000
+poly_B,f3,2000,110000
+poly_B,f4,1200,160000
+poly_B,f5,500,240000
+poly_C,f1,1200,22000
+poly_C,f2,1900,60000
+poly_C,f3,2100,95000
+poly_C,f4,900,150000
+poly_C,f5,300,260000

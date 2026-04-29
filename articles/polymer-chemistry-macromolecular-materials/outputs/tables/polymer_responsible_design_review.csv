@@ -1,0 +1,5 @@
+polymer_id,polymer_class,functional_mismatch_score,recycling_pathway,biodegradation_claim_status,processing_temperature_C,responsible_design_review_required,rank
+poly_E,biopolymer,6.534897777777779,composting_or_chemical_recycling,conditional_environment_specific,80.0,True,4
+poly_F,fluoropolymer,11.550231111111117,specialized_recycling,no_biodegradation_claim,340.0,True,5
+poly_D,elastomer,50.9007239111111,difficult_network_recycling,no_biodegradation_claim,120.0,True,6
+poly_G,hydrogel,264.15004447644446,application_specific,conditional_environment_specific,25.0,True,7
