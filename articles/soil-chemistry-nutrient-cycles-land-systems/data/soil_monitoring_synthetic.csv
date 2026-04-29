@@ -1,0 +1,9 @@
+sample_id,date,site,land_use,depth_cm,bulk_density_g_cm3,pH,electrical_conductivity_dS_m,soil_organic_carbon_percent,nitrate_mg_kg,ammonium_mg_kg,phosphorus_mg_kg,potassium_mg_kg,cec_cmolc_kg,base_cations_cmolc_kg,clay_percent,sand_percent,silt_percent,lead_mg_kg,cadmium_mg_kg,latitude,longitude,method,qualifier
+SOIL001,2026-04-01,Field-A,row_crop,30,1.32,6.4,0.42,1.8,18.0,4.5,32.0,145,12.0,8.4,24,38,38,22,0.32,38.6270,-90.1994,standard_soil_test,detected
+SOIL002,2026-04-01,Field-B,row_crop,30,1.45,5.3,0.56,1.1,42.0,6.2,68.0,118,8.5,4.2,16,52,32,18,0.28,38.7000,-90.3100,standard_soil_test,detected
+SOIL003,2026-04-02,Wetland-C,wetland,30,0.82,6.8,0.31,7.5,6.0,12.0,18.0,210,36.0,28.0,42,18,40,35,0.40,38.6155,-90.2100,wetland_soil_panel,detected
+SOIL004,2026-04-02,Urban-D,urban_garden,15,1.18,7.6,0.78,3.2,22.0,5.5,210.0,260,18.0,15.5,28,36,36,420,1.8,38.6400,-90.2500,urban_soil_screen,detected
+SOIL005,2026-04-03,Pasture-E,pasture,30,1.05,6.1,0.36,4.1,14.0,7.2,26.0,190,24.0,18.2,34,30,36,28,0.30,38.7800,-90.3500,standard_soil_test,detected
+SOIL006,2026-04-03,Orchard-F,orchard,30,1.22,6.9,0.62,2.6,28.0,4.8,74.0,225,16.0,12.7,30,34,36,66,0.55,38.5900,-90.1800,standard_soil_test,detected
+SOIL007,2026-04-04,Mine-G,reclaimed_mine,20,1.55,4.8,1.45,0.9,8.0,2.1,12.0,82,7.0,2.4,18,46,36,890,4.6,38.5700,-90.1600,contaminant_screen,detected
+SOIL008,2026-04-04,Riparian-H,riparian_buffer,30,1.12,6.7,0.44,5.8,9.0,8.5,20.0,165,28.0,22.5,40,22,38,31,0.36,38.6100,-90.2400,standard_soil_test,detected
