@@ -1,0 +1,9 @@
+molecule_id,name,smiles_like,scaffold
+M001,ethanol,CCO,aliphatic_alcohol
+M002,benzene,c1ccccc1,benzene
+M003,acetic_acid,CC(=O)O,carboxylic_acid
+M004,aniline,Nc1ccccc1,aniline
+M005,pyridine,n1ccccc1,pyridine
+M006,phenol,Oc1ccccc1,phenol
+M007,toluene,Cc1ccccc1,benzene
+M008,ethylamine,CCN,aliphatic_amine

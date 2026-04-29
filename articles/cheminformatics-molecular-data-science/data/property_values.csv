@@ -1,0 +1,9 @@
+molecule_id,property_name,value
+M001,solubility_score,0.85
+M002,solubility_score,0.20
+M003,solubility_score,0.92
+M004,solubility_score,0.45
+M005,solubility_score,0.55
+M006,solubility_score,0.50
+M007,solubility_score,0.22
+M008,solubility_score,0.80

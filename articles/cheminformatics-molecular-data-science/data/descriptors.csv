@@ -1,0 +1,9 @@
+molecule_id,heavy_atoms,hetero_atoms,rings,h_bond_donors,h_bond_acceptors,rotatable_bonds,formal_charge
+M001,3,1,0,1,1,1,0
+M002,6,0,1,0,0,0,0
+M003,4,2,0,1,2,1,0
+M004,7,1,1,1,1,1,0
+M005,6,1,1,0,1,0,0
+M006,7,1,1,1,1,0,0
+M007,7,0,1,0,0,1,0
+M008,3,1,0,1,1,1,0

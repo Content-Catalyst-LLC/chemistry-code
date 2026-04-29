@@ -1,0 +1,9 @@
+molecule_id,scaffold,split
+M001,aliphatic_alcohol,train
+M002,benzene,train
+M003,carboxylic_acid,train
+M004,aniline,train
+M005,pyridine,test
+M006,phenol,test
+M007,benzene,train
+M008,aliphatic_amine,test

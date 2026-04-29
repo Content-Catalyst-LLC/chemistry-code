@@ -1,0 +1,8 @@
+compound_id,target_id,assay_type,value,unit,relation
+M001,T001,biochemical,5000,nM,=
+M003,T001,biochemical,1200,nM,=
+M004,T001,biochemical,80,nM,=
+M005,T002,cellular,250,nM,=
+M006,T001,biochemical,50,nM,=
+M007,T002,cellular,3500,nM,=
+M008,T003,biochemical,900,nM,=

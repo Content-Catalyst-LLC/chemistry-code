@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,descriptors_graphs,molecules.csv;descriptors.csv;graphs.csv,python/01_descriptors_graphs.py,outputs/tables/descriptors_graphs.csv,Calculate descriptor and molecular graph scaffolds
+2,fingerprints_similarity,fingerprints.csv,python/02_fingerprints_similarity.py,outputs/tables/fingerprints_similarity.csv,Calculate pairwise Tanimoto similarity
+3,assay_standardization,assays.csv,python/03_assay_standardization.py,outputs/tables/assay_standardization.csv,Standardize assay units and calculate pIC50
+4,splits_applicability_modeling,descriptors.csv;property_values.csv;scaffold_splits.csv;query_descriptors.csv,python/04_splits_applicability_modeling.py,outputs/tables/splits_applicability_modeling.csv,Calculate scaffold split summaries applicability distances and simple model outputs
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,descriptors_graphs.csv;fingerprints_similarity.csv;assay_standardization.csv;splits_applicability_modeling.csv,python/06_generate_cheminformatics_report.py,outputs/reports/cheminformatics_report.md,Generate report

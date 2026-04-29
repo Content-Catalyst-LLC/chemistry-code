@@ -1,0 +1,4 @@
+query_id,heavy_atoms,hetero_atoms,rings,h_bond_donors,h_bond_acceptors,rotatable_bonds
+Q001,4,1,0,1,1,1
+Q002,12,4,2,2,5,6
+Q003,7,1,1,0,1,0
