@@ -1,0 +1,4 @@
+simulation_id,system,atoms,solvent,force_field,temperature_K,production_ns
+sim_water_box,water_box,3000,explicit,TIP3P_demo,298.15,5
+sim_polymer,polymer_melt,12000,none,generic_polymer_demo,450.00,20
+sim_protein,protein_ligand,52000,explicit,biomolecular_demo,310.00,100

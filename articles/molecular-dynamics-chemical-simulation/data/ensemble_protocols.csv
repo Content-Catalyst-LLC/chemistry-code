@@ -1,0 +1,4 @@
+protocol_id,ensemble,temperature_K,pressure_bar,timestep_fs,production_ns,thermostat,barostat,notes
+nve_demo,NVE,298.15,NA,1.0,1.0,none,none,constant energy educational scaffold
+nvt_demo,NVT,298.15,NA,2.0,10.0,velocity_rescale,none,constant volume educational scaffold
+npt_demo,NPT,298.15,1.0,2.0,20.0,nose_hoover,parrinello_rahman,constant pressure educational scaffold

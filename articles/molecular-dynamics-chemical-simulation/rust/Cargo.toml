@@ -1,0 +1,6 @@
+[package]
+name = "molecular_dynamics_chemical_simulation"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

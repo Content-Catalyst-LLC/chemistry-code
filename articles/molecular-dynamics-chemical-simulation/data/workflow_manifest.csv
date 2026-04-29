@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,velocity_verlet,particles_initial.csv,python/01_velocity_verlet.py,outputs/tables/velocity_verlet.csv,Calculate simple velocity-Verlet update and kinetic energy
+2,potentials,lennard_jones_cases.csv;coulomb_cases.csv,python/02_potentials.py,outputs/tables/potentials.csv,Calculate Lennard-Jones and Coulomb energy scaffolds
+3,trajectory_analysis,trajectory_positions.csv,python/03_trajectory_analysis.py,outputs/tables/trajectory_analysis.csv,Calculate mean-squared displacement and diffusion estimate
+4,rdf_ensemble_metadata,rdf_distances.csv;ensemble_protocols.csv;trajectory_summary.csv,python/04_rdf_ensemble_metadata.py,outputs/tables/rdf_ensemble_metadata.csv,Calculate RDF histogram and summarize ensemble metadata
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,velocity_verlet.csv;potentials.csv;trajectory_analysis.csv;rdf_ensemble_metadata.csv,python/06_generate_md_report.py,outputs/reports/molecular_dynamics_report.md,Generate report
