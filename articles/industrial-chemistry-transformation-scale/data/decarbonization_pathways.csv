@@ -1,0 +1,8 @@
+pathway_id,route_id,pathway,energy_reduction_percent,emissions_reduction_percent,implementation_difficulty_score,capital_intensity_score
+dec_001,ind_B,heat_integration,14,9,0.35,0.30
+dec_002,ind_B,catalyst_improvement,10,12,0.45,0.42
+dec_003,ind_C,solvent_recovery_upgrade,22,18,0.52,0.48
+dec_004,ind_D,process_intensification,28,21,0.40,0.55
+dec_005,ind_E,biobased_feedstock_control,12,20,0.62,0.50
+dec_006,ind_F,renewable_electricity_supply,5,35,0.38,0.44
+dec_007,ind_G,feedstock_sorting_and_purification,16,24,0.70,0.58

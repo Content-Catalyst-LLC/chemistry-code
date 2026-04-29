@@ -1,0 +1,8 @@
+route_id,process_type,theoretical_product_kg,actual_product_kg,waste_kg,solvent_kg,energy_kWh,reactor_volume_m3,batch_or_residence_time_h,hazard_score,separation_difficulty_score,feedstock_risk_score
+ind_A,batch_specialty,1000,820,420,1500,2200,12.0,10.0,0.42,0.50,0.46
+ind_B,continuous_catalytic,1000,910,210,350,1600,8.0,4.0,0.35,0.32,0.58
+ind_C,solvent_heavy_batch,1000,760,1800,4200,3600,15.0,14.0,0.68,0.82,0.40
+ind_D,flow_intensified,1000,880,260,600,1400,3.0,1.5,0.38,0.36,0.44
+ind_E,biobased_route,1000,790,520,1100,1900,10.0,8.0,0.31,0.55,0.35
+ind_F,electrochemical_route,1000,720,380,900,3100,5.0,6.0,0.40,0.48,0.52
+ind_G,recycle_feedstock_route,1000,700,610,1300,2500,9.0,9.0,0.45,0.66,0.30

@@ -1,0 +1,3 @@
+route_id,operation_count,total_operation_energy_kWh,total_water_m3,total_solvent_loss_kg,quality_critical_operation_count
+ind_B,5,1600.0,30.0,100.0,3
+ind_D,5,1260.0,23.0,88.0,4

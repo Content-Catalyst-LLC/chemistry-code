@@ -1,0 +1,8 @@
+pathway_id,route_id,pathway,energy_reduction_percent,emissions_reduction_percent,implementation_difficulty_score,capital_intensity_score,decarbonization_priority_score
+dec_004,ind_D,process_intensification,28.0,21.0,0.4,0.55,16.849999999999998
+dec_006,ind_F,renewable_electricity_supply,5.0,35.0,0.38,0.44,15.059999999999999
+dec_003,ind_C,solvent_recovery_upgrade,22.0,18.0,0.52,0.48,11.720000000000002
+dec_007,ind_G,feedstock_sorting_and_purification,16.0,24.0,0.7,0.58,9.920000000000002
+dec_005,ind_E,biobased_feedstock_control,12.0,20.0,0.62,0.5,7.199999999999999
+dec_001,ind_B,heat_integration,14.0,9.0,0.35,0.3,5.95
+dec_002,ind_B,catalyst_improvement,10.0,12.0,0.45,0.42,4.080000000000002

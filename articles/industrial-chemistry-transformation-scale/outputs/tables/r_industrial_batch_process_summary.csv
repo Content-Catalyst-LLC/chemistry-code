@@ -1,0 +1,3 @@
+"route_id","mean_yield_fraction","sd_yield_fraction","min_yield_fraction","max_yield_fraction","mean_impurity_percent","max_impurity_percent","mean_energy_kWh_kg","mean_solvent_intensity","max_temperature_deviation_C","simple_cpu_impurity","quality_review_required"
+"ind_B",0.905,0.0104880884817015,0.89,0.92,0.446666666666667,0.51,1.76666666666667,0.39,2.2,4.46468913521133,FALSE
+"ind_D",0.875,0.0104880884817015,0.86,0.89,0.666666666666667,0.76,1.605,0.695,3,1.74236124496439,TRUE

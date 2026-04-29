@@ -1,0 +1,8 @@
+route_id,process_type,yield_fraction,e_factor,solvent_intensity,energy_intensity_kWh_kg,space_time_yield_kg_m3_h,hazard_score,separation_difficulty_score,feedstock_risk_score,waste_review_required,solvent_review_required,energy_review_required,hazard_review_required,separation_review_required,responsible_scale_review,scale_up_review_required,screening_score,rank
+ind_D,flow_intensified,0.88,0.29545454545454547,0.6818181818181818,1.5909090909090908,195.55555555555554,0.38,0.36,0.44,False,False,False,False,False,True,True,-4.858949494949495,1
+ind_B,continuous_catalytic,0.91,0.23076923076923078,0.38461538461538464,1.7582417582417582,28.4375,0.35,0.32,0.58,False,False,False,False,False,True,True,1.5807747252747248,2
+ind_E,biobased_route,0.79,0.6582278481012658,1.3924050632911393,2.4050632911392404,9.875,0.31,0.55,0.35,False,False,False,False,False,True,True,4.0810886075949355,3
+ind_F,electrochemical_route,0.72,0.5277777777777778,1.25,4.305555555555555,24.0,0.4,0.48,0.52,False,False,True,False,False,True,True,4.473111111111111,4
+ind_A,batch_specialty,0.82,0.5121951219512195,1.829268292682927,2.682926829268293,6.833333333333333,0.42,0.5,0.46,False,False,False,False,False,True,True,4.597252032520325,5
+ind_G,recycle_feedstock_route,0.7,0.8714285714285714,1.8571428571428572,3.5714285714285716,8.641975308641975,0.45,0.66,0.3,False,False,True,False,False,True,True,5.705749559082892,6
+ind_C,solvent_heavy_batch,0.76,2.3684210526315788,5.526315789473684,4.7368421052631575,3.619047619047619,0.68,0.82,0.4,True,True,True,True,True,True,True,11.306185463659146,7

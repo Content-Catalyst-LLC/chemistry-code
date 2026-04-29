@@ -1,0 +1,8 @@
+route_id,process_type,waste_review_required,solvent_review_required,energy_review_required,hazard_review_required,separation_review_required,responsible_scale_review,scale_up_review_required,rank
+ind_D,flow_intensified,False,False,False,False,False,True,True,1
+ind_B,continuous_catalytic,False,False,False,False,False,True,True,2
+ind_E,biobased_route,False,False,False,False,False,True,True,3
+ind_F,electrochemical_route,False,False,True,False,False,True,True,4
+ind_A,batch_specialty,False,False,False,False,False,True,True,5
+ind_G,recycle_feedstock_route,False,False,True,False,False,True,True,6
+ind_C,solvent_heavy_batch,True,True,True,True,True,True,True,7

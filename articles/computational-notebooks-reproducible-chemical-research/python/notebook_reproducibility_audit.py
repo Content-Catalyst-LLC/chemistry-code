@@ -154,7 +154,7 @@ def write_summary_csv(path: Path, summaries: list[dict[str, object]]) -> None:
     ]
 
     with path.open("w", newline="", encoding="utf-8") as handle:
-        writer = csv.DictWriter(handle, fieldnames=fieldnames)
+        writer = csv.DictWriter(handle, fieldnames=fieldnames, extrasaction="ignore")
         writer.writeheader()
 
         for row in summaries:

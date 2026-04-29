@@ -1,0 +1,8 @@
+note_id,route_id,feedstock_type,waste_management_note,process_safety_note,responsible_scale_review
+life_001,ind_A,petrochemical_intermediate,solvent recovery and incineration review,flammable inventory requires safeguards,true
+life_002,ind_B,petrochemical_and_catalyst,catalyst recovery and solvent recycle,continuous exotherm requires control,true
+life_003,ind_C,petrochemical_intermediate,high solvent and waste burden,thermal runaway and toxic intermediate review,true
+life_004,ind_D,mixed_feedstock,membrane and solvent recycle review,flow pressure and startup/shutdown review,true
+life_005,ind_E,biobased_feedstock,biogenic residue and wastewater review,feed variability and biological contamination review,true
+life_006,ind_F,electrochemical_feedstock,electrolyte recovery and gas handling review,electrical and gas evolution hazards,true
+life_007,ind_G,recycled_feedstock,contaminant purge and residue review,feed impurity management required,true

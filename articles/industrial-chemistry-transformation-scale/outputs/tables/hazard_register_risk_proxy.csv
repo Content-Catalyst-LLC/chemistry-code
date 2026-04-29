@@ -1,0 +1,9 @@
+hazard_id,route_id,hazard_type,severity_score,likelihood_score,safeguard_score,residual_risk_proxy,review_required
+haz_001,ind_A,flammable_solvent_inventory,0.55,0.32,0.7,0.052800000000000014,True
+haz_002,ind_B,exotherm_control,0.5,0.24,0.78,0.026399999999999996,True
+haz_003,ind_C,thermal_runaway_potential,0.86,0.4,0.58,0.14448000000000003,True
+haz_004,ind_C,toxic_intermediate,0.72,0.34,0.6,0.09792000000000001,True
+haz_005,ind_D,pressure_flow_control,0.48,0.2,0.82,0.017280000000000004,True
+haz_006,ind_E,biological_feed_variability,0.35,0.45,0.7,0.04725000000000001,False
+haz_007,ind_F,electrical_and_gas_evolution,0.62,0.28,0.66,0.05902399999999999,True
+haz_008,ind_G,feedstock_contamination,0.5,0.46,0.62,0.0874,True

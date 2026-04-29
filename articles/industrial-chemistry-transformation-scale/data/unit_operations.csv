@@ -1,0 +1,11 @@
+operation_id,route_id,operation_type,energy_kWh,water_m3,solvent_loss_kg,quality_critical_flag
+op_001,ind_B,feed_pretreatment,120,5,8,false
+op_002,ind_B,continuous_reaction,620,8,20,true
+op_003,ind_B,distillation_recovery,540,12,55,true
+op_004,ind_B,filtration,80,2,5,false
+op_005,ind_B,drying,240,3,12,true
+op_006,ind_D,feed_mixing,70,3,6,false
+op_007,ind_D,flow_reaction,420,4,18,true
+op_008,ind_D,membrane_separation,310,5,24,true
+op_009,ind_D,crystallization,280,9,30,true
+op_010,ind_D,drying,180,2,10,true

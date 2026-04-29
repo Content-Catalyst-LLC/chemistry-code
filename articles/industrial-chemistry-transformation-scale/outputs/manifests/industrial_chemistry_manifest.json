@@ -1,0 +1,13 @@
+{
+  "article": "Industrial Chemistry and the Transformation of Scale",
+  "data_type": "synthetic educational industrial chemistry data",
+  "route_count": 7,
+  "batch_record_count": 12,
+  "unit_operation_record_count": 10,
+  "hazard_record_count": 8,
+  "decarbonization_record_count": 7,
+  "lifecycle_note_count": 7,
+  "best_candidate": "ind_D",
+  "scale_up_review_count": 7,
+  "responsible_use": "Synthetic educational data only; not validated for plant design, process safety, process control, regulatory reporting, GMP release, environmental claims, procurement, or industrial investment decisions."
+}
