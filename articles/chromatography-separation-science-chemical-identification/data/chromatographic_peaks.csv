@@ -1,0 +1,11 @@
+peak_id,sample_id,retention_time_min,baseline_width_min,peak_area,detector
+p1,unknown_mix,1.22,0.18,15200,FID
+p2,unknown_mix,2.85,0.25,88400,FID
+p3,unknown_mix,4.10,0.31,45100,FID
+p4,unknown_mix,5.36,0.34,61700,FID
+p5,unknown_mix,7.02,0.42,29300,FID
+p6,qc_mix,1.21,0.17,15150,FID
+p7,qc_mix,2.88,0.24,87900,FID
+p8,qc_mix,4.06,0.30,45900,FID
+p9,qc_mix,5.42,0.35,62500,FID
+p10,qc_mix,7.00,0.40,29800,FID

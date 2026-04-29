@@ -1,0 +1,4 @@
+record_id,method,instrument_id,column_id,mobile_phase_or_carrier,operator,temperature_program,dead_time_min,notes
+m1,GC-FID,gc_fid_A,column_nonpolar_30m,helium,analyst_alpha,isothermal_training_method,0.92,synthetic educational chromatogram
+m2,GC-MS,gc_ms_A,column_nonpolar_30m,helium,analyst_beta,isothermal_training_method,0.92,synthetic educational identification scaffold
+m3,HPLC-UV,hplc_uv_A,c18_150mm,water_acetonitrile_gradient,analyst_gamma,gradient_training_method,1.10,synthetic educational calibration scaffold

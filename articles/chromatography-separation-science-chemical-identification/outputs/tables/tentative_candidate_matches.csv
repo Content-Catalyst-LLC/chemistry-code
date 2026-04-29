@@ -1,0 +1,6 @@
+peak_id,candidate_compound,retention_time_min,reference_retention_time_min,delta_min,evidence_type,identification_status
+p1,solvent_front,1.22,1.2,0.020000000000000018,system_marker,tentative retention-time match
+p2,caffeine,2.85,2.88,0.029999999999999805,synthetic_reference_standard,tentative retention-time match
+p3,benzoic_acid,4.1,4.06,0.040000000000000036,synthetic_reference_standard,tentative retention-time match
+p4,acetophenone,5.36,5.42,0.05999999999999961,synthetic_reference_standard,tentative retention-time match
+p5,ethyl_vanillin,7.02,7.0,0.019999999999999574,synthetic_reference_standard,tentative retention-time match

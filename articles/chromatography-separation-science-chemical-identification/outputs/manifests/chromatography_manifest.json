@@ -1,0 +1,17 @@
+{
+  "article": "Chromatography, Separation Science, and Chemical Identification",
+  "data_type": "synthetic educational chromatographic data",
+  "dead_time_min": 0.92,
+  "retention_time_tolerance_min": 0.08,
+  "peak_count": 10,
+  "candidate_match_count": 5,
+  "metadata_record_count": 3,
+  "calibration_model": {
+    "slope_area_per_mg_l": 5230.286340394448,
+    "intercept_area": 172.99196493791533,
+    "r_squared": 0.9999984735025191,
+    "residual_standard_deviation": 97.61126520145787
+  },
+  "mean_unknown_concentration_mg_l": 14.972476891674262,
+  "responsible_use": "Synthetic educational data only; retention-time matching alone is not definitive chemical identification."
+}

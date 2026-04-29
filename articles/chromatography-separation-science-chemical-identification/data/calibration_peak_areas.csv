@@ -1,0 +1,10 @@
+standard_id,compound,concentration_mg_l,peak_area,injection_id
+blank,caffeine,0,120,std_blank
+std_01,caffeine,2,10550,std_01
+std_02,caffeine,5,26300,std_02
+std_03,caffeine,10,52600,std_03
+std_04,caffeine,20,104900,std_04
+std_05,caffeine,40,209300,std_05
+unknown_A_rep1,caffeine,,78400,inj_01
+unknown_A_rep2,caffeine,,79100,inj_02
+unknown_A_rep3,caffeine,,77950,inj_03

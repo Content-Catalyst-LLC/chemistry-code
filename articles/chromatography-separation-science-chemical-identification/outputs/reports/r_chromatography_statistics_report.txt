@@ -1,0 +1,36 @@
+Synthetic Chromatography Statistics Report
+=========================================
+
+Calibration model:
+
+Call:
+lm(formula = peak_area ~ concentration_mg_l, data = standards)
+
+Residuals:
+     1      2      3      4      5      6 
+-52.99 -83.56 -24.42 124.14 121.28 -84.45 
+
+Coefficients:
+                   Estimate Std. Error  t value Pr(>|t|)    
+(Intercept)         172.992     60.863    2.842   0.0468 *  
+concentration_mg_l 5230.286      3.231 1618.757 8.74e-13 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 109.1 on 4 degrees of freedom
+Multiple R-squared:      1,	Adjusted R-squared:      1 
+F-statistic: 2.62e+06 on 1 and 4 DF,  p-value: 8.738e-13
+
+
+Unknown summary:
+  compound mean_peak_area sd_peak_area mean_concentration_mg_l
+1 caffeine       78483.33     579.5113                14.97248
+  sd_concentration_mg_l replicate_count
+1             0.1107992               3
+
+Peak summary:
+    sample_id mean_peak_area max_peak_area peak_count
+1      qc_mix          48250         87900          5
+2 unknown_mix          47940         88400          5
+
+Responsible-use note: synthetic educational data only.

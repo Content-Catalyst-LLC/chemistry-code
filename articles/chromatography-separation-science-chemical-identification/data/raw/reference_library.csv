@@ -1,0 +1,6 @@
+compound,reference_retention_time_min,evidence_type,notes
+solvent_front,1.20,system_marker,synthetic system marker
+caffeine,2.88,synthetic_reference_standard,educational retention reference
+benzoic_acid,4.06,synthetic_reference_standard,educational retention reference
+acetophenone,5.42,synthetic_reference_standard,educational retention reference
+ethyl_vanillin,7.00,synthetic_reference_standard,educational retention reference
