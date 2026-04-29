@@ -1,0 +1,4 @@
+case_id,initial_activity,decay_constant_per_s,total_time_s,time_step_s
+stable_catalyst,1.0,0.0005,3600,300
+moderate_deactivation,1.0,0.0020,3600,300
+rapid_deactivation,1.0,0.0060,3600,300

@@ -1,0 +1,4 @@
+case_id,k_bind,k_release,k_product,catalyst_total_mol_l,substrate_initial_mol_l,total_time_s,time_step_s
+cycle_demo_001,0.80,0.20,0.40,0.010,0.100,60,0.5
+cycle_demo_002,1.20,0.15,0.60,0.010,0.100,60,0.5
+cycle_demo_003,0.50,0.30,0.20,0.010,0.100,60,0.5

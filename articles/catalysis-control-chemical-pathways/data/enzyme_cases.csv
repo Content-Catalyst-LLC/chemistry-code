@@ -1,0 +1,9 @@
+case_id,substrate_mM,Vmax_umol_min,Km_mM
+enzyme_001,0.05,2.0,0.75
+enzyme_002,0.10,2.0,0.75
+enzyme_003,0.25,2.0,0.75
+enzyme_004,0.50,2.0,0.75
+enzyme_005,1.00,2.0,0.75
+enzyme_006,2.00,2.0,0.75
+enzyme_007,5.00,2.0,0.75
+enzyme_008,10.00,2.0,0.75

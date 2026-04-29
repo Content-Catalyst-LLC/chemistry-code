@@ -1,0 +1,6 @@
+[package]
+name = "catalysis_control_chemical_pathways"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

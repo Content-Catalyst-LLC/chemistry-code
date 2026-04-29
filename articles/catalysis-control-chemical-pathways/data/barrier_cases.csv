@@ -1,0 +1,5 @@
+case_id,temperature_K,delta_Ea_kJ_mol
+modest_barrier_lowering,298.15,10.0
+strong_barrier_lowering,298.15,40.0
+industrial_temperature,600.0,40.0
+mild_enzyme_like,310.15,25.0

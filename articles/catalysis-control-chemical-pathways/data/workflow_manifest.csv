@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,barrier_rate_enhancement,barrier_cases.csv,python/01_barrier_rate_enhancement.py,outputs/tables/barrier_rate_enhancement.csv,Estimate catalytic rate enhancement from activation barrier lowering
+2,turnover_metrics,turnover_experiments.csv,python/02_turnover_metrics.py,outputs/tables/turnover_metrics.csv,Calculate TON TOF and catalytic activity
+3,adsorption_surface_rates,adsorption_cases.csv;enzyme_cases.csv,python/03_adsorption_surface_rates.py,outputs/tables/adsorption_surface_rates.csv,Calculate Langmuir coverage surface rates and Michaelis-Menten rates
+4,catalytic_cycle_deactivation,catalytic_cycle_cases.csv;deactivation_cases.csv,python/04_catalytic_cycle_deactivation.py,outputs/tables/catalytic_cycle_deactivation.csv,Simulate catalytic cycles and deactivation scaffolds
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,barrier_rate_enhancement.csv;turnover_metrics.csv;adsorption_surface_rates.csv;catalytic_cycle_deactivation.csv,python/06_generate_catalysis_report.py,outputs/reports/catalysis_report.md,Generate report

@@ -1,0 +1,5 @@
+experiment,catalyst_type,product_mol,catalyst_mol,time_s
+homogeneous_demo,homogeneous,0.050,0.00050,3600
+enzyme_demo,enzyme,0.00080,0.000002,60
+heterogeneous_demo,heterogeneous,1.50,0.0050,7200
+screening_demo,organocatalyst,0.010,0.00010,1800
