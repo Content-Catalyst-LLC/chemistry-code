@@ -1,0 +1,13 @@
+run_id,material_id,replicate,photocurrent_mA_cm2,open_circuit_voltage_V,fill_factor,photostability_score,measurement_condition
+run_001,semi_A,1,35.1,0.72,0.78,0.92,synthetic_standard_light
+run_002,semi_A,2,34.7,0.71,0.77,0.91,synthetic_standard_light
+run_003,semi_A,3,35.4,0.72,0.79,0.93,synthetic_standard_light
+run_004,semi_D,1,24.8,1.05,0.74,0.58,synthetic_standard_light
+run_005,semi_D,2,25.5,1.02,0.72,0.56,synthetic_standard_light
+run_006,semi_D,3,24.1,1.04,0.73,0.60,synthetic_standard_light
+run_007,semi_E,1,16.2,0.88,0.62,0.42,synthetic_standard_light
+run_008,semi_E,2,15.8,0.86,0.61,0.45,synthetic_standard_light
+run_009,semi_E,3,16.6,0.87,0.63,0.40,synthetic_standard_light
+run_010,semi_G,1,18.8,0.90,0.68,0.64,synthetic_standard_light
+run_011,semi_G,2,19.1,0.91,0.69,0.63,synthetic_standard_light
+run_012,semi_G,3,18.5,0.89,0.67,0.65,synthetic_standard_light

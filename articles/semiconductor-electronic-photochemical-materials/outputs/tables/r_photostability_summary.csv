@@ -1,0 +1,4 @@
+"material_id","degradation_slope_per_hour","initial_performance","final_performance","percent_performance_loss"
+"semi_A",-5.4147465437788e-05,1,0.89,11
+"semi_D",-0.00167041636230826,1,0.66,34
+"semi_E",-0.00334083272461651,1,0.31,69

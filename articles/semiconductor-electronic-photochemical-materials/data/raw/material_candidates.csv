@@ -1,0 +1,8 @@
+material_id,material_class,band_gap_eV,electron_mobility_cm2_V_s,hole_mobility_cm2_V_s,carrier_lifetime_ns,absorption_edge_nm,photostability_score,processing_temperature_C,critical_material_flag
+semi_A,silicon,1.12,1350,480,1000,1107,0.92,950,false
+semi_B,metal_oxide,3.20,12,0.5,4,388,0.86,450,false
+semi_C,organic_semiconductor,1.85,0.08,0.04,12,670,0.48,120,false
+semi_D,hybrid_perovskite,1.55,35,20,650,800,0.58,110,true
+semi_E,quantum_dot,2.10,5,2,80,590,0.42,180,true
+semi_F,transparent_conducting_oxide,3.65,45,0.01,2,340,0.81,350,true
+semi_G,two_dimensional_semiconductor,1.80,90,45,120,690,0.64,250,true

@@ -1,0 +1,8 @@
+note_id,material_id,critical_material_flag,toxicity_or_exposure_concern,processing_energy_review,end_of_life_note,responsible_design_review
+life_001,semi_A,false,low,high_temperature_processing,recycling infrastructure exists but purity matters,true
+life_002,semi_B,false,low,moderate_temperature_processing,oxide recovery and dust exposure review,false
+life_003,semi_C,false,medium,low_temperature_processing,solvent and organic degradation review,true
+life_004,semi_D,true,medium,low_temperature_processing,encapsulation and elemental recovery review,true
+life_005,semi_E,true,high,moderate_temperature_processing,quantum dot containment and recovery review,true
+life_006,semi_F,true,medium,moderate_temperature_processing,critical element recovery review,true
+life_007,semi_G,true,medium,moderate_temperature_processing,emerging material recovery and exposure review,true

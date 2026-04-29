@@ -1,0 +1,31 @@
+{
+  "article": "Semiconductor, Electronic, and Photochemical Materials",
+  "data_type": "synthetic educational electronic and photochemical materials data",
+  "target_profile": {
+    "band_gap_eV": 1.6,
+    "photostability_score": 0.9,
+    "mobility_balance_ratio": 0.5,
+    "processing_temperature_C": 150.0
+  },
+  "weights": {
+    "band_gap_eV": 1.4,
+    "photostability_score": 1.5,
+    "mobility_balance_ratio": 0.9,
+    "processing_temperature_C": 0.7
+  },
+  "scales": {
+    "band_gap_eV": 0.5,
+    "photostability_score": 0.25,
+    "mobility_balance_ratio": 0.5,
+    "processing_temperature_C": 350.0
+  },
+  "candidate_count": 7,
+  "device_run_count": 12,
+  "photostability_record_count": 18,
+  "spectroscopy_record_count": 4,
+  "interface_record_count": 5,
+  "lifecycle_note_count": 7,
+  "best_candidate": "semi_G",
+  "responsible_design_review_count": 6,
+  "responsible_use": "Synthetic educational data only; not validated for device certification, photovoltaic claims, photochemical safety, procurement, environmental claims, industrial process design, or regulatory use."
+}

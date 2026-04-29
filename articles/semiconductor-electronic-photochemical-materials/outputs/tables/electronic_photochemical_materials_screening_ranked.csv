@@ -1,0 +1,8 @@
+material_id,material_class,band_gap_eV,edge_band_gap_estimate_eV,electron_mobility_cm2_V_s,hole_mobility_cm2_V_s,carrier_lifetime_ns,transport_proxy,mobility_balance_ratio,photostability_score,processing_temperature_C,critical_material_flag,stability_review_required,processing_review_required,lifecycle_review_required,responsible_design_review_required,screening_score,rank
+semi_G,two_dimensional_semiconductor,1.8,1.7971014492753623,90.0,45.0,120.0,16200.0,0.5,0.64,250.0,True,False,False,True,True,2.503542857142857,1
+semi_D,hybrid_perovskite,1.55,1.55,35.0,20.0,650.0,35750.0,0.5714285714285714,0.58,110.0,True,True,False,True,True,3.0991102040816343,2
+semi_C,organic_semiconductor,1.85,1.8507462686567164,0.08,0.04,12.0,1.44,0.5,0.48,120.0,False,True,False,True,True,4.588742857142858,3
+semi_A,silicon,1.12,1.1201445347786811,1350.0,480.0,1000.0,1830000.0,0.35555555555555557,0.92,950.0,False,False,True,True,True,5.032093968253967,4
+semi_E,quantum_dot,2.1,2.1016949152542375,5.0,2.0,80.0,560.0,0.4,0.42,180.0,True,True,False,True,True,7.570742857142857,5
+semi_B,metal_oxide,3.2,3.195876288659794,12.0,0.5,4.0,50.0,0.041666666666666664,0.86,450.0,False,False,False,False,False,15.644935714285715,6
+semi_F,transparent_conducting_oxide,3.65,3.6470588235294117,45.0,0.01,2.0,90.02,0.00022222222222222223,0.81,350.0,True,False,False,True,True,25.4561716063492,7

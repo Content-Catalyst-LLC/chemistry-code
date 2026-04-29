@@ -1,0 +1,8 @@
+"material_class","mean_band_gap_eV","min_band_gap_eV","max_band_gap_eV","candidate_count"
+"hybrid_perovskite",1.55,1.55,1.55,1
+"metal_oxide",3.2,3.2,3.2,1
+"organic_semiconductor",1.85,1.85,1.85,1
+"quantum_dot",2.1,2.1,2.1,1
+"silicon",1.12,1.12,1.12,1
+"transparent_conducting_oxide",3.65,3.65,3.65,1
+"two_dimensional_semiconductor",1.8,1.8,1.8,1

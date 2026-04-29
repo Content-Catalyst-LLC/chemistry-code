@@ -1,0 +1,4 @@
+material_id,degradation_slope_per_hour,initial_performance,final_performance,percent_performance_loss,measurement_count
+semi_A,-5.4147465437788003e-05,1.0,0.89,10.999999999999998,6
+semi_D,-0.0016704163623082542,1.0,0.66,34.0,6
+semi_E,-0.003340832724616509,1.0,0.31,69.0,6

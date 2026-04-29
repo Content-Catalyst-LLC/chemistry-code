@@ -1,0 +1,5 @@
+material_id,mean_photocurrent_mA_cm2,mean_open_circuit_voltage_V,mean_fill_factor,performance_proxy,mean_photostability_score,replicate_count
+semi_A,35.06666666666667,0.7166666666666667,0.78,19.60226666666667,0.92,3
+semi_D,24.8,1.0366666666666666,0.73,18.767813333333333,0.58,3
+semi_E,16.2,0.87,0.62,8.73828,0.42333333333333334,3
+semi_G,18.8,0.9,0.68,11.505600000000001,0.64,3

@@ -1,0 +1,5 @@
+measurement_id,material_id,method,absorption_peak_nm,emission_peak_nm,quantum_yield_relative,excited_state_lifetime_ns
+spec_001,semi_C,uv_vis_pl,520,710,0.18,3.2
+spec_002,semi_D,uv_vis_pl,760,805,0.42,120.0
+spec_003,semi_E,uv_vis_pl,480,620,0.65,18.0
+spec_004,semi_G,uv_vis_pl,650,720,0.28,9.5

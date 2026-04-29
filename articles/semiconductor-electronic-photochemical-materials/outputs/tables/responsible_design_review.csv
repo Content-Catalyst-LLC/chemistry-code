@@ -1,0 +1,7 @@
+material_id,material_class,critical_material_flag,stability_review_required,processing_review_required,lifecycle_review_required,responsible_design_review_required,rank
+semi_G,two_dimensional_semiconductor,True,False,False,True,True,1
+semi_D,hybrid_perovskite,True,True,False,True,True,2
+semi_C,organic_semiconductor,False,True,False,True,True,3
+semi_A,silicon,False,False,True,True,True,4
+semi_E,quantum_dot,True,True,False,True,True,5
+semi_F,transparent_conducting_oxide,True,False,False,True,True,7
