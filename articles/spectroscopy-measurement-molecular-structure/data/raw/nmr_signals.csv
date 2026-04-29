@@ -1,0 +1,5 @@
+signal_id,sample_id,chemical_shift_ppm,integration,multiplicity,educational_region
+s1,unknown_A,7.26,5.0,multiplet,aromatic_or_vinylic
+s2,unknown_A,4.12,2.0,quartet,heteroatom_adjacent_or_ester_region
+s3,unknown_A,2.08,3.0,singlet,carbonyl_adjacent_methyl_region
+s4,unknown_A,1.25,3.0,triplet,alkyl_region

@@ -1,0 +1,15 @@
+{
+  "article": "Spectroscopy and the Measurement of Molecular Structure",
+  "data_type": "synthetic educational spectroscopy data",
+  "ir_peak_count": 13,
+  "nmr_signal_count": 4,
+  "metadata_record_count": 3,
+  "uvvis_calibration": {
+    "slope": 74.37142857142857,
+    "intercept": 0.005476190476190523,
+    "r_squared": 0.9999750090211038,
+    "residual_standard_deviation": 0.0013911283532579133
+  },
+  "mean_unknown_concentration_mol_l": 0.005129978230247151,
+  "responsible_use": "Synthetic educational data only; not validated for laboratory, clinical, forensic, environmental, industrial, or regulatory use."
+}

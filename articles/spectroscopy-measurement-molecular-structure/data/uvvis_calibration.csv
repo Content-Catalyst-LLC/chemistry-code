@@ -1,0 +1,10 @@
+standard_id,concentration_mol_l,absorbance,wavelength_nm,path_length_cm
+blank,0.000,0.006,520,1.0
+std_01,0.002,0.154,520,1.0
+std_02,0.004,0.301,520,1.0
+std_03,0.006,0.453,520,1.0
+std_04,0.008,0.602,520,1.0
+std_05,0.010,0.748,520,1.0
+unknown_A_rep1,,0.386,520,1.0
+unknown_A_rep2,,0.391,520,1.0
+unknown_A_rep3,,0.384,520,1.0

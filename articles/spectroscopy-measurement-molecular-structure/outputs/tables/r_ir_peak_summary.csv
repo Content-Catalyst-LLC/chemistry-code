@@ -1,0 +1,4 @@
+"sample_id","mean_relative_intensity","max_relative_intensity","peak_count"
+"reference_aromatic",0.443333333333333,0.58,3
+"reference_ester",0.61,0.92,3
+"unknown_A",0.472857142857143,0.95,7

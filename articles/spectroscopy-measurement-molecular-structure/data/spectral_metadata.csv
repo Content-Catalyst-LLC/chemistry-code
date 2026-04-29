@@ -1,0 +1,4 @@
+record_id,sample_id,method,instrument_id,operator,temperature_k,solvent_or_matrix,notes
+m1,unknown_A,IR,ftir_A,analyst_alpha,298.15,thin_film,synthetic educational spectrum
+m2,unknown_A,UV-Vis,uvvis_A,analyst_alpha,298.15,solution,synthetic educational calibration
+m3,unknown_A,NMR,nmr_400,analyst_beta,298.15,CDCl3,synthetic educational signal table

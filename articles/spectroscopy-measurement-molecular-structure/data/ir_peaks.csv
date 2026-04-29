@@ -1,0 +1,14 @@
+peak_id,sample_id,wavenumber_cm_minus_1,relative_intensity
+p1,unknown_A,3350,0.42
+p2,unknown_A,3060,0.18
+p3,unknown_A,2960,0.35
+p4,unknown_A,1718,0.95
+p5,unknown_A,1602,0.48
+p6,unknown_A,1250,0.56
+p7,unknown_A,755,0.37
+p8,reference_ester,2980,0.30
+p9,reference_ester,1735,0.92
+p10,reference_ester,1245,0.61
+p11,reference_aromatic,3062,0.24
+p12,reference_aromatic,1600,0.58
+p13,reference_aromatic,750,0.51
