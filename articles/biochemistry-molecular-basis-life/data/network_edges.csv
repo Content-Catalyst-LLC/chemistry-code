@@ -1,0 +1,7 @@
+source,target,interaction_type,weight
+enzyme_A,metabolite_B,catalyzes,1.0
+metabolite_B,enzyme_C,activates,0.6
+metabolite_C,enzyme_A,inhibits,-0.5
+gene_X,enzyme_A,encodes,1.0
+signal_Y,gene_X,regulates,0.8
+cofactor_Z,enzyme_C,cofactor_for,0.7

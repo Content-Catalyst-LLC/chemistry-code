@@ -1,0 +1,9 @@
+case_id,substrate_mM,Vmax_units,Km_mM,notes
+case_001,0.1,120,3.5,low substrate scaffold
+case_002,0.25,120,3.5,low substrate scaffold
+case_003,0.5,120,3.5,low substrate scaffold
+case_004,1.0,120,3.5,intermediate substrate scaffold
+case_005,2.0,120,3.5,intermediate substrate scaffold
+case_006,5.0,120,3.5,near saturation scaffold
+case_007,10.0,120,3.5,high substrate scaffold
+case_008,25.0,120,3.5,high substrate scaffold

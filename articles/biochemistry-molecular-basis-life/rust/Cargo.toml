@@ -1,0 +1,6 @@
+[package]
+name = "biochemistry_molecular_basis_life"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

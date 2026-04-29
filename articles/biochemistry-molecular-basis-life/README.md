@@ -1,23 +1,27 @@
 # Biochemistry and the Molecular Basis of Life
 
-Section: Core Domains of Chemistry
-
-This folder will support the Chemistry knowledge-series article:
+This article repository supports the Chemistry knowledge-series article:
 
 Biochemistry and the Molecular Basis of Life
 
-The folder is prepared for reproducible computational chemistry workflows, synthetic datasets, documentation, notebooks, SQL metadata, and full-stack examples where useful.
+The repository provides reproducible computational scaffolding for biochemistry, including enzyme kinetics, protein-ligand binding, sequence composition, biomolecule descriptors, metabolic flux scaffolds, biochemical network tables, ATP and redox-energy examples, SQL-backed biochemical metadata, notebook scaffolding, and cross-language examples in Python, R, Julia, Fortran, Rust, Go, C, and C++.
 
-## Suggested workflow types
+No university affiliation is implied by this repository. The design goal is advanced reproducible computational rigor: clear assumptions, transparent calculations, synthetic educational data, provenance records, responsible-use notes, and reusable scientific workflow structure.
 
-- chemical data analysis
-- stoichiometric and thermodynamic calculations
-- kinetics and reaction-network modeling
-- spectroscopy or chromatography data workflows
-- molecular modeling or cheminformatics examples
-- environmental chemistry or toxicology examples
-- reproducible metadata and provenance examples
+## Scientific Focus
 
-## Responsible-use note
+The workflows demonstrate:
 
-This folder is educational and methodological scaffolding. It is not a substitute for laboratory validation, safety review, regulatory compliance, chemical risk assessment, or professional chemical practice.
+1. Michaelis-Menten enzyme kinetics.
+2. Protein-ligand binding occupancy.
+3. Hill-type cooperative binding scaffolds.
+4. Amino acid sequence composition.
+5. Nucleotide sequence composition.
+6. Biomolecule class descriptor tables.
+7. Simplified metabolic flux balance.
+8. Biochemical network graph scaffolds.
+9. ATP and redox energy examples.
+10. SQL-backed biochemical metadata.
+11. Cross-language numerical reproducibility.
+
+These examples are educational and methodological scaffolds. They are not validated clinical tools, drug-discovery systems, diagnostic systems, biological safety systems, regulatory systems, or substitutes for professional biochemical practice.

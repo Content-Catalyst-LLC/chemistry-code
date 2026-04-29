@@ -1,0 +1,4 @@
+metabolite,v1_A_to_B,v2_B_to_C,v3_C_export
+A,-1,0,0
+B,1,-1,0
+C,0,1,-1

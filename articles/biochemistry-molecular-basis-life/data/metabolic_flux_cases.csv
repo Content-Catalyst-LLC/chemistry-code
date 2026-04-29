@@ -1,0 +1,5 @@
+case_id,v1_A_to_B,v2_B_to_C,v3_C_export
+balanced_flux,10,10,10
+B_accumulates,12,8,8
+C_accumulates,10,10,6
+low_input,4,4,4
