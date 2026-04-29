@@ -1,0 +1,4 @@
+emulsion_id,formulation_id,oil_phase,surfactant_class,mean_droplet_size_nm,polydispersity_index,interfacial_tension_mN_m,coalescence_index
+emul_001,col_B,plant_oil,nonionic_surfactant,450,0.21,7.8,0.12
+emul_002,col_B,plant_oil,protein_stabilized,620,0.32,9.5,0.25
+emul_003,col_B,hydrocarbon_oil,anionic_surfactant,380,0.18,5.6,0.08

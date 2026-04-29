@@ -1,0 +1,8 @@
+formulation_id,system_type,formulation_review_required,responsible_formulation_review,aggregation_review,yield_stress_review,high_crowding_review,rank
+col_D,surfactant_micelles,True,False,False,False,False,1
+col_A,silica_sol,True,True,False,False,False,2
+col_G,polymer_solution,True,True,False,False,False,3
+col_B,oil_in_water_emulsion,True,True,False,False,False,4
+col_E,clay_suspension,True,True,True,True,True,5
+col_F,foam,True,True,False,True,True,6
+col_C,particle_gel,True,True,True,True,True,7

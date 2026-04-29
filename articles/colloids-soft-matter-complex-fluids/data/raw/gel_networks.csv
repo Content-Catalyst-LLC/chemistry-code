@@ -1,0 +1,4 @@
+gel_id,formulation_id,network_type,storage_modulus_Pa,loss_modulus_Pa,yield_stress_Pa,recovery_after_shear_percent
+gel_001,col_C,particle_network,4200,950,85,72
+gel_002,col_E,clay_network,1800,620,36,64
+gel_003,col_G,polymer_entanglement,360,280,2,88

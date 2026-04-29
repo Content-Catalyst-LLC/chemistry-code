@@ -1,0 +1,8 @@
+formulation_id,system_type,dispersed_phase,continuous_phase,particle_or_droplet_size_nm,zeta_potential_mV,volume_fraction,low_shear_viscosity_Pa_s,high_shear_viscosity_Pa_s,yield_stress_Pa,salt_aggregation_index
+col_A,silica_sol,silica_particles,water,80,-42,0.04,0.012,0.010,0.0,0.08
+col_B,oil_in_water_emulsion,oil_droplets,water,450,-18,0.22,0.85,0.19,4.2,0.22
+col_C,particle_gel,oxide_particles,water,300,-12,0.35,18.0,1.2,85.0,0.48
+col_D,surfactant_micelles,surfactant_assemblies,water,8,-5,0.02,0.006,0.005,0.0,0.05
+col_E,clay_suspension,clay_platelets,water,900,-35,0.28,5.4,0.82,36.0,0.31
+col_F,foam,bubbles,aqueous_surfactant_phase,120000,-22,0.65,3.2,0.7,18.0,0.26
+col_G,polymer_solution,polymer_coils,water,65,-8,0.08,1.6,0.24,2.0,0.12

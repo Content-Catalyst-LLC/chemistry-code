@@ -1,0 +1,16 @@
+{
+  "article": "Colloids, Soft Matter, and Complex Fluids",
+  "data_type": "synthetic educational colloid and complex-fluid data",
+  "temperature_K": 298.15,
+  "continuous_phase_viscosity_Pa_s": 0.00089,
+  "system_count": 7,
+  "replicate_record_count": 12,
+  "stability_test_count": 8,
+  "emulsion_record_count": 3,
+  "gel_record_count": 3,
+  "lifecycle_note_count": 7,
+  "best_candidate": "col_D",
+  "stability_flag_count": 4,
+  "review_required_count": 7,
+  "responsible_use": "Synthetic educational data only; not validated for product qualification, food safety, medical use, environmental claims, industrial process control, cosmetics claims, or regulatory decisions."
+}

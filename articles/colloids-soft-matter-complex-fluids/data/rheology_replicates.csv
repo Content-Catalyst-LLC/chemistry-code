@@ -1,0 +1,13 @@
+formulation_id,replicate,low_shear_viscosity_Pa_s,high_shear_viscosity_Pa_s,yield_stress_Pa,salt_aggregation_index
+col_A,1,0.012,0.010,0.0,0.08
+col_A,2,0.011,0.010,0.0,0.09
+col_A,3,0.013,0.011,0.0,0.07
+col_B,1,0.85,0.19,4.2,0.22
+col_B,2,0.91,0.20,4.8,0.24
+col_B,3,0.82,0.18,3.9,0.21
+col_C,1,18.0,1.2,85.0,0.48
+col_C,2,19.4,1.4,91.0,0.52
+col_C,3,17.6,1.1,82.0,0.45
+col_E,1,5.4,0.82,36.0,0.31
+col_E,2,5.9,0.88,39.0,0.34
+col_E,3,5.1,0.79,33.5,0.29

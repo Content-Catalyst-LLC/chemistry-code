@@ -1,0 +1,8 @@
+note_id,formulation_id,solvent_or_continuous_phase,additive_review_required,particle_exposure_review,wastewater_fate_note,responsible_formulation_review
+life_001,col_A,water,false,medium,particle recovery or filtration may be relevant,true
+life_002,col_B,water,true,low,surfactant and oil biodegradation should be assessed,true
+life_003,col_C,water,true,medium,gelled particles may affect sludge handling,true
+life_004,col_D,water,false,low,surfactant fate depends on chemistry,false
+life_005,col_E,water,false,medium,clay sedimentation and suspended solids review,true
+life_006,col_F,water,true,medium,foam collapse and surfactant release review,true
+life_007,col_G,water,true,low,polymer persistence and biodegradation review,true

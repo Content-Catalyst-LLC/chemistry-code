@@ -1,0 +1,5 @@
+"test_id","formulation_id","condition","temperature_C","storage_days","phase_separation_index","sedimentation_index","creaming_index","aggregation_flag"
+"stab_003","col_B","freeze_thaw",0,3,0.22,0,0.35,"true"
+"stab_004","col_C","ambient_storage",25,30,0.04,0.07,0,"true"
+"stab_006","col_E","salt_addition",25,1,0.18,0.28,0,"true"
+"stab_007","col_F","ambient_storage",25,7,0.32,0,0.44,"true"

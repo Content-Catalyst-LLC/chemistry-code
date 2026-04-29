@@ -1,0 +1,8 @@
+"system_type","mean_volume_fraction","max_volume_fraction","system_count"
+"clay_suspension",0.28,0.28,1
+"foam",0.65,0.65,1
+"oil_in_water_emulsion",0.22,0.22,1
+"particle_gel",0.35,0.35,1
+"polymer_solution",0.08,0.08,1
+"silica_sol",0.04,0.04,1
+"surfactant_micelles",0.02,0.02,1
