@@ -1,0 +1,10 @@
+material_id,cell_id,component,material_name,critical_material_flag,recycling_priority,exposure_or_safety_note
+mat_001,bat_A,cathode,lithium_iron_phosphate,false,medium,dust exposure and fluoride binder review
+mat_002,bat_A,anode,graphite,true,medium,graphite supply and recycling review
+mat_003,bat_B,cathode,nickel_manganese_cobalt,true,high,nickel and cobalt recovery important
+mat_004,bat_B,anode,graphite,true,medium,graphite recovery and purity important
+mat_005,bat_C,cathode,sodium_layered_oxide,false,medium,transition metal recovery review
+mat_006,bat_D,electrolyte,sulfide_solid_electrolyte,false,high,moisture reaction and gas hazard review
+mat_007,bat_E,electrode,activated_carbon,false,medium,carbon and electrolyte disposal review
+mat_008,bat_G,cathode,sulfur,false,medium,polysulfide management review
+mat_009,bat_G,anode,lithium_metal,true,high,lithium metal safety and recycling review

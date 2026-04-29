@@ -1,0 +1,64 @@
+Synthetic Electrochemistry and Energy Storage Report
+==================================================
+
+Battery degradation summary:
+  cell_id final_capacity_retention mean_capacity_retention
+1   bat_A                0.9598958               0.9793403
+2   bat_B                0.9097744               0.9527987
+3   bat_D                0.8510101               0.9141414
+4   bat_G                0.6642857               0.7922619
+  final_coulombic_efficiency mean_coulombic_efficiency
+1                  0.9978343                 0.9977936
+2                  0.9934319                 0.9940584
+3                  0.9865340                 0.9882792
+4                  0.8836105                 0.9160404
+  retention_slope_per_cycle retention_loss_percent_at_final_cycle
+1             -0.0004090941                              4.010417
+2             -0.0009250877                              9.022556
+3             -0.0015318015                             14.898990
+4             -0.0032976521                             33.571429
+  degradation_review_required
+1                       FALSE
+2                        TRUE
+3                        TRUE
+4                        TRUE
+
+Chemistry summary:
+                chemistry mean_cell_energy_Wh max_cell_energy_Wh
+1  lithium_iron_phosphate              6.1440             6.1440
+2          lithium_sulfur              5.8800             5.8800
+3 nickel_manganese_cobalt              7.3815             7.3815
+4      redox_flow_battery              6.7200             6.7200
+5              sodium_ion              5.2500             5.2500
+6     solid_state_lithium              7.5240             7.5240
+7          supercapacitor              2.1600             2.1600
+  mean_critical_material_score mean_safety_review_score candidate_count
+1                         0.22                     0.20               1
+2                         0.28                     0.60               1
+3                         0.78                     0.42               1
+4                         0.35                     0.22               1
+5                         0.30                     0.25               1
+6                         0.65                     0.55               1
+7                         0.18                     0.12               1
+
+Final impedance review:
+   measurement_id cell_id cycle_number ohmic_resistance_mOhm
+2         eis_002   bat_A          100                    22
+4         eis_004   bat_B          100                    28
+6         eis_006   bat_D          100                    64
+8         eis_008   bat_E          100                     6
+10        eis_010   bat_G          100                    55
+   charge_transfer_resistance_mOhm diffusion_tail_score
+2                               55                 0.24
+4                               85                 0.42
+6                              230                 0.82
+8                               10                 0.06
+10                             180                 0.90
+   impedance_review_required
+2                      FALSE
+4                      FALSE
+6                       TRUE
+8                      FALSE
+10                      TRUE
+
+Responsible-use note: synthetic educational data only.

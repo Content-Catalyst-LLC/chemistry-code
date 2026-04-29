@@ -1,0 +1,8 @@
+"chemistry","mean_cell_energy_Wh","max_cell_energy_Wh","mean_critical_material_score","mean_safety_review_score","candidate_count"
+"lithium_iron_phosphate",6.144,6.144,0.22,0.2,1
+"lithium_sulfur",5.88,5.88,0.28,0.6,1
+"nickel_manganese_cobalt",7.3815,7.3815,0.78,0.42,1
+"redox_flow_battery",6.72,6.72,0.35,0.22,1
+"sodium_ion",5.25,5.25,0.3,0.25,1
+"solid_state_lithium",7.524,7.524,0.65,0.55,1
+"supercapacitor",2.16,2.16,0.18,0.12,1

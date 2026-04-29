@@ -1,0 +1,8 @@
+cell_id,chemistry,nominal_voltage_V,specific_capacity_mAh_g,active_material_mass_g,cell_capacity_mAh,cell_energy_Wh,cycle_100_capacity_retention,coulombic_efficiency,rate_capability_score,critical_material_score,safety_review_score,cycle_loss_percent_at_100,estimated_average_capacity_fade_per_cycle_percent,degradation_review_required,efficiency_review_required,critical_material_review_required,safety_review_required,responsible_design_review_required,screening_score,rank
+bat_A,lithium_iron_phosphate,3.2,160.0,12.0,1920.0,6.144,0.96,0.998,0.78,0.22,0.2,4.0000000000000036,0.040000000000000036,False,False,False,True,True,0.11019029999999995,1
+bat_C,sodium_ion,3.0,125.0,14.0,1750.0,5.25,0.94,0.997,0.7,0.3,0.25,6.000000000000005,0.06000000000000005,False,False,False,True,True,0.5291250000000002,2
+bat_F,redox_flow_battery,1.4,80.0,60.0,4800.0,6.72,0.98,0.997,0.74,0.35,0.22,2.0000000000000018,0.020000000000000018,False,False,False,True,True,0.5558725000000002,3
+bat_E,supercapacitor,2.7,40.0,20.0,800.0,2.16,0.99,0.999,0.96,0.18,0.12,1.0000000000000009,0.010000000000000009,False,False,False,False,False,1.6512625000000005,4
+bat_B,nickel_manganese_cobalt,3.7,190.0,10.5,1995.0,7.3815,0.91,0.995,0.84,0.78,0.42,8.999999999999996,0.08999999999999997,False,False,True,True,True,2.8972246750000004,5
+bat_D,solid_state_lithium,3.8,220.0,9.0,1980.0,7.524,0.86,0.99,0.62,0.65,0.55,14.000000000000002,0.14,True,True,True,True,True,6.014154800000002,6
+bat_G,lithium_sulfur,2.1,350.0,8.0,2800.0,5.88,0.72,0.965,0.48,0.28,0.6,28.000000000000004,0.28,True,True,True,True,True,37.13857250000003,7

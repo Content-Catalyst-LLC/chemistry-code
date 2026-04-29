@@ -1,0 +1,11 @@
+measurement_id,cell_id,cycle_number,ohmic_resistance_mOhm,charge_transfer_resistance_mOhm,diffusion_tail_score
+eis_001,bat_A,1,18,42,0.18
+eis_002,bat_A,100,22,55,0.24
+eis_003,bat_B,1,16,38,0.20
+eis_004,bat_B,100,28,85,0.42
+eis_005,bat_D,1,35,120,0.55
+eis_006,bat_D,100,64,230,0.82
+eis_007,bat_E,1,5,8,0.05
+eis_008,bat_E,100,6,10,0.06
+eis_009,bat_G,1,24,70,0.35
+eis_010,bat_G,100,55,180,0.90

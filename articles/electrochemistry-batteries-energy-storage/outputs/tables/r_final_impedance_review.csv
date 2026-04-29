@@ -1,0 +1,6 @@
+"measurement_id","cell_id","cycle_number","ohmic_resistance_mOhm","charge_transfer_resistance_mOhm","diffusion_tail_score","impedance_review_required"
+"eis_002","bat_A",100,22,55,0.24,FALSE
+"eis_004","bat_B",100,28,85,0.42,FALSE
+"eis_006","bat_D",100,64,230,0.82,TRUE
+"eis_008","bat_E",100,6,10,0.06,FALSE
+"eis_010","bat_G",100,55,180,0.9,TRUE

@@ -1,0 +1,8 @@
+note_id,cell_id,critical_material_review,safety_review_required,recycling_pathway,end_of_life_note,responsible_design_review
+life_001,bat_A,false,true,mechanical_and_hydrometallurgical,LFP has lower cobalt/nickel burden but still needs safe collection,true
+life_002,bat_B,true,true,hydrometallurgical_or_direct_recycling,high recovery value for nickel cobalt lithium copper aluminum,true
+life_003,bat_C,false,true,emerging_recycling_pathway,sodium-ion recycling infrastructure is still developing,true
+life_004,bat_D,true,true,specialized_solid_state_recycling,interfaces and electrolyte chemistry require specialized handling,true
+life_005,bat_E,false,false,carbon_and_electrolyte_recovery,supercapacitor recycling depends on electrolyte and packaging,false
+life_006,bat_F,false,true,electrolyte_recovery_and_rebalancing,flow battery electrolyte may be recovered or rebalanced,true
+life_007,bat_G,true,true,specialized_lithium_sulfur_recycling,lithium metal safety and polysulfide chemistry require review,true

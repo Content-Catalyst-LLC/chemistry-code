@@ -1,0 +1,6 @@
+cell_id,initial_ohmic_resistance_mOhm,final_ohmic_resistance_mOhm,ohmic_resistance_growth_mOhm,initial_charge_transfer_resistance_mOhm,final_charge_transfer_resistance_mOhm,charge_transfer_resistance_growth_mOhm,final_diffusion_tail_score,impedance_review_required
+bat_A,18.0,22.0,4.0,42.0,55.0,13.0,0.24,False
+bat_B,16.0,28.0,12.0,38.0,85.0,47.0,0.42,False
+bat_D,35.0,64.0,29.0,120.0,230.0,110.0,0.82,True
+bat_E,5.0,6.0,1.0,8.0,10.0,2.0,0.06,False
+bat_G,24.0,55.0,31.0,70.0,180.0,110.0,0.9,True

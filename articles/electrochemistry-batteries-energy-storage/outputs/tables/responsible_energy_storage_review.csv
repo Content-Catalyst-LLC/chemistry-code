@@ -1,0 +1,7 @@
+cell_id,chemistry,degradation_review_required,efficiency_review_required,critical_material_review_required,safety_review_required,responsible_design_review_required,rank
+bat_A,lithium_iron_phosphate,False,False,False,True,True,1
+bat_C,sodium_ion,False,False,False,True,True,2
+bat_F,redox_flow_battery,False,False,False,True,True,3
+bat_B,nickel_manganese_cobalt,False,False,True,True,True,5
+bat_D,solid_state_lithium,True,True,True,True,True,6
+bat_G,lithium_sulfur,True,True,True,True,True,7
