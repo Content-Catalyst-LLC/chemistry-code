@@ -1,0 +1,4 @@
+"standard_id","compound","concentration_ng_ml","peak_area","injection_id","estimated_concentration_ng_ml"
+"unknown_A_rep1","caffeine_candidate",NA,327500,"inj_01",18.0838124966717
+"unknown_A_rep2","caffeine_candidate",NA,331200,"inj_02",18.2882207961039
+"unknown_A_rep3","caffeine_candidate",NA,325900,"inj_03",17.9954197185389

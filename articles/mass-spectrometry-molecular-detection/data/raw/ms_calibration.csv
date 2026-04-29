@@ -1,0 +1,10 @@
+standard_id,compound,concentration_ng_ml,peak_area,injection_id
+blank,caffeine_candidate,0,180,std_blank
+std_01,caffeine_candidate,1,18400,std_01
+std_02,caffeine_candidate,5,90600,std_02
+std_03,caffeine_candidate,10,181500,std_03
+std_04,caffeine_candidate,25,452000,std_04
+std_05,caffeine_candidate,50,905500,std_05
+unknown_A_rep1,caffeine_candidate,,327500,inj_01
+unknown_A_rep2,caffeine_candidate,,331200,inj_02
+unknown_A_rep3,caffeine_candidate,,325900,inj_03

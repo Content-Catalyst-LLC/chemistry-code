@@ -1,0 +1,19 @@
+{
+  "article": "Mass Spectrometry and Molecular Detection",
+  "data_type": "synthetic educational mass spectrometry data",
+  "ppm_tolerance": 5.0,
+  "feature_count": 6,
+  "candidate_count": 5,
+  "tentative_match_count": 6,
+  "isotope_cluster_count": 3,
+  "fragment_feature_count": 3,
+  "metadata_record_count": 3,
+  "calibration_model": {
+    "slope_area_per_ng_ml": 18101.026280623602,
+    "intercept_area": 164.43474387540482,
+    "r_squared": 0.9999988808176974,
+    "residual_standard_deviation": 370.41315883825615
+  },
+  "mean_unknown_concentration_ng_ml": 18.122484337104854,
+  "responsible_use": "Synthetic educational data only; exact mass alone is not definitive molecular identification."
+}

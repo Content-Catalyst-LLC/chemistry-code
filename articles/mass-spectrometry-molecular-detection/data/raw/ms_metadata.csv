@@ -1,0 +1,4 @@
+record_id,method,instrument_id,analyzer,ionization,operator,mass_range_mz,resolution_setting,chromatography,notes
+m1,LC-HRMS,lc_hrms_A,Orbitrap,ESI,analyst_alpha,100-1000,high_resolution,LC,synthetic educational exact-mass workflow
+m2,LC-MS/MS,lc_qqq_A,triple_quadrupole,ESI,analyst_beta,50-1000,targeted_mrm,LC,synthetic educational tandem MS workflow
+m3,GC-MS,gc_ms_A,single_quadrupole,EI,analyst_gamma,40-650,unit_mass,GC,synthetic educational library-search workflow

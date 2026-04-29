@@ -1,0 +1,7 @@
+feature_id,sample_id,retention_time_min,observed_mz,charge,peak_area,ion_mode,adduct
+f1,unknown_mix,2.14,195.0878,1,880000,positive,[M+H]+
+f2,unknown_mix,3.88,301.1412,1,245000,positive,[M+H]+
+f3,unknown_mix,5.21,451.2129,2,510000,positive,[M+2H]2+
+f4,unknown_mix,7.45,663.4521,3,132000,positive,[M+3H]3+
+f5,qc_mix,2.15,195.0877,1,905000,positive,[M+H]+
+f6,qc_mix,5.22,451.2132,2,498000,positive,[M+2H]2+

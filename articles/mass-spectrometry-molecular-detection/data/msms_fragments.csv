@@ -1,0 +1,7 @@
+fragment_id,feature_id,precursor_mz,product_mz,relative_intensity,collision_energy_ev,fragment_note
+frag_001,f1,195.0878,138.0662,0.88,20,synthetic caffeine-like fragment teaching ion
+frag_002,f1,195.0878,110.0713,0.44,20,synthetic caffeine-like fragment teaching ion
+frag_003,f2,301.1412,153.0548,0.72,25,synthetic flavonoid-like fragment teaching ion
+frag_004,f2,301.1412,121.0285,0.51,25,synthetic flavonoid-like fragment teaching ion
+frag_005,f3,451.2129,175.1190,0.65,30,synthetic peptide-like product ion
+frag_006,f3,451.2129,244.1652,0.57,30,synthetic peptide-like product ion

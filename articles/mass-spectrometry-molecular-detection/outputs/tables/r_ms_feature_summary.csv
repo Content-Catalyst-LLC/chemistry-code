@@ -1,0 +1,6 @@
+"sample_id","charge","mean_peak_area","max_peak_area","feature_count"
+"qc_mix",1,905000,905000,1
+"unknown_mix",1,562500,880000,2
+"qc_mix",2,498000,498000,1
+"unknown_mix",2,510000,510000,1
+"unknown_mix",3,132000,132000,1

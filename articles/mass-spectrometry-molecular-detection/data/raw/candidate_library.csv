@@ -1,0 +1,6 @@
+candidate_id,candidate_name,theoretical_mz,expected_charge,ion_mode,evidence_note
+cand_001,caffeine_candidate,195.08765,1,positive,synthetic exact-mass teaching candidate
+cand_002,flavonoid_candidate,301.14105,1,positive,synthetic exact-mass teaching candidate
+cand_003,peptide_candidate,451.21340,2,positive,synthetic multiply charged teaching candidate
+cand_004,lipid_candidate,663.45180,3,positive,synthetic multiply charged teaching candidate
+cand_005,background_candidate,279.15900,1,positive,synthetic background teaching candidate

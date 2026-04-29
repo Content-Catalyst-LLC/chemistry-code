@@ -1,0 +1,7 @@
+feature_id,sample_id,candidate_id,candidate_name,observed_mz,theoretical_mz,ppm_error,charge,retention_time_min,peak_area,identification_status
+f1,unknown_mix,cand_001,caffeine_candidate,195.0878,195.08765,0.7688851651591919,1,2.14,880000.0,tentative exact-mass match
+f2,unknown_mix,cand_002,flavonoid_candidate,301.1412,301.14105,0.4981054559622155,1,3.88,245000.0,tentative exact-mass match
+f3,unknown_mix,cand_003,peptide_candidate,451.2129,451.2134,-1.1081231186577718,2,5.21,510000.0,tentative exact-mass match
+f4,unknown_mix,cand_004,lipid_candidate,663.4521,663.4518,0.4521805501540486,3,7.45,132000.0,tentative exact-mass match
+f5,qc_mix,cand_001,caffeine_candidate,195.0877,195.08765,0.2562950551501886,1,2.15,905000.0,tentative exact-mass match
+f6,qc_mix,cand_003,peptide_candidate,451.2132,451.2134,-0.44324924748830447,2,5.22,498000.0,tentative exact-mass match
