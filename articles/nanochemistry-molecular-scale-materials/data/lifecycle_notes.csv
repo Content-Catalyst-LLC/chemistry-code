@@ -1,0 +1,8 @@
+note_id,sample_id,critical_material_flag,dissolution_or_transformation_concern,exposure_review_required,end_of_life_note
+life_001,nano_A,false,low,medium,recover precious metal where practical
+life_002,nano_B,false,low,low,inert particulate disposal review
+life_003,nano_C,false,medium,medium,magnetic recovery may be possible
+life_004,nano_D,true,high,high,quantum dot composition and containment review required
+life_005,nano_E,false,medium,medium,polymer particle persistence review required
+life_006,nano_F,false,medium,medium,biological and formulation stability review required
+life_007,nano_G,false,medium,high,photoactivity and release review required

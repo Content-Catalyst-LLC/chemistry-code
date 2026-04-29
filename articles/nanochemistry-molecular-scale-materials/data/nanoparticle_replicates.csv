@@ -1,0 +1,13 @@
+sample_id,replicate,core_diameter_nm,hydrodynamic_diameter_nm,polydispersity_index,aggregation_after_salt_relative
+nano_A,1,18.2,24.0,0.08,0.05
+nano_A,2,17.8,24.8,0.09,0.06
+nano_A,3,18.4,23.6,0.08,0.04
+nano_B,1,55.0,72.0,0.18,0.18
+nano_B,2,56.1,75.2,0.20,0.20
+nano_B,3,54.4,70.8,0.17,0.17
+nano_C,1,32.0,48.0,0.22,0.31
+nano_C,2,33.5,51.6,0.25,0.35
+nano_C,3,31.8,47.1,0.23,0.30
+nano_D,1,6.0,12.0,0.11,0.12
+nano_D,2,6.3,12.6,0.12,0.13
+nano_D,3,5.8,11.5,0.10,0.11

@@ -1,23 +1,29 @@
 # Nanochemistry and Molecular-Scale Materials
 
-Section: Matter, Materials, and Applied Chemical Systems
+This article folder supports the Chemistry knowledge-series article **Nanochemistry and Molecular-Scale Materials**.
 
-This folder will support the Chemistry knowledge-series article:
+The workflows use synthetic educational data to demonstrate nanoparticle size distributions, surface-area-to-volume scaling, hydrodynamic diameter, diffusion estimates, colloidal stability, ligand coverage, aggregation flags, quantum-dot screening concepts, lifecycle review flags, and full-stack scientific-computing scaffolding.
 
-Nanochemistry and Molecular-Scale Materials
+## Repository structure
 
-The folder is prepared for reproducible computational chemistry workflows, synthetic datasets, documentation, notebooks, SQL metadata, and full-stack examples where useful.
-
-## Suggested workflow types
-
-- chemical data analysis
-- stoichiometric and thermodynamic calculations
-- kinetics and reaction-network modeling
-- spectroscopy or chromatography data workflows
-- molecular modeling or cheminformatics examples
-- environmental chemistry or toxicology examples
-- reproducible metadata and provenance examples
+- `python/` — nanoparticle screening, size metrics, diffusion estimates, and provenance manifests
+- `r/` — replicate nanoparticle measurement summaries and stability flags
+- `julia/` — surface-area-to-volume and diffusion calculations
+- `fortran` — compact nanoscale metric kernel
+- `rust/` — nanomaterial dataset manifest validator
+- `go/` — CSV audit utility for nanomaterial records
+- `c/` — surface-area and diffusion utility
+- `cpp/` — nanoparticle candidate classifier
+- `sql/` — schema and queries for nanomaterials, measurements, stability, ligands, and lifecycle notes
+- `docs/` — methodology, reproducibility, and responsible-use notes
+- `data/` — synthetic educational nanochemistry data
+- `notebooks/` — notebook scaffolds and report notes
+- `outputs/` — generated tables, reports, figures, and manifests
 
 ## Responsible-use note
 
-This folder is educational and methodological scaffolding. It is not a substitute for laboratory validation, safety review, regulatory compliance, chemical risk assessment, or professional chemical practice.
+All data in this folder are synthetic and educational. These workflows are not validated for regulatory, clinical, toxicological, environmental, product-safety, exposure, or nanomedicine decisions.
+
+## License
+
+This article folder follows the MIT-licensed repository convention used for the Chemistry code collection.

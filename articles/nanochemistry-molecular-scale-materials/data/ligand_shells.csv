@@ -1,0 +1,8 @@
+ligand_id,sample_id,ligand_class,functional_group,coverage_relative,solvent_compatibility,stabilization_mode
+lig_001,nano_A,thiol,carboxylate,0.85,water,electrosteric
+lig_002,nano_B,silane,hydroxyl,0.62,water,electrostatic
+lig_003,nano_C,polymer,amine,0.58,water,steric
+lig_004,nano_D,phosphonate,carboxylate,0.79,water,electrosteric
+lig_005,nano_E,surfactant,neutral_chain,0.41,water,steric
+lig_006,nano_F,lipid,phosphocholine,0.52,buffer,steric
+lig_007,nano_G,oxide_hydroxyl,hydroxyl,0.48,water,electrostatic

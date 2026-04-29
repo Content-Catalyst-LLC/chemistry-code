@@ -1,0 +1,7 @@
+sample_id,material_class,critical_material_flag,exposure_review_required,colloidal_review_required,responsible_design_review_required,rank
+nano_A,gold,False,medium,False,True,1
+nano_C,iron_oxide,False,medium,True,True,3
+nano_F,lipid_nanoparticle,False,medium,True,True,4
+nano_D,quantum_dot,True,high,False,True,5
+nano_G,titania,False,high,True,True,6
+nano_E,polymer_nanoparticle,False,medium,True,True,7

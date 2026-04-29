@@ -1,0 +1,4 @@
+sample_id,material_class,core_diameter_nm,absorbance_peak_nm,emission_peak_nm,quantum_yield_relative,photostability_relative
+nano_A,gold,18.0,520,,0.00,0.90
+nano_D,quantum_dot,6.0,450,620,0.72,0.68
+nano_G,titania,42.0,365,,0.00,0.74

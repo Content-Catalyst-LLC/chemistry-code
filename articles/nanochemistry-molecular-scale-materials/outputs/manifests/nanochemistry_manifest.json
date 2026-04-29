@@ -1,0 +1,15 @@
+{
+  "article": "Nanochemistry and Molecular-Scale Materials",
+  "data_type": "synthetic educational nanochemistry data",
+  "temperature_K": 298.15,
+  "water_viscosity_Pa_s": 0.00089,
+  "candidate_count": 7,
+  "replicate_record_count": 12,
+  "ligand_record_count": 7,
+  "optical_record_count": 3,
+  "stability_test_count": 8,
+  "lifecycle_note_count": 7,
+  "best_candidate": "nano_A",
+  "responsible_design_review_count": 6,
+  "responsible_use": "Synthetic educational data only; not validated for regulatory, clinical, toxicological, environmental, product-safety, exposure, or nanomedicine decisions."
+}

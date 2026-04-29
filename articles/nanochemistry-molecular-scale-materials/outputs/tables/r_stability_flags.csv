@@ -1,0 +1,4 @@
+"test_id","sample_id","medium","pH","ionic_strength_mM","hydrodynamic_diameter_after_h_nm","aggregation_flag"
+"stab_005","nano_C","salt_solution",7,150,64.8,"true"
+"stab_006","nano_E","salt_solution",7,150,226.8,"true"
+"stab_008","nano_G","natural_organic_matter",7.5,20,127,"true"
