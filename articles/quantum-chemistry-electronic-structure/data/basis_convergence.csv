@@ -1,0 +1,9 @@
+case_id,basis,energy_hartree,basis_size
+water_demo,minimal,-75.9000,7
+water_demo,double_zeta,-76.0200,24
+water_demo,triple_zeta,-76.0550,58
+water_demo,quadruple_zeta,-76.0640,115
+methane_demo,minimal,-39.7000,9
+methane_demo,double_zeta,-39.8200,30
+methane_demo,triple_zeta,-39.8500,72
+methane_demo,quadruple_zeta,-39.8580,140

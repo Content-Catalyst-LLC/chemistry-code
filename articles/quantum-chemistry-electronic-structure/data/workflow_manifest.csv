@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,orbital_mixing,orbital_mixing_cases.csv,python/01_orbital_mixing.py,outputs/tables/orbital_mixing.csv,Calculate two-level orbital mixing eigenvalues and eigenvectors
+2,density_huckel,electron_density_grid.csv;huckel_cases.csv,python/02_density_huckel.py,outputs/tables/density_huckel.csv,Calculate electron density scaffold and Hückel-model energy levels
+3,basis_spin_states,basis_convergence.csv;spin_state_cases.csv,python/03_basis_spin_states.py,outputs/tables/basis_spin_states.csv,Calculate basis convergence and spin-state comparisons
+4,excited_states_tst,excited_states.csv;tst_cases.csv,python/04_excited_states_tst.py,outputs/tables/excited_states_tst.csv,Calculate electronic-state populations and transition-state-theory rates
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,orbital_mixing.csv;density_huckel.csv;basis_spin_states.csv;excited_states_tst.csv,python/06_generate_quantum_chemistry_report.py,outputs/reports/quantum_chemistry_report.md,Generate report

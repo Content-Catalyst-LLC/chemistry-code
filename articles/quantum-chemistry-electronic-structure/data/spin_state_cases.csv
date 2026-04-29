@@ -1,0 +1,6 @@
+complex,spin_state,multiplicity,relative_energy_kj_mol
+metal_demo,low_spin,1,0.0
+metal_demo,intermediate_spin,3,18.0
+metal_demo,high_spin,5,7.0
+radical_pair_demo,singlet,1,0.0
+radical_pair_demo,triplet,3,4.5

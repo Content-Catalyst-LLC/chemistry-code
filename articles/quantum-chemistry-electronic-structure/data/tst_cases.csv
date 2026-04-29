@@ -1,0 +1,5 @@
+reaction,activation_free_energy_kj_mol,temperature_K
+reaction_A,40,298.15
+reaction_B,50,298.15
+reaction_C,60,298.15
+reaction_D,70,298.15

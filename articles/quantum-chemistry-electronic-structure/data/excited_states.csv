@@ -1,0 +1,5 @@
+state,relative_energy_kj_mol,oscillator_strength,temperature_K
+ground,0.0,0.000,298.15
+excited_1,25.0,0.120,298.15
+excited_2,60.0,0.450,298.15
+excited_3,95.0,0.080,298.15
