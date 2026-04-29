@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,calibration_curve,calibration_standards.csv;unknown_samples.csv,python/01_calibration_curve.py,outputs/tables/calibration_curve.csv,Fit calibration curve and estimate unknown concentrations
+2,kinetics_analysis,kinetics_timeseries.csv;arrhenius_rates.csv,python/02_kinetics_analysis.py,outputs/tables/kinetics_analysis.csv,Fit first-order kinetics and Arrhenius transform
+3,uncertainty_qc,replicate_measurements.csv;lab_metadata.csv,python/03_uncertainty_qc.py,outputs/tables/uncertainty_qc.csv,Summarize replicates and QC metadata
+4,simulation_workflow,simulation_parameters.csv,python/04_simulation_workflow.py,outputs/tables/simulation_workflow.csv,Generate simple first-order simulation profiles
+5,provenance,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,calibration_curve.csv;kinetics_analysis.csv;uncertainty_qc.csv;simulation_workflow.csv,python/06_generate_python_chemistry_report.py,outputs/reports/python_chemistry_report.md,Generate report

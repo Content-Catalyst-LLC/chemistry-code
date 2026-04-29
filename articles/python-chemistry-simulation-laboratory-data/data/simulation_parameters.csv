@@ -1,0 +1,4 @@
+simulation_id,initial_concentration_mM,rate_constant_s_inv,time_end_s,time_step_s
+first_order_demo,10.0,0.015,200,20
+fast_decay_demo,10.0,0.030,200,20
+slow_decay_demo,10.0,0.008,200,20

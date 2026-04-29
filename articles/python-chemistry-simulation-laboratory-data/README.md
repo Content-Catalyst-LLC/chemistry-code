@@ -1,23 +1,26 @@
 # Python for Chemistry, Simulation, and Laboratory Data
 
-Section: Computational, Theoretical, and Data-Driven Chemistry
-
-This folder will support the Chemistry knowledge-series article:
+This article repository supports the Chemistry knowledge-series article:
 
 Python for Chemistry, Simulation, and Laboratory Data
 
-The folder is prepared for reproducible computational chemistry workflows, synthetic datasets, documentation, notebooks, SQL metadata, and full-stack examples where useful.
+The repository provides reproducible computational scaffolding for Python-centered chemical analysis, including calibration curves, unknown concentration estimation, kinetics analysis, Arrhenius transformations, uncertainty summaries, simple simulation models, laboratory metadata, provenance records, SQL-backed measurement tables, notebook scaffolding, and cross-language examples in Python, R, Julia, Fortran, Rust, Go, C, and C++.
 
-## Suggested workflow types
+No university affiliation is implied by this repository. The design goal is advanced reproducible computational rigor: clear assumptions, transparent calculations, synthetic educational data, provenance records, responsible-use notes, and reusable scientific workflow structure.
 
-- chemical data analysis
-- stoichiometric and thermodynamic calculations
-- kinetics and reaction-network modeling
-- spectroscopy or chromatography data workflows
-- molecular modeling or cheminformatics examples
-- environmental chemistry or toxicology examples
-- reproducible metadata and provenance examples
+## Scientific Focus
 
-## Responsible-use note
+The workflows demonstrate:
 
-This folder is educational and methodological scaffolding. It is not a substitute for laboratory validation, safety review, regulatory compliance, chemical risk assessment, or professional chemical practice.
+1. Analytical calibration and unknown concentration estimation.
+2. Replicate measurement summaries.
+3. First-order kinetic fitting.
+4. Arrhenius transformations.
+5. Error and uncertainty summaries.
+6. Simple simulation scaffolds.
+7. Laboratory metadata and provenance.
+8. SQL-backed laboratory data organization.
+9. Notebook-based reproducible analysis.
+10. Cross-language numerical reproducibility.
+
+These examples are educational and methodological scaffolds. They are not validated laboratory information management systems, regulatory workflows, clinical tools, safety systems, production analytical methods, or substitutes for professional chemical practice.
