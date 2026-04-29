@@ -1,0 +1,13 @@
+sample_id,date,site,site_type,latitude,longitude,altitude_m,analyte,class,concentration,unit,reference_value,reference_unit,averaging_period,temperature_c,relative_humidity_percent,wind_speed_m_s,method,qualifier
+A001,2026-04-01,Background-A,background,19.536,-155.576,3397,CO2,long_lived_greenhouse_gas,423.0,ppm,280.0,ppm,daily,12.5,42,7.1,NDIR,detected
+A002,2026-04-01,Background-A,background,19.536,-155.576,3397,CH4,long_lived_greenhouse_gas,1950.0,ppb,722.0,ppb,daily,12.5,42,7.1,CRDS,detected
+A003,2026-04-01,Background-A,background,19.536,-155.576,3397,N2O,long_lived_greenhouse_gas,337.0,ppb,270.0,ppb,daily,12.5,42,7.1,GC-ECD,detected
+A004,2026-04-02,Urban-B,urban,38.627,-90.199,142,O3,secondary_pollutant,0.074,ppm,0.070,ppm,8_hour,29.4,51,2.4,UV_photometry,detected
+A005,2026-04-02,Urban-B,urban,38.627,-90.199,142,NO2,reactive_nitrogen,31.0,ppb,53.0,ppb,1_hour,29.4,51,2.4,chemiluminescence,detected
+A006,2026-04-02,Urban-B,urban,38.627,-90.199,142,PM2.5,aerosol_particle,17.2,ug/m3,15.0,ug/m3,24_hour,29.4,51,2.4,beta_attenuation,detected
+A007,2026-04-03,Industrial-C,industrial,40.713,-74.006,10,SO2,reactive_sulfur,18.0,ppb,75.0,ppb,1_hour,25.1,58,3.0,pulsed_fluorescence,detected
+A008,2026-04-03,Industrial-C,industrial,40.713,-74.006,10,CO,reactive_carbon,0.9,ppm,9.0,ppm,8_hour,25.1,58,3.0,NDIR,detected
+A009,2026-04-04,Forest-D,biogenic,44.428,-110.588,2400,isoprene,biogenic_voc,2.8,ppb,1.0,ppb,1_hour,31.2,45,1.8,PTR-MS,estimated
+A010,2026-04-04,Forest-D,biogenic,44.428,-110.588,2400,O3,secondary_pollutant,0.061,ppm,0.070,ppm,8_hour,31.2,45,1.8,UV_photometry,detected
+A011,2026-04-05,Coastal-E,coastal,36.600,-121.894,8,DMS,reduced_sulfur,0.42,ppb,0.50,ppb,1_hour,17.3,72,5.6,GC-MS,detected
+A012,2026-04-05,Coastal-E,coastal,36.600,-121.894,8,aerosol_optical_depth,aerosol_optical_property,0.18,unitless,0.20,unitless,daily,17.3,72,5.6,sun_photometer,detected
