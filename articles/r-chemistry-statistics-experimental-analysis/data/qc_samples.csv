@@ -1,0 +1,7 @@
+qc_id,expected_mM,measured_mM,batch_id,control_type
+qc_001,1.00,1.02,batch_1,low
+qc_002,1.00,0.98,batch_1,low
+qc_003,1.00,1.04,batch_2,low
+qc_004,5.00,5.10,batch_1,high
+qc_005,5.00,4.92,batch_1,high
+qc_006,5.00,5.05,batch_2,high

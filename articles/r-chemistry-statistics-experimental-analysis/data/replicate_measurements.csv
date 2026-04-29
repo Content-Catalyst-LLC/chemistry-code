@@ -1,0 +1,10 @@
+sample_id,analyte,measurement_mM,replicate,method_id,batch_id
+sample_A,chloride,1.02,1,method_demo,batch_1
+sample_A,chloride,1.05,2,method_demo,batch_1
+sample_A,chloride,0.99,3,method_demo,batch_1
+sample_B,chloride,2.10,1,method_demo,batch_1
+sample_B,chloride,2.05,2,method_demo,batch_1
+sample_B,chloride,2.15,3,method_demo,batch_1
+sample_C,chloride,3.95,1,method_demo,batch_1
+sample_C,chloride,4.05,2,method_demo,batch_1
+sample_C,chloride,4.00,3,method_demo,batch_1

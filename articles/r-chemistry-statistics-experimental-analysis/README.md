@@ -1,23 +1,27 @@
 # R for Chemistry, Statistics, and Experimental Analysis
 
-Section: Computational, Theoretical, and Data-Driven Chemistry
-
-This folder will support the Chemistry knowledge-series article:
+This article repository supports the Chemistry knowledge-series article:
 
 R for Chemistry, Statistics, and Experimental Analysis
 
-The folder is prepared for reproducible computational chemistry workflows, synthetic datasets, documentation, notebooks, SQL metadata, and full-stack examples where useful.
+The repository provides reproducible computational scaffolding for R-centered chemical statistics, including replicate summaries, calibration curves, unknown concentration estimation, regression diagnostics, first-order kinetics, Arrhenius analysis, ANOVA-ready experimental designs, quality-control summaries, laboratory metadata, SQL-backed measurement tables, notebook scaffolding, and cross-language examples in Python, R, Julia, Fortran, Rust, Go, C, and C++.
 
-## Suggested workflow types
+No university affiliation is implied by this repository. The design goal is advanced reproducible computational rigor: clear assumptions, transparent calculations, synthetic educational data, provenance records, responsible-use notes, and reusable scientific workflow structure.
 
-- chemical data analysis
-- stoichiometric and thermodynamic calculations
-- kinetics and reaction-network modeling
-- spectroscopy or chromatography data workflows
-- molecular modeling or cheminformatics examples
-- environmental chemistry or toxicology examples
-- reproducible metadata and provenance examples
+## Scientific Focus
 
-## Responsible-use note
+The workflows demonstrate:
 
-This folder is educational and methodological scaffolding. It is not a substitute for laboratory validation, safety review, regulatory compliance, chemical risk assessment, or professional chemical practice.
+1. Replicate measurement summaries.
+2. Relative standard deviation and standard error.
+3. Linear calibration and unknown concentration estimation.
+4. Regression residual diagnostics.
+5. First-order kinetic fitting.
+6. Arrhenius transformation.
+7. ANOVA-ready experimental design.
+8. Quality-control and method-validation scaffolds.
+9. Laboratory metadata and provenance.
+10. SQL-backed chemical measurement records.
+11. Cross-language numerical reproducibility.
+
+These examples are educational and methodological scaffolds. They are not validated analytical methods, regulatory workflows, clinical tools, safety systems, production quality-control systems, or substitutes for professional chemical practice.

@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,replicate_summary,replicate_measurements.csv,r/01_replicate_summary.R,outputs/tables/replicate_summary.csv,Summarize replicate measurements and uncertainty
+2,calibration_curve,calibration_standards.csv;unknown_samples.csv,r/02_calibration_curve.R,outputs/tables/calibration_curve.csv,Fit calibration model and estimate unknowns
+3,kinetics_arrhenius,kinetics_timeseries.csv;arrhenius_rates.csv,r/03_kinetics_arrhenius.R,outputs/tables/kinetics_arrhenius.csv,Fit first-order kinetics and Arrhenius transformation
+4,anova_qc,experimental_design.csv;qc_samples.csv;r/04_anova_qc.R,outputs/tables/anova_qc.csv,Analyze experimental design and quality-control samples
+5,report,replicate_summary.csv;calibration_curve.csv;kinetics_arrhenius.csv;anova_qc.csv,r/05_generate_r_chemistry_report.R,outputs/reports/r_chemistry_report.md,Generate report
+6,provenance,workflow_manifest.csv,python/provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums

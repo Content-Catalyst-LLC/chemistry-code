@@ -1,0 +1,11 @@
+standard_id,concentration_mM,response,replicate
+blank_1,0.0,0.020,1
+blank_2,0.0,0.018,2
+std_1_a,1.0,0.310,1
+std_1_b,1.0,0.305,2
+std_2_a,2.0,0.620,1
+std_2_b,2.0,0.615,2
+std_4_a,4.0,1.180,1
+std_4_b,4.0,1.195,2
+std_6_a,6.0,1.820,1
+std_6_b,6.0,1.805,2

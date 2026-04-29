@@ -1,0 +1,13 @@
+run_id,temperature_level,catalyst_loading,solvent,yield_percent
+r1,low,low,solvent_A,45.2
+r2,low,high,solvent_A,58.1
+r3,medium,low,solvent_A,62.4
+r4,medium,high,solvent_A,75.0
+r5,high,low,solvent_A,65.5
+r6,high,high,solvent_A,82.3
+r7,low,low,solvent_B,41.0
+r8,low,high,solvent_B,55.2
+r9,medium,low,solvent_B,60.3
+r10,medium,high,solvent_B,72.6
+r11,high,low,solvent_B,63.0
+r12,high,high,solvent_B,79.5

@@ -1,0 +1,4 @@
+record_id,method_id,instrument,operator,date,notes
+meta_001,method_demo,uv_vis_demo,analyst_demo,2026-04-29,synthetic educational R statistics workflow
+meta_002,kinetics_demo,uv_vis_demo,analyst_demo,2026-04-29,synthetic educational kinetics workflow
+meta_003,anova_demo,reaction_screen_demo,analyst_demo,2026-04-29,synthetic educational experimental design workflow

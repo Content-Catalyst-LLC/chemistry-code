@@ -1,0 +1,9 @@
+sample_id,response,replicate
+unknown_A,0.950,1
+unknown_A,0.965,2
+unknown_A,0.955,3
+unknown_B,1.420,1
+unknown_B,1.405,2
+unknown_B,1.430,3
+qc_low,0.335,1
+qc_high,1.745,1
