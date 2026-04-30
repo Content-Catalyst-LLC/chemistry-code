@@ -1,0 +1,6 @@
+station,chemical_class,species,pressure_index,attention_flag
+Global-CO2,greenhouse_gas,CO2,0.6316,moderate_attention
+Global-CH4,greenhouse_gas,CH4,0.5901,moderate_attention
+Urban-O3,secondary_pollutant,O3,0.3875,monitor
+Wildfire-PM,aerosol,PM2.5,0.5646,moderate_attention
+Dust-AOD,aerosol,coarse_aerosol,0.556,moderate_attention

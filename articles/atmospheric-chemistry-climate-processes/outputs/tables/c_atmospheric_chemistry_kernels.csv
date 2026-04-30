@@ -1,0 +1,4 @@
+record,species,reference_ratio,forcing_proxy,ozone_index,aerosol_effect,persistence_factor
+co2_background,CO2,1.51071429,2.20731678,0.00000000,-0.94080000,0.99917876
+urban_ozone,O3,1.11428571,0.00000000,65.35805230,-1.79280000,0.00662252
+wildfire_pm,PM2.5,2.53333333,0.00000000,34.28738835,-13.47760000,0.14285714

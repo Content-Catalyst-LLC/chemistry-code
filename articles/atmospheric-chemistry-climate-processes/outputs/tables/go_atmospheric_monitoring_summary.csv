@@ -1,0 +1,4 @@
+chemical_class,n,mean_pressure_index,mean_forcing_proxy,mean_ozone_index
+greenhouse_gas,2,0.665000,1.425000,0.000000
+secondary_pollutant,1,0.480000,0.000000,65.200000
+aerosol,2,0.710000,0.000000,21.050000

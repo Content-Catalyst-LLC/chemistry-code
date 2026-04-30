@@ -1,0 +1,9 @@
+record_id,station,chemical_class,species,concentration,reference_concentration,unit,nox_ppb,voc_ppb,sunlight_index,aod,single_scattering_albedo,oh_index,lifetime_days,qc_score
+ATMFS001,Global-CO2,greenhouse_gas,CO2,423,280,ppm,0,0,1.0,0.04,0.96,1.0,36500,0.95
+ATMFS002,Global-CH4,greenhouse_gas,CH4,1950,722,ppb,0,0,1.0,0.03,0.95,0.85,4380,0.94
+ATMFS003,Global-N2O,greenhouse_gas,N2O,337,270,ppb,0,0,1.0,0.03,0.95,1.0,43800,0.93
+ATMFS004,Urban-O3,secondary_pollutant,O3,0.078,0.070,ppm,38,85,1.15,0.08,0.93,0.75,0.20,0.90
+ATMFS005,Urban-NO2,reactive_nitrogen,NO2,42,53,ppb,42,60,1.05,0.07,0.92,0.80,0.25,0.88
+ATMFS006,Wildfire-PM,aerosol,PM2.5,38,15,ug_m3,22,95,0.75,0.68,0.86,0.55,5.0,0.84
+ATMFS007,Dust-AOD,aerosol,coarse_aerosol,120,100,ug_m3,5,10,1.10,0.82,0.91,0.90,7.0,0.82
+ATMFS008,Marine-DMS,sulfur_chemistry,DMS,0.45,0.20,ppb,2,8,0.90,0.12,0.97,1.10,1.0,0.91

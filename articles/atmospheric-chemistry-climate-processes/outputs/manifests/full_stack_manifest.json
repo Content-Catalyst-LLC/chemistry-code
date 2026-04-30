@@ -1,0 +1,16 @@
+{
+  "article_slug": "atmospheric-chemistry-climate-processes",
+  "title": "Atmospheric Chemistry and Climate Processes",
+  "full_stack_extensions": true,
+  "location": "article_root",
+  "languages": [
+    "Julia",
+    "C",
+    "C++",
+    "Fortran",
+    "Rust",
+    "Go",
+    "R"
+  ],
+  "responsible_use": "Synthetic educational atmospheric chemistry workflow only; not for climate attribution, air-quality compliance, emissions inventories, public-health advice, legal evidence, wildfire smoke guidance, chemical transport modeling, or operational forecasting."
+}
