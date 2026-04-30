@@ -1,0 +1,2 @@
+medium,n,mean_concentration,max_concentration,mean_benchmark,max_benchmark,mean_flow_L_s,max_flow_L_s,mean_pH,max_pH,mean_do_sat_mg_L,max_do_sat_mg_L,mean_do_obs_mg_L,max_do_obs_mg_L,mean_qc_score,max_qc_score,mean_benchmark_ratio,max_benchmark_ratio,mean_oxygen_deficit_mg_L,max_oxygen_deficit_mg_L,mean_water_quality_pressure_index,max_water_quality_pressure_index
+groundwater,1,12.0,12.0,10.0,10.0,5.0,5.0,7.1,7.1,9.8,9.8,1.1,1.1,0.86,0.86,1.2,1.2,8.700000000000001,8.700000000000001,0.3457961678997785,0.3457961678997785

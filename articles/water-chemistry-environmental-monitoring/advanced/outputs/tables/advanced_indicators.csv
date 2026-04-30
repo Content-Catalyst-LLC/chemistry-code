@@ -1,0 +1,6 @@
+sample_id,medium,analyte,concentration,benchmark,unit,flow_L_s,pH,do_sat_mg_L,do_obs_mg_L,qc_score,benchmark_ratio,load_kg_day,oxygen_deficit_mg_L,water_quality_pressure_index,attention_flag
+WAT001,river,nitrate_as_N,7.8,10.0,mg/L,820.0,7.4,10.2,8.2,0.93,0.78,552.6144,2.0,0.32412243308257743,monitor
+WAT002,river,phosphate_as_P,0.18,0.1,mg/L,820.0,7.4,10.2,8.2,0.9,1.7999999999999998,12.75264,2.0,0.24739148425332505,monitor
+WAT003,lake,dissolved_oxygen,4.6,5.0,mg/L,0.0,8.3,8.5,4.6,0.88,0.9199999999999999,0.0,3.9000000000000004,0.27609384898893546,monitor
+WAT004,groundwater,arsenic,12.0,10.0,ug/L,5.0,7.1,9.8,1.1,0.86,1.2,,8.700000000000001,0.3457961678997785,monitor
+WAT005,stormwater,lead,18.0,15.0,ug/L,210.0,7.0,9.1,6.4,0.8,1.2,,2.6999999999999993,0.2505961678997785,monitor

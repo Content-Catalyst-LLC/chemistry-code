@@ -1,0 +1,9 @@
+sample_id,date,site,medium,water_body_type,analyte,concentration,benchmark,unit,flow_L_s,temperature_c,pH,specific_conductance_uS_cm,dissolved_oxygen_mg_L,do_saturation_mg_L,turbidity_NTU,nitrate_mg_L,phosphate_mg_L,chloride_mg_L,lead_ug_L,copper_ug_L,arsenic_ug_L,qc_score
+WATADV001,2026-04-01,River-A,surface_water,river,nitrate_as_N,7.8,10.0,mg/L,820,14.2,7.4,540,8.2,10.2,12.0,7.8,0.18,42,3.0,5.0,2.5,0.93
+WATADV002,2026-04-01,River-A,surface_water,river,phosphate_as_P,0.18,0.10,mg/L,820,14.2,7.4,540,8.2,10.2,12.0,7.8,0.18,42,3.0,5.0,2.5,0.91
+WATADV003,2026-04-02,Lake-B,surface_water,lake,dissolved_oxygen,4.6,5.0,mg/L,0,24.1,8.3,420,4.6,8.5,18.0,1.8,0.12,36,2.0,4.0,1.5,0.88
+WATADV004,2026-04-02,Well-C,groundwater,aquifer,arsenic,12.0,10.0,ug/L,5,11.0,7.1,680,1.1,9.8,0.5,0.2,0.02,88,1.0,2.0,12.0,0.86
+WATADV005,2026-04-03,Storm-D,stormwater,urban_runoff,lead,18.0,15.0,ug/L,210,18.4,7.0,920,6.4,9.1,75.0,4.5,0.42,120,18.0,21.0,3.0,0.80
+WATADV006,2026-04-03,Estuary-E,brackish_water,estuary,copper,14.0,13.0,ug/L,1400,19.2,7.8,6200,6.8,8.4,22.0,2.4,0.30,2800,4.0,14.0,2.0,0.84
+WATADV007,2026-04-04,Wetland-F,surface_water,wetland,phosphate_as_P,0.09,0.10,mg/L,75,21.0,6.8,310,5.2,8.7,34.0,1.2,0.09,28,2.5,3.0,1.2,0.90
+WATADV008,2026-04-04,Reservoir-G,surface_water,reservoir,nitrate_as_N,3.2,10.0,mg/L,320,16.8,8.0,460,7.5,9.4,9.0,3.2,0.05,35,1.5,2.5,1.0,0.94

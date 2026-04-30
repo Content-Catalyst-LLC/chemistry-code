@@ -1,0 +1,6 @@
+sample_id,medium,analyte,concentration,benchmark,unit,flow_L_s,pH,do_sat_mg_L,do_obs_mg_L,qc_score
+WAT001,river,nitrate_as_N,7.8,10.0,mg/L,820,7.4,10.2,8.2,0.93
+WAT002,river,phosphate_as_P,0.18,0.1,mg/L,820,7.4,10.2,8.2,0.9
+WAT003,lake,dissolved_oxygen,4.6,5.0,mg/L,0,8.3,8.5,4.6,0.88
+WAT004,groundwater,arsenic,12.0,10.0,ug/L,5,7.1,9.8,1.1,0.86
+WAT005,stormwater,lead,18.0,15.0,ug/L,210,7.0,9.1,6.4,0.8
