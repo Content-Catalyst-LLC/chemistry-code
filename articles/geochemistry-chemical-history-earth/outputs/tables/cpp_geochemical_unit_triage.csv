@@ -1,0 +1,6 @@
+sample_id,province,rock_type,tectonic_setting,geochemical_pressure,attention_flag
+GEOFS001,Superior_Craton,granite,continental_crust,0.3638,monitor
+GEOFS002,Mid_Ocean_Ridge,basalt,oceanic_crust,1,high_attention
+GEOFS005,Himalayan_Foreland,shale,sedimentary_basin,1,high_attention
+GEOFS006,Banded_Iron_Formation,iron_formation,precambrian_ocean,0.3984,monitor
+GEOFS008,Siberian_Platform,carbonate,marine_sedimentary,0.1836,monitor

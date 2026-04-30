@@ -1,0 +1,16 @@
+{
+  "article_slug": "geochemistry-chemical-history-earth",
+  "title": "Geochemistry and the Chemical History of Earth",
+  "full_stack_extensions": true,
+  "location": "article_root",
+  "languages": [
+    "Julia",
+    "C",
+    "C++",
+    "Fortran",
+    "Rust",
+    "Go",
+    "R"
+  ],
+  "responsible_use": "Synthetic educational geochemistry workflow only; not for mineral exploration, reserve estimation, mining, legal evidence, environmental compliance, radiological safety, geohazard forecasting, archaeological authentication, or research-grade geochronology."
+}
