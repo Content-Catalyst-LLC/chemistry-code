@@ -1,0 +1,15 @@
+{
+  "article_slug": "medicinal-chemistry-drug-discovery",
+  "title": "Medicinal Chemistry and Drug Discovery",
+  "full_stack_extensions": true,
+  "languages": [
+    "Julia",
+    "C",
+    "C++",
+    "Fortran",
+    "Rust",
+    "Go",
+    "R"
+  ],
+  "responsible_use": "Synthetic educational medicinal chemistry workflow only; not for clinical, regulatory, toxicology, dosing, synthesis, controlled-substance design, patient-care, or real compound decisions."
+}
