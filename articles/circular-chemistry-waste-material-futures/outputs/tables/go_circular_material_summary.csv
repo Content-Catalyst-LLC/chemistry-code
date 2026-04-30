@@ -1,0 +1,5 @@
+material_class,n,mean_recovery_yield,mean_circular_retention,mean_safe_circularity,mean_circular_score
+metal,1,0.900000,0.780000,0.860000,0.820000
+battery,1,0.620000,0.350000,0.480000,0.470000
+solvent,1,0.840000,0.640000,0.620000,0.720000
+polymer,2,0.590000,0.280000,0.700000,0.510000

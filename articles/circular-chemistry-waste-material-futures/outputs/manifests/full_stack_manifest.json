@@ -1,0 +1,18 @@
+{
+  "article_slug": "circular-chemistry-waste-material-futures",
+  "title": "Circular Chemistry, Waste, and Material Futures",
+  "full_stack_extensions": true,
+  "location": "article_root",
+  "languages": [
+    "Python",
+    "SQL",
+    "Julia",
+    "C",
+    "C++",
+    "Fortran",
+    "Rust",
+    "Go",
+    "R"
+  ],
+  "responsible_use": "Synthetic educational circular chemistry workflow only; not for recyclability certification, waste-management approval, regulatory compliance, LCA, toxicology review, food-contact suitability, product claims, or environmental marketing substantiation."
+}

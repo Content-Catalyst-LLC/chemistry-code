@@ -1,0 +1,9 @@
+stream_id,material_stream,material_class,recovery_pathway,input_waste_kg,recovered_useful_kg,recovered_quality_factor,substitution_factor,energy_kwh,solvent_or_reagent_kg,process_water_kg,hazard_score,exposure_relevance,contamination_score,traceability_score,collection_rate,sorting_efficiency,reuse_cycles,loss_fraction_per_cycle,critical_material_fraction,worker_exposure_score,qc_score
+CIR001,PET_bottles_clear,polymer,mechanical_recycling,1000,760,0.82,0.72,180,12,90,0.18,0.22,0.18,0.78,0.68,0.74,3,0.12,0.00,0.20,0.93
+CIR002,Multilayer_film,polymer,chemical_recycling,1000,420,0.58,0.45,620,140,180,0.34,0.35,0.62,0.35,0.28,0.42,1,0.32,0.00,0.38,0.84
+CIR003,Aluminum_scrap,metal,remelting,800,720,0.94,0.90,260,8,40,0.16,0.18,0.12,0.82,0.74,0.88,8,0.04,0.00,0.24,0.95
+CIR004,Lithium_ion_batteries,battery,hydrometallurgical_recovery,500,310,0.78,0.72,520,160,220,0.48,0.55,0.40,0.70,0.52,0.64,2,0.18,0.42,0.58,0.88
+CIR005,Solvent_wash_stream,solvent,distillation_recovery,1500,1260,0.88,0.86,340,20,30,0.32,0.46,0.20,0.75,0.80,0.90,10,0.08,0.00,0.42,0.92
+CIR006,Textile_polycotton,textile,selective_dissolution,900,430,0.60,0.50,500,220,260,0.30,0.40,0.55,0.46,0.36,0.52,2,0.28,0.00,0.36,0.86
+CIR007,E_waste_circuit_boards,electronics,metal_recovery,700,260,0.82,0.88,740,240,310,0.52,0.62,0.70,0.58,0.42,0.50,2,0.22,0.34,0.70,0.82
+CIR008,Compostable_packaging,biopolymer,industrial_composting,1000,540,0.52,0.38,210,20,140,0.20,0.28,0.32,0.62,0.40,0.56,1,0.46,0.00,0.26,0.87

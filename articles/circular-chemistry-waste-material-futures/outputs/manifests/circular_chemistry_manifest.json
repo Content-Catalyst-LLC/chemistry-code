@@ -1,0 +1,12 @@
+{
+  "article_slug": "circular-chemistry-waste-material-futures",
+  "title": "Circular Chemistry, Waste, and Material Futures",
+  "records": 8,
+  "outputs": [
+    "outputs/tables/circular_chemistry_indicators.csv",
+    "outputs/tables/circular_chemistry_material_class_summary.csv",
+    "outputs/tables/circular_chemistry_pathway_summary.csv",
+    "outputs/reports/circular_chemistry_screening_report.md"
+  ],
+  "responsible_use": "Synthetic educational workflow only; not certification, regulatory, LCA, recycling validation, toxicity, food-contact, or product-claim support."
+}

@@ -1,0 +1,9 @@
+"material_stream","material_class","input_waste_kg","recovered_kg","recovery_yield","circular_retention","safe_circularity_score","traceability_score","circular_chemistry_score"
+"PET_bottles_clear","polymer",1000,760,0.76,0.448704,0.804,0.78,0.68882304
+"Multilayer_film","polymer",1000,420,0.42,0.10962,0.556,0.35,0.3637412
+"Aluminum_scrap","metal",800,720,0.9,0.7614,0.842,0.82,0.837244
+"Lithium_ion_batteries","battery",500,310,0.62,0.348192,0.537,0.7,0.55220992
+"Solvent_wash_stream","solvent",1500,1260,0.84,0.635712,0.675,0.75,0.73488512
+"Textile_polycotton","textile",900,430,0.477777777777778,0.143333333333333,0.5835,0.46,0.415573333333333
+"E_waste_circuit_boards","electronics",700,260,0.371428571428571,0.268022857142857,0.415,0.58,0.4392288
+"Compostable_packaging","biopolymer",1000,540,0.54,0.106704,0.728,0.62,0.46926304

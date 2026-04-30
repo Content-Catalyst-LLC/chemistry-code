@@ -1,0 +1,6 @@
+stream_name,material_class,pathway,circular_score,profile_flag
+PET_bottles_clear,polymer,mechanical_recycling,0.711,strong_circular_profile
+Multilayer_film,polymer,chemical_recycling,0.3468,redesign_or_infrastructure_priority
+Aluminum_scrap,metal,remelting,0.8384,strong_circular_profile
+Lithium_ion_batteries,battery,hydrometallurgical_recovery,0.4974,redesign_or_infrastructure_priority
+Solvent_wash_stream,solvent,distillation_recovery,0.7468,strong_circular_profile

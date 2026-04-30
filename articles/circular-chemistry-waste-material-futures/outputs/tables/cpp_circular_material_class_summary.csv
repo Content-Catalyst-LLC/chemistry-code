@@ -1,0 +1,5 @@
+material_class,n,mean_circular_score
+battery,1,0.4974
+metal,1,0.8384
+polymer,2,0.5289
+solvent,1,0.7468
