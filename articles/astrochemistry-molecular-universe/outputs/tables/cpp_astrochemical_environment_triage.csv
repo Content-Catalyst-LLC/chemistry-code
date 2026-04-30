@@ -1,0 +1,6 @@
+region,environment,molecular_family,species,activity_index,attention_flag
+Taurus_TMC1,cold_dark_cloud,carbon_chain,HC3N,0.4732,moderate_activity
+Orion_KL,hot_core,complex_organic,CH3OCH3,0.5528,moderate_activity
+TW_Hya,disk_midplane,ice_chemistry,H2O_ice,0.5494,moderate_activity
+Comet_67P,cometary_coma,volatile_ice,CO,0.3294,low_to_monitor
+Titan,planetary_atmosphere,nitrile,HCN,0.3326,low_to_monitor

@@ -1,0 +1,9 @@
+record_id,region,environment,molecular_family,species,gas_temperature_k,dust_temperature_k,gas_density_cm3,column_density_cm2,uv_field_g0,cosmic_ray_ionization_s,visual_extinction_mag,freezeout_binding_energy_k,photodissociation_rate_s,formation_rate_cm3_s,desorption_yield,ice_fraction,water_ice_index,organic_complexity_index,deuteration_index,metallicity_proxy,qc_score
+ASTFS001,Taurus_TMC1,cold_dark_cloud,carbon_chain,HC3N,10,8,120000,2.2e13,0.05,1.3e-17,12.0,3600,1.0e-11,2.0e-10,0.02,0.72,0.65,0.54,0.08,1.00,0.93
+ASTFS002,Orion_KL,hot_core,complex_organic,CH3OCH3,150,120,5000000,8.0e15,10.0,5.0e-16,8.0,4200,3.0e-10,8.0e-10,0.18,0.35,0.42,0.92,0.03,1.15,0.90
+ASTFS003,Protoplanetary_Disk_TW_Hya,disk_midplane,ice_chemistry,H2O_ice,25,18,100000000,1.0e18,0.20,1.0e-17,20.0,5700,1.0e-12,1.5e-10,0.03,0.88,0.95,0.30,0.12,1.00,0.91
+ASTFS004,Comet_67P,cometary_coma,volatile_ice,CO,80,70,100000,4.5e16,1.00,1.0e-17,1.0,1150,4.0e-10,2.0e-11,0.35,0.60,0.50,0.48,0.04,1.00,0.88
+ASTFS005,Titan_Upper_Atmosphere,planetary_atmosphere,nitrile,HCN,160,150,10000000,3.0e15,3.0,2.0e-16,0.5,2050,8.0e-9,6.0e-10,0.10,0.15,0.12,0.72,0.02,0.95,0.86
+ASTFS006,Europa_Surface_Ice,icy_world,oxidant_ice,H2O2,95,90,10000,8.0e14,0.80,8.0e-16,0.2,3000,2.0e-8,1.0e-11,0.22,0.78,0.90,0.24,0.01,1.00,0.84
+ASTFS007,Sgr_B2_N,hot_core,complex_organic,CH3OH,120,100,3000000,2.5e17,20.0,6.0e-16,10.0,5500,2.0e-10,9.0e-10,0.25,0.42,0.58,0.86,0.05,1.20,0.89
+ASTFS008,Diffuse_Cloud,translucent_cloud,small_molecule,CH,80,25,800,1.5e13,5.0,3.0e-17,1.2,900,1.0e-9,1.0e-10,0.05,0.10,0.05,0.22,0.01,0.85,0.87

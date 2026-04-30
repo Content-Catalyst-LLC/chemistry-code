@@ -1,0 +1,9 @@
+"record_id","region","environment","molecular_family","species","density","column_density","uv_attenuation","ionization_pressure","molecular_complexity_score","ice_chemistry_score","deuteration","activity_index"
+"ASTFS001","Taurus_TMC1","cold_dark_cloud","carbon_chain","HC3N",120000,2.2e+13,2.08069869711207e-11,0.278485838076709,0.702435996571543,0.678479531151191,0.08,0.381777586884406
+"ASTFS002","Orion_KL","hot_core","complex_organic","CH3OCH3",5e+06,8e+15,5.5739036926946e-06,0.674742501084005,0.953226749747066,0.4719742501084,0.03,0.463662449749494
+"ASTFS003","TW_Hya","disk_midplane","ice_chemistry","H2O_ice",1e+08,1e+18,4.63904566048714e-17,0.25,0.685,0.9285,0.12,0.43347
+"ASTFS004","Comet_67P","cometary_coma","volatile_ice","CO",1e+05,4.5e+16,0.165298888221587,0.25,0.739812465545632,0.57,0.04,0.361277382836724
+"ASTFS005","Titan","planetary_atmosphere","nitrile","HCN",1e+07,3e+15,1.2197089792218,0.575257498915995,0.814944024397327,0.2845,0.02,0.382280587494012
+"ASTFS006","Europa_Surface_Ice","icy_world","oxidant_ice","H2O2",10000,8e+14,0.558141060856825,0.725772496747986,0.597782305302621,0.766,0.01,0.457891931174121
+"ASTFS007","Sgr_B2_N","hot_core","complex_organic","CH3OH",3e+06,2.5e+17,3.04599594894253e-07,0.694537812595911,0.965293277946401,0.553928031367992,0.05,0.491151362312155
+"ASTFS008","Diffuse_Cloud","translucent_cloud","small_molecule","CH",800,1.5e+13,0.576625605190313,0.369280313679916,0.525201774481638,0.135077249674799,0.01,0.235848882107956

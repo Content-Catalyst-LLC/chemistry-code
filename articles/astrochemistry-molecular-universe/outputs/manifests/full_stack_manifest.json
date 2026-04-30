@@ -1,0 +1,16 @@
+{
+  "article_slug": "astrochemistry-molecular-universe",
+  "title": "Astrochemistry and the Molecular Universe",
+  "full_stack_extensions": true,
+  "location": "article_root",
+  "languages": [
+    "Julia",
+    "C",
+    "C++",
+    "Fortran",
+    "Rust",
+    "Go",
+    "R"
+  ],
+  "responsible_use": "Synthetic educational astrochemistry workflow only; not for observational calibration, telescope proposal analysis, spacecraft mission guidance, astrobiological detection claims, exoplanet habitability determinations, spectral line identification, chemical-network validation, or research-grade astrochemical modeling."
+}
