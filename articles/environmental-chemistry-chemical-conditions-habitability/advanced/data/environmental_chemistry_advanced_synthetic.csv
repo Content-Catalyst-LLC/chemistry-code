@@ -1,0 +1,11 @@
+sample_id,date,site,compartment,matrix_type,analyte,analyte_class,concentration,benchmark,unit,pH,temperature_c,organic_carbon_fraction,koc_L_kg,henry_atm_m3_mol,half_life_days,flow_L_s,water_depth_m,bulk_density_g_cm3,porosity_fraction,exposure_weight,receptor_sensitivity,redox_Eh_mV,dissolved_oxygen_mg_L,nitrate_mg_L,phosphate_mg_L,sulfate_mg_L,chloride_mg_L,qc_score
+ENVADV001,2026-04-01,SurfaceWater-A,surface_water,river_water,nitrate,nutrient,8.2,10.0,mg/L,7.6,15.0,0.001,5,0.000000000001,30,850,1.8,1.0,0.99,0.70,0.75,340,8.4,8.2,0.18,42,38,0.94
+ENVADV002,2026-04-01,Groundwater-B,groundwater,aquifer_water,arsenic,metalloid,13.5,10.0,ug/L,7.1,11.0,0.002,120,0.000000000001,99999,2,12.0,1.65,0.32,0.95,0.90,80,1.2,0.3,0.02,88,120,0.88
+ENVADV003,2026-04-02,Soil-C,soil,topsoil,lead,metal,420,400,mg/kg,6.5,18.0,0.035,2500,0.000000000001,99999,0,0.0,1.32,0.45,0.85,0.88,260,0.0,18.0,32.0,60,52,0.84
+ENVADV004,2026-04-02,Sediment-D,sediment,bed_sediment,pyrene,pah,1.9,1.0,mg/kg,7.2,12.0,0.055,60000,0.0000012,220,0,2.4,1.15,0.58,0.55,0.82,110,2.8,1.1,0.08,140,90,0.80
+ENVADV005,2026-04-03,Air-E,air,urban_air,ozone,secondary_pollutant,0.078,0.070,ppm,7.0,28.0,0.0,0,0.0100,0.08,0,0.0,0.0012,0.99,0.90,0.86,0,0.0,0.0,0.0,0,0,0.90
+ENVADV006,2026-04-03,Stormwater-F,stormwater,urban_runoff,zinc,metal,160,120,ug/L,7.4,17.0,0.008,900,0.000000000001,80,220,0.3,1.0,0.90,0.72,0.78,220,6.2,4.4,0.38,75,105,0.82
+ENVADV007,2026-04-04,Wetland-G,wetland_water,wetland_water,phosphate,nutrient,0.21,0.10,mg/L,6.8,21.0,0.012,80,0.000000000001,45,65,0.6,1.0,0.95,0.62,0.80,40,4.1,1.6,0.21,35,28,0.89
+ENVADV008,2026-04-04,IndustrialSoil-H,soil,industrial_soil,cadmium,metal,4.2,3.0,mg/kg,5.4,19.0,0.022,1200,0.000000000001,99999,0,0.0,1.45,0.38,0.88,0.92,180,0.0,6.0,12.0,95,180,0.78
+ENVADV009,2026-04-05,Groundwater-I,groundwater,aquifer_water,TCE,chlorinated_solvent,8.5,5.0,ug/L,7.0,12.0,0.001,90,0.0091,365,4,8.5,1.70,0.30,0.93,0.91,-80,0.4,0.1,0.01,160,240,0.83
+ENVADV010,2026-04-05,Lake-J,surface_water,lake_water,microcystin,cyanotoxin,1.7,1.0,ug/L,8.6,25.0,0.004,300,0.000000000001,10,0,5.0,1.0,0.99,0.82,0.95,260,7.1,2.8,0.24,38,34,0.86

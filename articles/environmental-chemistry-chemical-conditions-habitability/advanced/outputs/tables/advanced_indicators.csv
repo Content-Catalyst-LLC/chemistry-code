@@ -1,0 +1,6 @@
+sample_id,compartment,analyte,concentration,benchmark,unit,half_life_days,koc_L_kg,organic_carbon_fraction,exposure_weight,monitoring_confidence,benchmark_ratio,persistence_factor,partition_retention_factor,chemical_habitability_pressure_index,evidence_weighted_pressure,attention_flag
+ENV001,surface_water,nitrate,8.2,10.0,mg/L,18.0,5.0,0.02,0.55,0.92,0.82,0.375,0.09090909090909091,0.31476263924967357,0.2895816281096997,monitor
+ENV002,groundwater,arsenic,13.5,10.0,ug/L,9999.0,120.0,0.01,0.85,0.88,1.35,0.9970086748429554,0.5454545454545454,0.639924896324042,0.563133908765157,high_attention
+ENV003,soil,lead,420.0,400.0,mg/kg,9999.0,2500.0,0.035,0.7,0.82,1.05,0.9970086748429554,0.9887005649717514,0.6650657394872114,0.5453539063795133,high_attention
+ENV004,sediment,pyrene,1.9,1.0,mg/kg,220.0,60000.0,0.055,0.45,0.76,1.9,0.88,0.9996970614965162,0.641272639702122,0.48736720617361273,high_attention
+ENV005,air,ozone,0.078,0.07,ppm,0.08,0.0,0.0,0.8,0.9,1.114285714285714,0.0026595744680851068,0.0,0.2952360229926846,0.26571242069341616,monitor

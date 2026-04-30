@@ -1,0 +1,17 @@
+scenario,analyte,exposure_weight,receptor_sensitivity,chemical_habitability_pressure_index
+exposure_pathway_sensitivity,arsenic,0.25,0.25,0.27888673298032207
+exposure_pathway_sensitivity,arsenic,0.25,0.5,0.29888673298032203
+exposure_pathway_sensitivity,arsenic,0.25,0.75,0.31888673298032205
+exposure_pathway_sensitivity,arsenic,0.25,1.0,0.33888673298032207
+exposure_pathway_sensitivity,arsenic,0.5,0.25,0.28957423298032203
+exposure_pathway_sensitivity,arsenic,0.5,0.5,0.309574232980322
+exposure_pathway_sensitivity,arsenic,0.5,0.75,0.329574232980322
+exposure_pathway_sensitivity,arsenic,0.5,1.0,0.34957423298032203
+exposure_pathway_sensitivity,arsenic,0.75,0.25,0.3002617329803221
+exposure_pathway_sensitivity,arsenic,0.75,0.5,0.32026173298032207
+exposure_pathway_sensitivity,arsenic,0.75,0.75,0.3402617329803221
+exposure_pathway_sensitivity,arsenic,0.75,1.0,0.3602617329803221
+exposure_pathway_sensitivity,arsenic,1.0,0.25,0.31094923298032207
+exposure_pathway_sensitivity,arsenic,1.0,0.5,0.33094923298032203
+exposure_pathway_sensitivity,arsenic,1.0,0.75,0.35094923298032205
+exposure_pathway_sensitivity,arsenic,1.0,1.0,0.37094923298032206

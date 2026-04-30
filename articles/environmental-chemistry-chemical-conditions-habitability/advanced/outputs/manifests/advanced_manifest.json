@@ -1,0 +1,21 @@
+{
+  "article_slug": "environmental-chemistry-chemical-conditions-habitability",
+  "title": "Environmental Chemistry and the Chemical Conditions of Habitability",
+  "advanced_layer": true,
+  "synthetic_records": 10,
+  "summary_groups": 7,
+  "decay_scenario_rows": 25,
+  "leaching_scenario_rows": 20,
+  "partition_scenario_rows": 12,
+  "exposure_scenario_rows": 16,
+  "outputs": [
+    "advanced/outputs/tables/advanced_environmental_chemistry_indicators.csv",
+    "advanced/outputs/tables/advanced_compartment_summary.csv",
+    "advanced/outputs/tables/advanced_decay_scenario.csv",
+    "advanced/outputs/tables/advanced_leaching_retardation_scenarios.csv",
+    "advanced/outputs/tables/advanced_multimedia_partition_scenarios.csv",
+    "advanced/outputs/tables/advanced_exposure_pathway_scenarios.csv",
+    "advanced/outputs/reports/advanced_environmental_chemistry_report.md"
+  ],
+  "responsible_use": "Synthetic educational environmental chemistry workflow only; not for regulatory, public-health, forensic, legal, remediation, ecological-risk, hazardous-waste, or operational monitoring decisions."
+}
