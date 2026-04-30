@@ -1,0 +1,18 @@
+{
+  "article_slug": "green-chemistry-responsibility-sustainable-transformation",
+  "title": "Green Chemistry, Responsibility, and Sustainable Transformation",
+  "full_stack_extensions": true,
+  "location": "article_root",
+  "languages": [
+    "Python",
+    "SQL",
+    "Julia",
+    "C",
+    "C++",
+    "Fortran",
+    "Rust",
+    "Go",
+    "R"
+  ],
+  "responsible_use": "Synthetic educational green chemistry workflow only; not for certification, regulatory compliance, LCA, process safety, toxicity assessment, solvent approval, product claims, or environmental marketing substantiation."
+}

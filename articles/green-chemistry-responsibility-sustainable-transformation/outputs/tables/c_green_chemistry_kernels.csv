@@ -1,0 +1,3 @@
+route,atom_economy,e_factor,pmi,hazard_weighted_mass_intensity,catalysis_score
+Route_A_Stoichiometric,0.69230769,14.00000000,18.00000000,10.40400000,0.00000000
+Route_B_Catalytic,0.80000000,4.16666667,7.50000000,2.40000000,0.90000000

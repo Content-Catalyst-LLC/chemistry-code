@@ -1,23 +1,11 @@
 # Green Chemistry, Responsibility, and Sustainable Transformation
 
-Section: Chemistry in Human Knowledge and Practice
+This directory supports the Chemistry knowledge-series article:
 
-This folder will support the Chemistry knowledge-series article:
+**Green Chemistry, Responsibility, and Sustainable Transformation**
 
-Green Chemistry, Responsibility, and Sustainable Transformation
+The code is synthetic and educational. It demonstrates green chemistry metrics and screening logic across atom economy, E-factor, process mass intensity, solvent burden, hazard-weighted mass intensity, renewable feedstock fraction, circularity, degradation, catalysis, energy burden, and process-safety triage.
 
-The folder is prepared for reproducible computational chemistry workflows, synthetic datasets, documentation, notebooks, SQL metadata, and full-stack examples where useful.
+## Responsible-use boundary
 
-## Suggested workflow types
-
-- chemical data analysis
-- stoichiometric and thermodynamic calculations
-- kinetics and reaction-network modeling
-- spectroscopy or chromatography data workflows
-- molecular modeling or cheminformatics examples
-- environmental chemistry or toxicology examples
-- reproducible metadata and provenance examples
-
-## Responsible-use note
-
-This folder is educational and methodological scaffolding. It is not a substitute for laboratory validation, safety review, regulatory compliance, chemical risk assessment, or professional chemical practice.
+This repository does **not** certify green chemistry claims, validate industrial processes, determine regulatory compliance, replace life-cycle assessment, approve solvents, determine worker safety, evaluate real toxicity, support product claims, or authorize environmental marketing statements.

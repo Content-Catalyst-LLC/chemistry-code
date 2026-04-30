@@ -1,0 +1,11 @@
+{
+  "article_slug": "green-chemistry-responsibility-sustainable-transformation",
+  "title": "Green Chemistry, Responsibility, and Sustainable Transformation",
+  "records": 8,
+  "outputs": [
+    "outputs/tables/green_chemistry_indicators.csv",
+    "outputs/tables/green_chemistry_class_summary.csv",
+    "outputs/reports/green_chemistry_screening_report.md"
+  ],
+  "responsible_use": "Synthetic educational workflow only; not certification, regulatory, LCA, safety, toxicity, or marketing-claim support."
+}

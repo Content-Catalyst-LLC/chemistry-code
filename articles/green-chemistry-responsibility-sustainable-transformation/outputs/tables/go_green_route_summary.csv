@@ -1,0 +1,4 @@
+chemistry_class,n,mean_green_score,mean_e_factor,mean_pmi
+small_molecule_intermediate,3,0.626667,7.166667,11.093333
+specialty_chemical,1,0.780000,3.000000,7.000000
+consumer_material,1,0.770000,2.670000,6.330000
