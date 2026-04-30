@@ -1,0 +1,19 @@
+{
+  "article_slug": "geochemistry-chemical-history-earth",
+  "title": "Geochemistry and the Chemical History of Earth",
+  "advanced_layer": true,
+  "synthetic_records": 8,
+  "summary_groups": 8,
+  "decay_series_rows": 31,
+  "mixing_series_rows": 21,
+  "weathering_series_rows": 21,
+  "outputs": [
+    "advanced/outputs/tables/advanced_geochemical_indicators.csv",
+    "advanced/outputs/tables/advanced_rock_type_summary.csv",
+    "advanced/outputs/tables/advanced_radiogenic_decay_series.csv",
+    "advanced/outputs/tables/advanced_isotope_mixing_series.csv",
+    "advanced/outputs/tables/advanced_weathering_trajectory.csv",
+    "advanced/outputs/reports/advanced_geochemistry_report.md"
+  ],
+  "responsible_use": "Synthetic educational geochemistry workflow only; not for professional geochronology, mining, contamination, legal, resource, or regulatory decisions."
+}
