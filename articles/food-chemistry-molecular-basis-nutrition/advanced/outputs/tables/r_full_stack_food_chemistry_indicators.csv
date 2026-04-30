@@ -1,0 +1,6 @@
+"food","food_group","energy_kcal","protein_g","fiber_g","potassium_mg","nutrient_density"
+"lentils_cooked","legume",230,18,15,730,0.376576086956522
+"oats_cooked","whole_grain",180,10,8,180,0.249768518518519
+"walnuts","nut_seed",330,15,7,320,0.16489898989899
+"orange_segments","fruit",80,1.5,4,240,0.269583333333333
+"spinach_cooked","leafy_green",45,5,4,840,0.893333333333333

@@ -1,0 +1,15 @@
+{
+  "article_slug": "food-chemistry-molecular-basis-nutrition",
+  "title": "Food Chemistry and the Molecular Basis of Nutrition",
+  "full_stack_extensions": true,
+  "languages": [
+    "Julia",
+    "C",
+    "C++",
+    "Fortran",
+    "Rust",
+    "Go",
+    "R"
+  ],
+  "responsible_use": "Synthetic educational food chemistry workflow only; not for dietary, clinical, food-safety, allergen, regulatory, or product-claim decisions."
+}
