@@ -1,0 +1,6 @@
+sample_name,assigned_class,classification_reliability,hazard_attention
+ethyl_acetate_reference,organic_molecular_substance,0.88,lower_attention
+seawater_sample,mixture_or_solution,0.75,moderate_attention
+sodium_chloride_crystal,ionic_or_salt_crystal,0.9,lower_attention
+polyethylene_film,polymer_material,0.82,lower_attention
+soil_extract,heterogeneous_mixture,0.62,higher_attention

@@ -1,0 +1,11 @@
+{
+  "article_slug": "chemistry-classification-human-understanding-matter",
+  "title": "Chemistry, Classification, and the Human Understanding of Matter",
+  "records": 8,
+  "outputs": [
+    "outputs/tables/chemical_classification_indicators.csv",
+    "outputs/tables/chemical_classification_class_summary.csv",
+    "outputs/reports/chemical_classification_report.md"
+  ],
+  "responsible_use": "Synthetic educational workflow only; not unknown identification, regulatory classification, SDS generation, purity certification, or analytical validation."
+}

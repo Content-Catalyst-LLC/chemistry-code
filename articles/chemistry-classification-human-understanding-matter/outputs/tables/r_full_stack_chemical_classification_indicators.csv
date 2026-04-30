@@ -1,0 +1,9 @@
+"sample_name","assigned_class","phase","evidence_score","classification_reliability","hazard_indicator_score","qc_score"
+"ethyl_acetate_reference","organic_molecular_substance","liquid",0.875,0.88025,0.22,0.94
+"seawater_sample","mixture_or_solution","aqueous_solution",0.706,0.7453,0.35,0.9
+"sodium_chloride_crystal","ionic_or_salt_crystal","crystalline_solid",0.871,0.89605,0.18,0.96
+"polyethylene_film","polymer_material","solid",0.794,0.8207,0.2,0.92
+"iron_oxide_powder","extended_solid_or_network_material","crystalline_solid",0.8495,0.855725,0.3,0.91
+"cobalt_complex","coordination_compound","crystalline_solid",0.7835,0.804425,0.45,0.89
+"soil_extract","heterogeneous_mixture","heterogeneous_mixture",0.617,0.64235,0.62,0.82
+"silica_glass","extended_solid_or_network_material","amorphous_solid",0.8555,0.859025,0.12,0.93

@@ -1,0 +1,8 @@
+"assigned_class","evidence_score","classification_reliability","hazard_indicator_score","qc_score"
+"coordination_compound",0.7835,0.804425,0.45,0.89
+"extended_solid_or_network_material",0.8525,0.857375,0.21,0.92
+"heterogeneous_mixture",0.617,0.64235,0.62,0.82
+"ionic_or_salt_crystal",0.871,0.89605,0.18,0.96
+"mixture_or_solution",0.706,0.7453,0.35,0.9
+"organic_molecular_substance",0.875,0.88025,0.22,0.94
+"polymer_material",0.794,0.8207,0.2,0.92

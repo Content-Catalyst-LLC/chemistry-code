@@ -1,0 +1,18 @@
+{
+  "article_slug": "chemistry-classification-human-understanding-matter",
+  "title": "Chemistry, Classification, and the Human Understanding of Matter",
+  "full_stack_extensions": true,
+  "location": "article_root",
+  "languages": [
+    "Python",
+    "SQL",
+    "Julia",
+    "C",
+    "C++",
+    "Fortran",
+    "Rust",
+    "Go",
+    "R"
+  ],
+  "responsible_use": "Synthetic educational chemical classification workflow only; not for real unknown identification, regulatory classification, SDS generation, purity certification, hazard categorization, or analytical validation."
+}

@@ -1,0 +1,4 @@
+comparison,distance
+organic_reference_vs_candidate,    0.048990
+solution_reference_vs_candidate,    0.146969
+mixed_matrix_vs_candidate,    0.438748

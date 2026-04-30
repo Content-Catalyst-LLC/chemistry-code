@@ -1,0 +1,9 @@
+record_id,sample_name,components,phase,molecular_weight,charge,contains_metal,coordination_number,is_polymer,network_structure,organic_fraction,ionic_fraction,metallic_fraction,crystalline_score,functional_group,spectral_match_score,elemental_match_score,thermal_signature_score,hazard_indicator_score,classification_confidence,qc_score
+CLS001,ethyl_acetate_reference,1,liquid,88.11,0,0,0,0,0,1.00,0.00,0.00,0.05,ester,0.92,0.88,0.74,0.22,0.86,0.94
+CLS002,seawater_sample,18,aqueous_solution,,0,1,0,0,0,0.05,0.78,0.02,0.00,mixed_inorganic_ions,0.70,0.82,0.40,0.35,0.74,0.90
+CLS003,sodium_chloride_crystal,2,crystalline_solid,58.44,0,1,6,0,1,0.00,0.95,0.00,0.96,halide_salt,0.88,0.93,0.70,0.18,0.91,0.96
+CLS004,polyethylene_film,1,solid,50000,0,0,0,1,0,1.00,0.00,0.00,0.35,alkane_polymer,0.80,0.68,0.86,0.20,0.82,0.92
+CLS005,iron_oxide_powder,2,crystalline_solid,159.69,0,1,6,0,1,0.00,0.70,0.20,0.88,oxide,0.82,0.90,0.78,0.30,0.84,0.91
+CLS006,cobalt_complex,1,crystalline_solid,245.00,1,1,6,0,0,0.35,0.40,0.10,0.72,coordination_complex,0.76,0.84,0.66,0.45,0.80,0.89
+CLS007,soil_extract,60,heterogeneous_mixture,,0,1,0,0,1,0.30,0.50,0.05,0.42,mixed_matrix,0.48,0.72,0.55,0.62,0.60,0.82
+CLS008,silica_glass,1,amorphous_solid,60.08,0,0,0,0,1,0.00,0.10,0.00,0.18,network_oxide,0.84,0.86,0.82,0.12,0.83,0.93
