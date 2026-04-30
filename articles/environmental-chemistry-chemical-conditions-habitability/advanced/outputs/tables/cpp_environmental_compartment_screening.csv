@@ -1,0 +1,6 @@
+site,compartment,analyte_class,pressure_index,attention_flag
+Groundwater-B,groundwater,metalloid,0.708486,high_attention
+Sediment-D,sediment,pah,0.518432,moderate_attention
+Stormwater-F,stormwater,metal,0.611159,moderate_attention
+Wetland-G,wetland_water,nutrient,0.643234,moderate_attention
+Groundwater-I,groundwater,chlorinated_solvent,0.6976,high_attention

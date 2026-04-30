@@ -1,0 +1,7 @@
+"compartment","benchmark_ratio","mobility_factor","persistence_factor","pressure_index"
+"groundwater",1.525,0.815,0.8995,0.794813017608671
+"sediment",1.9,0.02,0.71,0.560062592828232
+"soil",1.05,0.25,0.999,0.652425682270401
+"stormwater",1.33,0.45,0.47,0.577670251404416
+"surface_water",0.82,0.7,0.25,0.528623411464757
+"wetland_water",2.1,0.55,0.33,0.608893897071179

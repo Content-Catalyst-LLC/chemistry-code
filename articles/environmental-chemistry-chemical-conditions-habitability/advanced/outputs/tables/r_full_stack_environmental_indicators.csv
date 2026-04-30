@@ -1,0 +1,8 @@
+"site","compartment","analyte_class","benchmark_ratio","mobility_factor","persistence_factor","exposure_weight","receptor_sensitivity","pressure_index"
+"SurfaceWater-A","surface_water","nutrient",0.82,0.7,0.25,0.7,0.75,0.528623411464757
+"Groundwater-B","groundwater","metalloid",1.35,0.8,0.999,0.95,0.9,0.798083427601974
+"Soil-C","soil","metal",1.05,0.25,0.999,0.85,0.88,0.652425682270401
+"Sediment-D","sediment","pah",1.9,0.02,0.71,0.55,0.82,0.560062592828232
+"Stormwater-F","stormwater","metal",1.33,0.45,0.47,0.72,0.78,0.577670251404416
+"Wetland-G","wetland_water","nutrient",2.1,0.55,0.33,0.62,0.8,0.608893897071179
+"Groundwater-I","groundwater","chlorinated_solvent",1.7,0.83,0.8,0.93,0.91,0.791542607615369

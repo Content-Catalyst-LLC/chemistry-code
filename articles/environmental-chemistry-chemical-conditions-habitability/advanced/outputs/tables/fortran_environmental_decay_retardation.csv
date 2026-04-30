@@ -1,0 +1,5 @@
+metric,value
+Kd_L_kg,    0.09000000
+retardation_factor,    1.50999999
+decay_constant_per_day,    0.00189903
+concentration_day_365,    4.25000000

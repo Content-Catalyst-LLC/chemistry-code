@@ -1,0 +1,3 @@
+record,Kd_L_kg,retardation_factor,mobility_factor,henry_tendency,decay_constant_per_day,concentration_day_365
+TCE_groundwater,0.09000000,1.51000000,0.81378846,0.77194329,0.0018990334,4.25000000
+pyrene_sediment,3300.00000000,6544.10344828,0.01236161,0.00040033,0.0031506690,0.60161336

@@ -1,0 +1,5 @@
+compartment,n,mean_pressure_index,mean_exposure_weight
+stormwater,1,0.570000,0.720000
+wetland_water,1,0.520000,0.620000
+groundwater,2,0.700000,0.940000
+sediment,1,0.480000,0.550000

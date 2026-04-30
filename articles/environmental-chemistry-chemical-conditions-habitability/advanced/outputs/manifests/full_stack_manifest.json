@@ -1,0 +1,15 @@
+{
+  "article_slug": "environmental-chemistry-chemical-conditions-habitability",
+  "title": "Environmental Chemistry and the Chemical Conditions of Habitability",
+  "full_stack_extensions": true,
+  "languages": [
+    "Julia",
+    "C",
+    "C++",
+    "Fortran",
+    "Rust",
+    "Go",
+    "R"
+  ],
+  "responsible_use": "Synthetic educational environmental chemistry workflow only; not for regulatory, public-health, forensic, legal, remediation, ecological-risk, hazardous-waste, drinking-water, property, or operational monitoring decisions."
+}
