@@ -1,0 +1,8 @@
+"chemical","target_system","mixture_group","hazard_quotient","vulnerability_factor","vulnerability_adjusted_hazard"
+"arsenic","cancer_and_skin","metals_metalloids",0.03,1.2,0.036
+"lead","neurodevelopment","metals_metalloids",0.12,1.8,0.216
+"mercury","neurodevelopment","metals_metalloids",0.42,1.5,0.63
+"benzene","bone_marrow","volatile_organics",0.08,1.1,0.088
+"ozone","respiratory","air_pollutants",0.19,1.25,0.2375
+"formaldehyde","respiratory","irritants",0.085,1.05,0.08925
+"PFOS","immune_endocrine","persistent_organics",0.9,1.35,1.215

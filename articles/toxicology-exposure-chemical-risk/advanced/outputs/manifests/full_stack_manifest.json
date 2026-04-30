@@ -1,0 +1,15 @@
+{
+  "article_slug": "toxicology-exposure-chemical-risk",
+  "title": "Toxicology, Exposure, and Chemical Risk",
+  "full_stack_extensions": true,
+  "languages": [
+    "Julia",
+    "C",
+    "C++",
+    "Fortran",
+    "Rust",
+    "Go",
+    "R"
+  ],
+  "responsible_use": "Synthetic educational toxicology workflow only; not for public-health, clinical, legal, regulatory, occupational, product-safety, drinking-water, site-cleanup, or real-world community risk decisions."
+}

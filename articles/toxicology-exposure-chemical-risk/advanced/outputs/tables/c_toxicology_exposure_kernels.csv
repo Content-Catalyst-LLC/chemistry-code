@@ -1,0 +1,3 @@
+record,cdi,absorbed_dose,hazard_quotient,margin_of_exposure,cancer_risk_proxy
+arsenic_water,0.0002739726,0.0002602740,0.867580,30.736842,0.0003904110
+lead_soil_dust,0.0003945205,0.0001578082,0.045088,316.840278,0.0000000000

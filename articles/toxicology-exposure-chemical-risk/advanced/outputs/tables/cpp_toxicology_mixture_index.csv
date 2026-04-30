@@ -1,0 +1,8 @@
+summary_type,group,hazard_index,vulnerability_adjusted_hazard_index
+target_system,cancer_and_skin,0.03,0.036
+target_system,neurodevelopment,0.75,1.203
+target_system,respiratory,0.275,0.32675
+mixture_group,air_pollutants,0.19,0.19
+mixture_group,irritants,0.085,0.085
+mixture_group,metals_metalloids,0.57,0.57
+mixture_group,pesticides,0.21,0.21

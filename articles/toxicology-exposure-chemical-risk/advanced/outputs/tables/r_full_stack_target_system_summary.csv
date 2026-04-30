@@ -1,0 +1,6 @@
+"target_system","hazard_quotient","vulnerability_adjusted_hazard"
+"bone_marrow",0.08,0.088
+"cancer_and_skin",0.03,0.036
+"immune_endocrine",0.9,1.215
+"neurodevelopment",0.54,0.846
+"respiratory",0.275,0.32675
