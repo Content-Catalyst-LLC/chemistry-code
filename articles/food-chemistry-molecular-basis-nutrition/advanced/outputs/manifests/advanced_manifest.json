@@ -1,0 +1,21 @@
+{
+  "article_slug": "food-chemistry-molecular-basis-nutrition",
+  "title": "Food Chemistry and the Molecular Basis of Nutrition",
+  "advanced_layer": true,
+  "synthetic_food_records": 10,
+  "food_group_summary_rows": 10,
+  "processing_retention_rows": 24,
+  "lipid_oxidation_rows": 13,
+  "glycemic_matrix_rows": 20,
+  "mineral_bioavailability_rows": 20,
+  "outputs": [
+    "advanced/outputs/tables/advanced_food_chemistry_indicators.csv",
+    "advanced/outputs/tables/advanced_food_group_summary.csv",
+    "advanced/outputs/tables/advanced_processing_retention_scenarios.csv",
+    "advanced/outputs/tables/advanced_lipid_oxidation_scenarios.csv",
+    "advanced/outputs/tables/advanced_glycemic_matrix_scenarios.csv",
+    "advanced/outputs/tables/advanced_mineral_bioavailability_scenarios.csv",
+    "advanced/outputs/reports/advanced_food_chemistry_report.md"
+  ],
+  "responsible_use": "Synthetic educational food chemistry workflow only; not for dietary, clinical, food-safety, allergen, regulatory, or product-claim decisions."
+}
