@@ -1,0 +1,15 @@
+{
+  "article_slug": "ocean-chemistry-carbonate-system",
+  "title": "Ocean Chemistry and the Carbonate System",
+  "advanced_layer": true,
+  "synthetic_records": 8,
+  "summary_groups": 8,
+  "sensitivity_rows": 22,
+  "outputs": [
+    "advanced/outputs/tables/advanced_ocean_carbonate_indicators.csv",
+    "advanced/outputs/tables/advanced_ocean_water_type_summary.csv",
+    "advanced/outputs/tables/advanced_dic_sensitivity_series.csv",
+    "advanced/outputs/reports/advanced_ocean_carbonate_report.md"
+  ],
+  "responsible_use": "Synthetic educational carbonate-system workflow only; not for research-grade, regulatory, operational, legal, or climate-attribution decisions."
+}

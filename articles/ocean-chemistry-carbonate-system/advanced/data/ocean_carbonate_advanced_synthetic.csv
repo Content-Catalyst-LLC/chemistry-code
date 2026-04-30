@@ -1,0 +1,9 @@
+sample_id,date,station,region,water_type,depth_m,temperature_c,salinity,pH_total_scale,DIC_umol_kg,total_alkalinity_umol_kg,pCO2_water_uatm,pCO2_air_uatm,calcium_mmol_kg,oxygen_umol_kg,nitrate_umol_kg,phosphate_umol_kg,silicate_umol_kg,wind_speed_m_s,qc_score
+OCADV001,2026-04-01,Open-Ocean-A,subtropical_gyre,open_ocean,10,22.0,35.0,8.10,2050,2310,410,420,10.3,215,0.8,0.05,1.2,6.0,0.94
+OCADV002,2026-04-01,Upwelling-B,eastern_boundary,upwelling,20,10.5,34.2,7.78,2240,2285,820,420,10.1,145,18.5,1.6,24.0,8.5,0.91
+OCADV003,2026-04-02,Reef-C,tropical_reef,reef_lagoon,5,27.8,36.1,8.02,1980,2290,455,420,10.5,205,0.2,0.03,0.8,5.5,0.89
+OCADV004,2026-04-02,Estuary-D,temperate_estuary,estuarine,4,18.2,28.5,7.62,2300,2170,1150,420,8.4,176,22.0,2.1,35.0,4.0,0.84
+OCADV005,2026-04-03,Polar-E,polar_shelf,polar_surface,15,1.5,32.8,7.88,2180,2260,620,420,9.8,285,8.6,0.9,12.5,9.0,0.90
+OCADV006,2026-04-03,Deep-F,abyssal,deep_ocean,3800,1.8,34.7,7.65,2350,2400,980,420,10.2,135,34.0,2.4,115.0,3.0,0.87
+OCADV007,2026-04-04,Coastal-G,urban_coast,coastal,8,20.1,31.2,7.70,2265,2205,1040,420,9.2,160,26.0,2.8,42.0,7.2,0.82
+OCADV008,2026-04-04,Productive-H,subpolar_bloom,productive_surface,12,8.4,34.5,8.18,1995,2315,330,420,10.1,310,2.5,0.2,5.5,10.0,0.93
