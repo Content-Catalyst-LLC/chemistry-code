@@ -1,0 +1,15 @@
+{
+  "article_slug": "soil-chemistry-nutrient-cycles-land-systems",
+  "title": "Soil Chemistry, Nutrient Cycles, and Land Systems",
+  "full_stack_extensions": true,
+  "languages": [
+    "Julia",
+    "C",
+    "C++",
+    "Fortran",
+    "Rust",
+    "Go",
+    "R"
+  ],
+  "responsible_use": "Synthetic educational soil chemistry workflow only; not for agronomic prescriptions, fertilizer recommendations, regulatory determinations, contamination findings, soil-health certification, ecological risk assessment, legal evidence, land-management, or operational monitoring decisions."
+}

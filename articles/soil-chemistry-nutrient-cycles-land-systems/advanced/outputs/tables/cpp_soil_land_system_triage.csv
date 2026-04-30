@@ -1,0 +1,6 @@
+site,land_use,soil_zone,soil_pressure,attention_flag
+Prairie-A,cropland,mollisol_like,0.1648,monitor
+Field-B,intensive_cropland,sandy_low_om,0.3536,monitor
+Irrigated-C,irrigated_agriculture,salinity_risk,0.3394,monitor
+Forest-D,forest,forest_soil,0.209,monitor
+Degraded-E,degraded_land,eroded_low_om,0.5979,moderate_attention

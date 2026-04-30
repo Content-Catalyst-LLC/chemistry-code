@@ -1,0 +1,6 @@
+land_use,n,mean_soil_pressure
+cropland,1,0.1648
+degraded_land,1,0.5979
+forest,1,0.209
+intensive_cropland,1,0.3536
+irrigated_agriculture,1,0.3394

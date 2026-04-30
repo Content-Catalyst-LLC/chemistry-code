@@ -1,0 +1,8 @@
+"site","land_use","soil_group","pH","organic_matter","cec","nitrate","ammonium","available_p","exchangeable_k","nutrient_balance","ph_stress","salinity_sodicity","erosion_risk","compaction_risk","soil_pressure"
+"Prairie-A","cropland","mollisol_like",6.4,4.8,22,18,6,28,190,0.598,0,0,0.22,0.18,0.17244
+"Field-B","intensive_cropland","sandy_low_om",5.5,2.1,9,42,8,18,110,0.600333333333333,0.25,0,0.46,0.35,0.346926666666667
+"Irrigated-C","irrigated_agriculture","salinity_risk",8.2,1.6,14,25,5,32,210,0.692,0.2,0.633333333333333,0.3,0.25,0.391493333333333
+"Forest-D","forest","forest_soil",5.9,7.2,18,4,3,9,160,0.306166666666667,0.0499999999999998,0,0.12,0.1,0.208643333333333
+"Degraded-E","degraded_land","eroded_low_om",5.1,0.9,5,8,2,5,70,0.188166666666667,0.45,0.166666666666667,0.82,0.65,0.622803333333333
+"Wetland-F","wetland","hydric_soil",6.8,8,26,6,10,14,180,0.427666666666667,0,0,0.08,0.2,0.162713333333333
+"Pasture-G","pasture","grassland_soil",6.2,3.9,17,15,4,22,155,0.477666666666667,0,0,0.25,0.3,0.245113333333333

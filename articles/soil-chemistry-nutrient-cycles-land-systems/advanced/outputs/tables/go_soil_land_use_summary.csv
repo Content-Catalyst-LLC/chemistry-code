@@ -1,0 +1,6 @@
+land_use,n,mean_soil_pressure,mean_leaching_pressure,mean_carbon_stability
+intensive_cropland,1,0.430000,0.480000,0.280000
+irrigated_agriculture,1,0.450000,0.340000,0.300000
+forest,1,0.190000,0.170000,0.820000
+degraded_land,1,0.710000,0.660000,0.130000
+cropland,1,0.240000,0.160000,0.660000

@@ -1,0 +1,3 @@
+record,pH_stress,nutrient_balance_index,salinity_sodicity_pressure,organic_matter_score,cec_buffering_score,leaching_pressure
+prairie_cropland,0.00000000,0.59800000,0.00000000,0.80000000,0.88000000,0.18450000
+irrigated_salinity,0.20000000,0.69200000,0.63333333,0.26666667,0.56000000,0.33766667
