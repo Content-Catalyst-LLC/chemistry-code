@@ -1,23 +1,42 @@
 # Ocean Chemistry and the Carbonate System
 
-Section: Chemistry and the Earth System
+This article folder supports the Chemistry knowledge-series article:
 
-This folder will support the Chemistry knowledge-series article:
+**Ocean Chemistry and the Carbonate System**
 
-Ocean Chemistry and the Carbonate System
+The repository materials provide reproducible, educational workflows for simplified carbonate-system speciation, dissolved inorganic carbon, carbonate ion estimation, aragonite saturation screening, alkalinity relationships, Revelle-factor intuition, air-sea CO2 flux examples, and provenance-aware ocean carbon monitoring data structures.
 
-The folder is prepared for reproducible computational chemistry workflows, synthetic datasets, documentation, notebooks, SQL metadata, and full-stack examples where useful.
+## Contents
 
-## Suggested workflow types
+- `data/` — synthetic ocean carbonate monitoring data
+- `python/` — carbonate speciation, saturation screening, and reporting
+- `r/` — carbonate monitoring summaries and saturation flags
+- `julia/` — carbonate fractions, air-sea CO2 flux, and saturation calculations
+- `fortran/` — simplified carbonate speciation calculation
+- `rust/` — command-line carbonate saturation screening example
+- `go/` — simplified air-sea CO2 flux and saturation example
+- `c/` — pH-to-hydrogen-ion and carbonate-fraction example
+- `cpp/` — Revelle-factor and carbonate buffer example
+- `sql/` — schema and sample queries for ocean carbon records
+- `docs/` — QA/QC notes, model assumptions, and responsible-use guidance
+- `notebooks/` — reproducible notebook scaffold
+- `outputs/` — generated tables, reports, figures, and provenance manifests
 
-- chemical data analysis
-- stoichiometric and thermodynamic calculations
-- kinetics and reaction-network modeling
-- spectroscopy or chromatography data workflows
-- molecular modeling or cheminformatics examples
-- environmental chemistry or toxicology examples
-- reproducible metadata and provenance examples
+## Scientific scope
 
-## Responsible-use note
+These examples are simplified and educational. They are designed to show how ocean chemistry connects:
 
-This folder is educational and methodological scaffolding. It is not a substitute for laboratory validation, safety review, regulatory compliance, chemical risk assessment, or professional chemical practice.
+- pH, DIC, total alkalinity, and pCO2
+- bicarbonate and carbonate speciation
+- aragonite and calcite saturation states
+- air-sea CO2 exchange
+- ocean acidification
+- biological calcification
+- marine monitoring metadata
+- carbonate-system data provenance
+
+They are not research-grade carbonate-system calculations, regulatory products, operational ocean forecasts, fisheries advisories, shellfish-hatchery guidance, climate attribution tools, or legal evidence.
+
+## License
+
+Code and documentation in this repository follow the MIT license conventions used for the broader Chemistry code repository.

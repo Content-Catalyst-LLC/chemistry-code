@@ -1,0 +1,8 @@
+[package]
+name = "ocean_carbonate_screening"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Educational ocean carbonate chemistry screening calculations"
+
+[dependencies]

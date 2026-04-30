@@ -1,0 +1,9 @@
+sample_id,date,station,region,water_type,latitude,longitude,depth_m,temperature_c,salinity,pH_total_scale,DIC_umol_kg,total_alkalinity_umol_kg,pCO2_uatm,calcium_mmol_kg,oxygen_umol_kg,nitrate_umol_kg,phosphate_umol_kg,silicate_umol_kg,method,qualifier
+OC001,2026-04-01,Open-Ocean-A,subtropical_gyre,open_ocean,24.5,-155.2,10,22.0,35.0,8.10,2050,2310,410,10.3,215,0.8,0.05,1.2,discrete_bottle_spectrophotometric_pH,synthetic
+OC002,2026-04-01,Upwelling-B,eastern_boundary,upwelling,36.7,-122.1,20,10.5,34.2,7.78,2240,2285,820,10.1,145,18.5,1.6,24.0,discrete_bottle_spectrophotometric_pH,synthetic
+OC003,2026-04-02,Reef-C,tropical_reef,reef_lagoon,18.4,-64.7,5,27.8,36.1,8.02,1980,2290,455,10.5,205,0.2,0.03,0.8,moored_sensor_bottle_validation,synthetic
+OC004,2026-04-02,Estuary-D,temperate_estuary,estuarine,43.1,-70.6,4,18.2,28.5,7.62,2300,2170,1150,8.4,176,22.0,2.1,35.0,discrete_bottle_titration,synthetic
+OC005,2026-04-03,Polar-E,polar_shelf,polar_surface,71.2,-150.0,15,1.5,32.8,7.88,2180,2260,620,9.8,285,8.6,0.9,12.5,discrete_bottle_spectrophotometric_pH,synthetic
+OC006,2026-04-03,Deep-F,abyssal,deep_ocean,0.0,-140.0,3800,1.8,34.7,7.65,2350,2400,980,10.2,135,34.0,2.4,115.0,ctd_rosette_bottle,synthetic
+OC007,2026-04-04,Coastal-G,urban_coast,coastal,40.7,-73.9,8,20.1,31.2,7.70,2265,2205,1040,9.2,160,26.0,2.8,42.0,moored_sensor_bottle_validation,synthetic
+OC008,2026-04-04,Productive-H,subpolar_bloom,productive_surface,52.0,-30.0,12,8.4,34.5,8.18,1995,2315,330,10.1,310,2.5,0.2,5.5,discrete_bottle_spectrophotometric_pH,synthetic
