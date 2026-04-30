@@ -1,0 +1,13 @@
+{
+  "article_slug": "astrochemistry-molecular-universe",
+  "advanced_layer": true,
+  "outputs": [
+    "advanced/outputs/tables/advanced_line_matches.csv",
+    "advanced/outputs/tables/synthetic_gaussian_spectrum.csv",
+    "advanced/outputs/tables/rotational_diagram_points.csv",
+    "advanced/outputs/tables/toy_reaction_network_timeseries.csv",
+    "advanced/outputs/tables/desorption_photochemistry_screen.csv",
+    "advanced/outputs/reports/advanced_astrochemistry_report.md"
+  ],
+  "responsible_use": "Educational synthetic astrochemistry code only; not professional line identification, radiative transfer, exoplanet retrieval, or biosignature assessment."
+}

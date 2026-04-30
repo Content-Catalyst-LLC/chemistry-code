@@ -1,0 +1,8 @@
+source,environment,observed_frequency_GHz,peak_intensity_K,line_width_km_s,integrated_intensity_K_km_s,noise_K
+Cloud-A,cold_molecular_cloud,115.269,4.2,1.4,6.3,0.08
+Cloud-A,cold_molecular_cloud,93.173,0.9,0.7,0.68,0.05
+HotCore-B,hot_core,96.738,8.8,4.2,39.4,0.12
+HotCore-B,hot_core,145.099,6.4,4.8,32.7,0.15
+HotCore-B,hot_core,193.448,4.1,5.1,22.3,0.20
+Disk-C,protoplanetary_disk,88.631,1.2,0.9,1.15,0.04
+Shock-G,shocked_cloud,86.845,5.5,8.5,49.8,0.18

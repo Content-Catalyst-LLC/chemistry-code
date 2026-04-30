@@ -1,0 +1,9 @@
+species,transition,rest_frequency_GHz,upper_energy_K,einstein_A_s1,g_upper,molecule_class
+CO,J=1-0,115.271,5.53,7.20e-8,3,simple_molecule
+HCN,J=1-0,88.632,4.25,2.41e-5,3,nitrile
+N2H+,J=1-0,93.174,4.47,3.62e-5,3,dense_gas_ion
+CH3OH,2_0-1_0 A+,96.741,7.00,3.40e-6,5,complex_organic_proxy
+CH3OH,3_0-2_0 A+,145.103,13.94,1.23e-5,7,complex_organic_proxy
+CH3OH,4_0-3_0 A+,193.454,23.20,3.00e-5,9,complex_organic_proxy
+NH3,1_1 inversion,23.694,23.30,1.67e-7,3,nitrogen_hydride
+SiO,J=2-1,86.847,6.25,2.93e-5,5,shock_tracer

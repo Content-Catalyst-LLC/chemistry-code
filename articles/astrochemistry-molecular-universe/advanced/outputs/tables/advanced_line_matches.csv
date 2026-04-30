@@ -1,0 +1,8 @@
+source,environment,species,transition,rest_frequency_GHz,observed_frequency_GHz,frequency_offset_MHz,radial_velocity_km_s,signal_to_noise,match_quality
+Cloud-A,cold_molecular_cloud,CO,J=1-0,115.271,115.269,-1.9999999999953388,5.201524372987157,52.5,strong_screen
+Cloud-A,cold_molecular_cloud,N2H+,J=1-0,93.174,93.173,-1.0000000000047748,3.2175548758390904,18.0,strong_screen
+HotCore-B,hot_core,CH3OH,2_0-1_0 A+,96.741,96.738,-3.0000000000001137,9.296754984960193,73.33333333333334,strong_screen
+HotCore-B,hot_core,CH3OH,3_0-2_0 A+,145.103,145.099,-4.000000000019099,8.2642662936378,42.66666666666667,strong_screen
+HotCore-B,hot_core,CH3OH,4_0-3_0 A+,193.454,193.448,-6.000000000000227,9.29810057171249,20.499999999999996,strong_screen
+Disk-C,protoplanetary_disk,HCN,J=1-0,88.632,88.631,-1.0000000000047748,3.382440405287384,30.0,strong_screen
+Shock-G,shocked_cloud,SiO,J=2-1,86.847,86.845,-1.9999999999953388,6.903922023772872,30.555555555555557,strong_screen
