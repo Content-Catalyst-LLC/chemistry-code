@@ -1,23 +1,44 @@
 # Astrochemistry and the Molecular Universe
 
-Section: Chemistry and the Earth System
+This article folder supports the Chemistry knowledge-series article:
 
-This folder will support the Chemistry knowledge-series article:
+**Astrochemistry and the Molecular Universe**
 
-Astrochemistry and the Molecular Universe
+The repository materials provide reproducible, educational workflows for spectral-line matching, molecular abundance screening, Doppler velocity estimation, simplified desorption and photodissociation diagnostics, astrochemical reaction-network examples, and provenance-aware molecular survey data structures.
 
-The folder is prepared for reproducible computational chemistry workflows, synthetic datasets, documentation, notebooks, SQL metadata, and full-stack examples where useful.
+## Contents
 
-## Suggested workflow types
+- `data/` — synthetic astrochemical line-survey and molecular-environment data
+- `python/` — spectral-line matching, abundance screening, desorption, and photochemical diagnostics
+- `r/` — astrochemical survey summaries
+- `julia/` — reaction-network and desorption examples
+- `fortran/` — Doppler velocity and photon-energy calculations
+- `rust/` — command-line molecular abundance screening example
+- `go/` — photodissociation and thermal desorption example
+- `c/` — photon energy and Doppler shift calculation
+- `cpp/` — simple line-catalog matching example
+- `sql/` — schema and sample queries for astrochemical survey records
+- `docs/` — QA/QC notes, model assumptions, and responsible-use guidance
+- `notebooks/` — reproducible notebook scaffold
+- `outputs/` — generated tables, reports, figures, and provenance manifests
 
-- chemical data analysis
-- stoichiometric and thermodynamic calculations
-- kinetics and reaction-network modeling
-- spectroscopy or chromatography data workflows
-- molecular modeling or cheminformatics examples
-- environmental chemistry or toxicology examples
-- reproducible metadata and provenance examples
+## Scientific scope
 
-## Responsible-use note
+These examples are simplified and educational. They are designed to show how astrochemistry connects:
 
-This folder is educational and methodological scaffolding. It is not a substitute for laboratory validation, safety review, regulatory compliance, chemical risk assessment, or professional chemical practice.
+- molecular spectroscopy
+- interstellar clouds
+- icy grain mantles
+- protoplanetary disks
+- comets and meteorites
+- exoplanet atmospheres
+- molecular abundance estimates
+- reaction networks
+- photochemistry
+- astrochemical data provenance
+
+They are not professional line identifications, mission analyses, exoplanet retrievals, radiative-transfer models, biosignature assessments, or laboratory spectroscopy catalogs.
+
+## License
+
+Code and documentation in this repository follow the MIT license conventions used for the broader Chemistry code repository.

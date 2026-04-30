@@ -1,0 +1,11 @@
+observation_id,date,source,environment,candidate_species,molecule_class,rest_frequency_GHz,observed_frequency_GHz,integrated_intensity_K_km_s,column_density_cm2,H2_column_density_cm2,dust_temperature_K,gas_temperature_K,uv_field_index,cosmic_ray_ionization_rate_s1,binding_energy_K,telescope_band,method,qualifier
+AST001,2026-04-01,Cloud-A,cold_molecular_cloud,CO,simple_molecule,115.271,115.269,18.5,2.0e17,2.0e22,10,12,0.2,1.0e-17,855,millimeter,synthetic_line_survey,synthetic
+AST002,2026-04-01,Cloud-A,cold_molecular_cloud,NH3,nitrogen_hydride,23.694,23.694,1.4,6.5e14,2.0e22,10,12,0.2,1.0e-17,3000,centimeter,synthetic_line_survey,synthetic
+AST003,2026-04-02,HotCore-B,hot_core,CH3OH,complex_organic_proxy,96.741,96.738,42.0,8.0e16,5.0e23,120,180,8.0,3.0e-17,5500,millimeter,synthetic_line_survey,synthetic
+AST004,2026-04-02,Disk-C,protoplanetary_disk,HCN,nitrile,88.632,88.631,3.8,2.5e13,1.0e22,35,45,4.0,2.0e-17,4170,millimeter,synthetic_disk_survey,synthetic
+AST005,2026-04-03,Comet-D,comet,H2O,volatile_ice,556.936,556.920,75.0,1.0e17,5.0e19,160,180,12.0,1.0e-17,5700,submillimeter,synthetic_comet_survey,synthetic
+AST006,2026-04-03,Exoplanet-E,exoplanet_atmosphere,CO2,atmospheric_molecule,667.380,667.210,0.8,3.0e15,1.0e22,900,1200,150.0,0.0,2575,infrared_proxy,synthetic_transmission_spectrum,synthetic
+AST007,2026-04-04,IceMantle-F,interstellar_ice,CH4,volatile_ice,1306.000,1305.970,5.1,4.0e15,3.0e22,15,18,0.6,1.5e-17,1300,infrared_proxy,synthetic_ice_spectrum,synthetic
+AST008,2026-04-04,Shock-G,shocked_cloud,SiO,shock_tracer,86.847,86.845,12.5,9.0e13,8.0e21,60,250,6.0,5.0e-17,3500,millimeter,synthetic_shock_survey,synthetic
+AST009,2026-04-05,PAH-H,photodissociation_region,PAH,aromatic_carbonaceous,30000.000,29998.000,28.0,2.0e14,1.5e22,80,300,75.0,2.0e-16,6000,infrared_proxy,synthetic_ir_feature,synthetic
+AST010,2026-04-05,ColdCore-I,prestellar_core,N2H+,dense_gas_ion,93.174,93.173,6.0,7.0e12,4.0e22,8,9,0.05,8.0e-18,2500,millimeter,synthetic_line_survey,synthetic

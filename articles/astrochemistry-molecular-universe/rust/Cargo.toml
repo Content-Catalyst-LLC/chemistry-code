@@ -1,0 +1,8 @@
+[package]
+name = "astrochemical_abundance"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Educational astrochemical abundance and velocity calculations"
+
+[dependencies]
