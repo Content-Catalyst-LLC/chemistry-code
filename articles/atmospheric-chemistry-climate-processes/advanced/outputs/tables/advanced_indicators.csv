@@ -1,0 +1,6 @@
+sample_id,chemical_class,species,concentration,reference,unit,lifetime_days,nox_ppb,voc_ppb,sunlight_index,aod,single_scattering_albedo,benchmark_ratio,forcing_proxy,ozone_production_index,aerosol_direct_effect_proxy,atmospheric_chemistry_pressure_index,attention_flag
+ATM001,greenhouse_gas,CO2,423.0,280.0,ppm,36500.0,0.0,0.0,1.0,0.06,0.96,1.5107142857142857,2.2073167809421017,0.0,-1.152,0.4164110701932916,monitor
+ATM002,greenhouse_gas,CH4,1950.0,722.0,ppb,4380.0,0.0,0.0,1.0,0.03,0.94,2.700831024930748,1.3085573957637102,0.0,-0.564,0.44646902576299163,monitor
+ATM003,secondary_pollutant,O3,0.078,0.07,ppm,0.2,38.0,85.0,1.15,0.08,0.93,1.114285714285714,0.748717031714756,65.35805229656097,-1.4880000000000002,0.3110584654662072,monitor
+ATM004,aerosol,PM2.5,18.5,15.0,ug/m3,4.0,22.0,40.0,0.85,0.22,0.88,1.2333333333333334,0.8034952377288107,25.215074856125252,-3.8720000000000003,0.35251686256705594,monitor
+ATM005,reactive_carbon,CO,0.9,0.4,ppm,60.0,16.0,35.0,0.95,0.05,0.95,2.25,1.1786549963416462,22.48110317577854,-0.95,0.4145811129948004,monitor

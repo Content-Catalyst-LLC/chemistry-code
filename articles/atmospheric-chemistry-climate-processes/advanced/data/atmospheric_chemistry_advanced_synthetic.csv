@@ -1,0 +1,11 @@
+sample_id,date,station,region,environment,species,chemical_class,concentration,reference_concentration,unit,temperature_c,relative_humidity_percent,sunlight_index,nox_ppb,voc_ppb,oh_index,aod,single_scattering_albedo,lifetime_days,background_pressure_hPa,qc_score
+ATMADV001,2026-04-01,Global-CO2,global_background,troposphere,CO2,greenhouse_gas,423.0,280.0,ppm,15.0,55,1.0,0,0,1.0,0.04,0.96,36500,1013,0.95
+ATMADV002,2026-04-01,Global-CH4,global_background,troposphere,CH4,greenhouse_gas,1950.0,722.0,ppb,15.0,55,1.0,0,0,0.85,0.03,0.95,4380,1013,0.94
+ATMADV003,2026-04-01,Global-N2O,global_background,troposphere,N2O,greenhouse_gas,337.0,270.0,ppb,15.0,55,1.0,0,0,1.0,0.03,0.95,43800,1013,0.93
+ATMADV004,2026-04-02,Urban-O3,urban_plume,boundary_layer,O3,secondary_pollutant,0.078,0.070,ppm,28.0,48,1.15,38,85,0.75,0.08,0.93,0.20,1005,0.90
+ATMADV005,2026-04-02,Urban-NO2,urban_plume,boundary_layer,NO2,reactive_nitrogen,42.0,53.0,ppb,25.0,52,1.05,42,60,0.80,0.07,0.92,0.25,1007,0.88
+ATMADV006,2026-04-02,Urban-CO,urban_plume,boundary_layer,CO,reactive_carbon,0.90,0.40,ppm,22.0,58,0.95,16,35,0.70,0.05,0.95,60.0,1009,0.89
+ATMADV007,2026-04-03,Smoke-PM,wildfire_smoke,boundary_layer,PM2.5,aerosol,38.0,15.0,ug_m3,19.0,36,0.75,22,95,0.55,0.68,0.86,5.0,1001,0.84
+ATMADV008,2026-04-03,Industrial-SO2,industrial_plume,boundary_layer,SO2,sulfur_chemistry,18.0,75.0,ppb,17.0,62,0.80,14,25,0.65,0.18,0.90,2.0,1008,0.86
+ATMADV009,2026-04-04,Dust-AOD,mineral_dust,troposphere,coarse_aerosol,aerosol,120.0,100.0,ug_m3,29.0,24,1.10,5,10,0.90,0.82,0.91,7.0,1000,0.82
+ATMADV010,2026-04-04,Marine-DMS,marine_boundary_layer,boundary_layer,DMS,sulfur_chemistry,0.45,0.20,ppb,18.0,78,0.90,2,8,1.10,0.12,0.97,1.0,1015,0.91

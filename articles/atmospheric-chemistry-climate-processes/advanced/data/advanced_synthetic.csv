@@ -1,0 +1,6 @@
+sample_id,chemical_class,species,concentration,reference,unit,lifetime_days,nox_ppb,voc_ppb,sunlight_index,aod,single_scattering_albedo
+ATM001,greenhouse_gas,CO2,423.0,280.0,ppm,36500,0,0,1.0,0.06,0.96
+ATM002,greenhouse_gas,CH4,1950.0,722.0,ppb,4380,0,0,1.0,0.03,0.94
+ATM003,secondary_pollutant,O3,0.078,0.07,ppm,0.2,38,85,1.15,0.08,0.93
+ATM004,aerosol,PM2.5,18.5,15.0,ug/m3,4,22,40,0.85,0.22,0.88
+ATM005,reactive_carbon,CO,0.9,0.4,ppm,60,16,35,0.95,0.05,0.95

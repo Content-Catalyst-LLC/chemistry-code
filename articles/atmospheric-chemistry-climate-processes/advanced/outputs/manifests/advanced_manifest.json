@@ -1,0 +1,21 @@
+{
+  "article_slug": "atmospheric-chemistry-climate-processes",
+  "title": "Atmospheric Chemistry and Climate Processes",
+  "advanced_layer": true,
+  "synthetic_records": 10,
+  "summary_groups": 6,
+  "greenhouse_scenario_rows": 18,
+  "methane_decay_rows": 31,
+  "ozone_scenario_rows": 48,
+  "aerosol_scenario_rows": 20,
+  "outputs": [
+    "advanced/outputs/tables/advanced_atmospheric_chemistry_indicators.csv",
+    "advanced/outputs/tables/advanced_chemical_class_summary.csv",
+    "advanced/outputs/tables/advanced_greenhouse_forcing_scenarios.csv",
+    "advanced/outputs/tables/advanced_methane_lifetime_decay.csv",
+    "advanced/outputs/tables/advanced_ozone_photochemical_scenarios.csv",
+    "advanced/outputs/tables/advanced_aerosol_optical_scenarios.csv",
+    "advanced/outputs/reports/advanced_atmospheric_chemistry_report.md"
+  ],
+  "responsible_use": "Synthetic educational atmospheric chemistry workflow only; not for regulatory, public-health, legal, climate-attribution, emissions inventory, or operational forecasting decisions."
+}
