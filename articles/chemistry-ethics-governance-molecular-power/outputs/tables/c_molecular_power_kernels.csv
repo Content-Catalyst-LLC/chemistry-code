@@ -1,0 +1,3 @@
+record,chemical_risk,justice_weighted_risk,governance_gap,stewardship_capacity
+high_volume_pesticide,0.46936064,0.72375411,0.32568935,0.52950000
+restricted_toxic_precursor,0.41401920,0.62020076,0.07442409,0.60500000

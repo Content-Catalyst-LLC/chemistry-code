@@ -1,23 +1,11 @@
 # Chemistry, Ethics, and the Governance of Molecular Power
 
-Section: Chemistry in Human Knowledge and Practice
+This directory supports the Chemistry knowledge-series article:
 
-This folder will support the Chemistry knowledge-series article:
+**Chemistry, Ethics, and the Governance of Molecular Power**
 
-Chemistry, Ethics, and the Governance of Molecular Power
+The code is synthetic and educational. It demonstrates governance-oriented screening logic across chemical benefit, hazard, exposure, persistence, vulnerability, justice weighting, transparency, stewardship, data gaps, dual-use concern, and governance strength.
 
-The folder is prepared for reproducible computational chemistry workflows, synthetic datasets, documentation, notebooks, SQL metadata, and full-stack examples where useful.
+## Responsible-use boundary
 
-## Suggested workflow types
-
-- chemical data analysis
-- stoichiometric and thermodynamic calculations
-- kinetics and reaction-network modeling
-- spectroscopy or chromatography data workflows
-- molecular modeling or cheminformatics examples
-- environmental chemistry or toxicology examples
-- reproducible metadata and provenance examples
-
-## Responsible-use note
-
-This folder is educational and methodological scaffolding. It is not a substitute for laboratory validation, safety review, regulatory compliance, chemical risk assessment, or professional chemical practice.
+This repository does **not** determine regulatory compliance, assign legal responsibility, validate chemical safety, perform toxicological assessment, evaluate real exposure, authorize chemical use, assess security threats, guide weapons-related activity, or substitute for professional legal, regulatory, environmental, occupational, toxicological, or ethics review.

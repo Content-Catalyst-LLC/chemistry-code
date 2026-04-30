@@ -1,0 +1,18 @@
+{
+  "article_slug": "chemistry-ethics-governance-molecular-power",
+  "title": "Chemistry, Ethics, and the Governance of Molecular Power",
+  "full_stack_extensions": true,
+  "location": "article_root",
+  "languages": [
+    "Python",
+    "SQL",
+    "Julia",
+    "C",
+    "C++",
+    "Fortran",
+    "Rust",
+    "Go",
+    "R"
+  ],
+  "responsible_use": "Synthetic educational chemical-governance workflow only; not for regulatory compliance, legal responsibility, toxicological assessment, exposure evaluation, safety validation, security assessment, product approval, or weapons-related guidance."
+}

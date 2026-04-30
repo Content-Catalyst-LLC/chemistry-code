@@ -1,0 +1,9 @@
+"domain","context","benefit","risk","justice_weighted_risk","governance_gap","governance","transparency","dual_use","responsible_score"
+"medicine","essential_therapeutic",0.95,0.08085,0.09823275,0.017681895,0.82,0.78,0.05,0.619518105
+"agriculture","high_volume_pesticide",0.72,0.434112,0.669400704,0.3012303168,0.55,0.45,0.12,0.31330787328
+"industrial_material","persistent_additive",0.58,0.32256,0.47480832,0.2753888256,0.42,0.32,0.08,0.2521345024
+"consumer_product","indoor_exposure_chemical",0.48,0.308256,0.441730848,0.27387312576,0.38,0.36,0.04,0.22688844736
+"water_treatment","disinfection_chemical",0.9,0.172608,0.23604144,0.0566499456,0.76,0.7,0.1,0.5459125408
+"dual_use","restricted_toxic_precursor",0.22,0.28336,0.42447328,0.0509367936,0.88,0.22,0.95,0.1687948096
+"energy_storage","battery_material_supply_chain",0.82,0.16744,0.26807144,0.13403572,0.5,0.5,0.06,0.4193471408
+"circular_material","recycled_additive_stream",0.62,0.23664,0.3537768,0.198115008,0.44,0.42,0.05,0.311920176

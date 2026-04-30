@@ -1,0 +1,6 @@
+domain,n,mean_justice_weighted_risk,mean_governance_gap,mean_responsible_score
+dual_use,1,0.620000,0.070000,0.200000
+medicine,1,0.210000,0.040000,0.720000
+agriculture,1,0.580000,0.260000,0.430000
+industrial_material,1,0.670000,0.390000,0.310000
+consumer_product,1,0.550000,0.340000,0.280000

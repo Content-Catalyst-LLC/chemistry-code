@@ -1,0 +1,11 @@
+{
+  "article_slug": "chemistry-ethics-governance-molecular-power",
+  "title": "Chemistry, Ethics, and the Governance of Molecular Power",
+  "records": 8,
+  "outputs": [
+    "outputs/tables/molecular_power_governance_indicators.csv",
+    "outputs/tables/molecular_power_domain_summary.csv",
+    "outputs/reports/molecular_power_governance_report.md"
+  ],
+  "responsible_use": "Synthetic educational workflow only; not legal, regulatory, toxicological, safety, security, exposure, or product-approval support."
+}

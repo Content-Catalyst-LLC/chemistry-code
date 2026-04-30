@@ -1,0 +1,6 @@
+domain,context,governance_gap,responsible_score,governance_flag
+medicine,essential_therapeutic,0.03,0.72,monitor_and_improve_governance
+agriculture,high_volume_pesticide,0.26,0.43,high_justice_weighted_risk
+industrial_material,persistent_additive,0.39,0.31,high_governance_gap
+consumer_product,indoor_exposure_chemical,0.34,0.28,high_justice_weighted_risk
+dual_use,restricted_toxic_precursor,0.07,0.2,restricted_or_high_dual_use_governance_attention

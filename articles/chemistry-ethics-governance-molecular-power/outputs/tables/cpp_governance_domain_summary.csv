@@ -1,0 +1,6 @@
+domain,n,mean_governance_gap,mean_responsible_score
+agriculture,1,0.26,0.43
+consumer_product,1,0.34,0.28
+dual_use,1,0.07,0.2
+industrial_material,1,0.39,0.31
+medicine,1,0.03,0.72
