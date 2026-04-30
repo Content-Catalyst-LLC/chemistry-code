@@ -1,0 +1,7 @@
+stage,objective,decision_evidence,advance_condition
+primary_biochemical_screen,confirm target engagement signal,"potency, curve quality, assay interference review",reproducible concentration-response with acceptable QC
+orthogonal_assay,reduce assay-artifact risk,"orthogonal potency, counterscreen, mechanism consistency",activity transfers to independent assay format
+cellular_activity,test cellular translation,"cell potency, permeability, cytotoxicity separation",cell activity with reasonable exposure and selectivity
+early_admet_panel,identify developability liabilities,"solubility, permeability, microsomal stability, CYP, hERG",manageable liabilities or clear optimization path
+selectivity_panel,evaluate target-family and safety pharmacology risks,"off-target windows, family panel profile, pharmacology flags",adequate selectivity margin for project stage
+integrated_lead_optimization,"balance potency, selectivity, ADMET, and tractability","MPO score, project hypothesis, structure-property trends",improving profile across multiple independent dimensions

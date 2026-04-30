@@ -1,0 +1,21 @@
+{
+  "article_slug": "medicinal-chemistry-drug-discovery",
+  "title": "Medicinal Chemistry and Drug Discovery",
+  "advanced_layer": true,
+  "synthetic_compounds": 10,
+  "project_summary_rows": 7,
+  "pareto_frontier_rows": 3,
+  "potency_lipophilicity_scenario_rows": 25,
+  "admet_rescue_scenario_rows": 27,
+  "assay_matrix_rows": 6,
+  "outputs": [
+    "advanced/outputs/tables/advanced_medicinal_chemistry_indicators.csv",
+    "advanced/outputs/tables/advanced_project_summary.csv",
+    "advanced/outputs/tables/advanced_pareto_frontier.csv",
+    "advanced/outputs/tables/advanced_potency_lipophilicity_scenarios.csv",
+    "advanced/outputs/tables/advanced_admet_rescue_scenarios.csv",
+    "advanced/outputs/tables/advanced_assay_progression_matrix.csv",
+    "advanced/outputs/reports/advanced_medicinal_chemistry_report.md"
+  ],
+  "responsible_use": "Synthetic educational medicinal chemistry workflow only; not for clinical, regulatory, toxicology, dosing, synthesis, controlled-substance design, or patient-care decisions."
+}

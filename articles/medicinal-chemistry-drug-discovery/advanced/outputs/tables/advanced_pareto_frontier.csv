@@ -1,0 +1,4 @@
+compound_id,project,target,pIC50,selectivity_window,lipophilic_ligand_efficiency,safety_liability_score,multiparameter_optimization_score,advancement_recommendation
+MEDADV006,Enzyme-E,Enzyme-E,7.494850021680094,162.5,5.594850021680093,0.0,0.84695941459531,advance_to_integrated_profiling
+MEDADV009,Epigenetic-G,Epigenetic-G,7.259637310505756,163.63636363636363,6.059637310505756,0.0,0.8311805891249494,advance_to_integrated_profiling
+MEDADV008,Kinase-A,Kinase-A,8.397940008672037,1200.0,3.797940008672038,0.08333333333333333,0.7956603058781516,advance_to_integrated_profiling
