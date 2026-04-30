@@ -1,0 +1,6 @@
+site,water_body,analyte,pressure_index,attention_flag
+River-A,river,nitrate_as_N,0.352906,monitor
+Lake-B,lake,dissolved_oxygen,0.345922,monitor
+Well-C,aquifer,arsenic,0.372525,monitor
+Storm-D,urban_runoff,lead,0.661125,high_attention
+Estuary-E,estuary,copper,0.484424,moderate_attention

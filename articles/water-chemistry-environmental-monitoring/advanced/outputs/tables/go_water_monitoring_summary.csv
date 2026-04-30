@@ -1,0 +1,6 @@
+water_body,n,mean_pressure_index,total_load_kg_day
+urban_runoff,1,0.720000,0.327000
+estuary,1,0.580000,1.693000
+river,1,0.420000,552.500000
+lake,1,0.470000,0.000000
+aquifer,1,0.560000,0.005000

@@ -1,0 +1,15 @@
+{
+  "article_slug": "water-chemistry-environmental-monitoring",
+  "title": "Water Chemistry and Environmental Monitoring",
+  "full_stack_extensions": true,
+  "languages": [
+    "Julia",
+    "C",
+    "C++",
+    "Fortran",
+    "Rust",
+    "Go",
+    "R"
+  ],
+  "responsible_use": "Synthetic educational water chemistry workflow only; not for regulatory, drinking-water, public-health, legal, permit, aquatic-life, watershed-management, or operational monitoring decisions."
+}

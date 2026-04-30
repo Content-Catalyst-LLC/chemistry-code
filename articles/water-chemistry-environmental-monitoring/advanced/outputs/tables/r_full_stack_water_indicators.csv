@@ -1,0 +1,8 @@
+"site","water_body","analyte","benchmark_ratio","oxygen_stress","nutrient_index","metal_index","turbidity_pressure","qc_score","pressure_index"
+"River-A","river","nitrate_as_N",0.78,0.13,0.84,0.25,0.12,0.93,0.352906496531084
+"Lake-B","lake","dissolved_oxygen",0.92,0.54,0.39,0.18,0.18,0.88,0.345921694204108
+"Well-C","aquifer","arsenic",1.2,0.75,0.06,0.44,0.01,0.86,0.372525387612493
+"Storm-D","urban_runoff","lead",1.2,0.3,1,0.88,0.75,0.8,0.661125387612493
+"Estuary-E","estuary","copper",1.08,0.25,0.87,0.55,0.22,0.84,0.4844241881203
+"Wetland-F","wetland","phosphate_as_P",0.9,0.42,0.53,0.2,0.34,0.9,0.372259936041185
+"Reservoir-G","reservoir","nitrate_as_N",0.32,0.2,0.29,0.14,0.09,0.94,0.18165917225421

@@ -1,0 +1,6 @@
+water_body,n,mean_pressure_index
+aquifer,1,0.372525
+estuary,1,0.484424
+lake,1,0.345922
+river,1,0.352906
+urban_runoff,1,0.661125
