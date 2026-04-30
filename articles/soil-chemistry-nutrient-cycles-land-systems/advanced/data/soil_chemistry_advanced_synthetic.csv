@@ -1,0 +1,9 @@
+sample_id,date,site,land_use,depth_cm,bulk_density_g_cm3,soc_percent,pH,cec_cmolc_kg,base_cations_cmolc_kg,nitrate_mg_kg,ammonium_mg_kg,phosphorus_mg_kg,potassium_mg_kg,clay_percent,sand_percent,silt_percent,electrical_conductivity_dS_m,erosion_t_ha,sediment_p_mg_kg,lead_mg_kg,cadmium_mg_kg,annual_N_input_kg_ha,annual_N_removal_kg_ha,annual_P_input_kg_ha,annual_P_removal_kg_ha,qc_score
+SOILADV001,2026-04-01,Field-A,row_crop,30,1.32,1.8,6.4,12.0,8.4,18.0,4.5,32.0,145,24,38,38,0.42,2.4,680,22,0.32,160,125,38,30,0.93
+SOILADV002,2026-04-01,Field-B,row_crop,30,1.45,1.1,5.3,8.5,4.2,42.0,6.2,68.0,118,16,52,32,0.56,5.8,920,18,0.28,220,145,55,32,0.89
+SOILADV003,2026-04-02,Wetland-C,wetland,30,0.82,7.5,6.8,36.0,28.0,6.0,12.0,18.0,210,42,18,40,0.31,0.4,540,35,0.40,35,18,12,8,0.91
+SOILADV004,2026-04-02,Urban-D,urban_garden,15,1.18,3.2,7.6,18.0,15.5,22.0,5.5,210.0,260,28,36,36,0.78,1.6,1300,420,1.8,95,40,85,10,0.82
+SOILADV005,2026-04-03,Pasture-E,pasture,30,1.05,4.1,6.1,24.0,18.2,14.0,7.2,26.0,190,34,30,36,0.36,0.9,610,28,0.30,80,65,18,16,0.92
+SOILADV006,2026-04-03,Orchard-F,orchard,30,1.22,2.6,6.9,16.0,12.7,28.0,4.8,74.0,225,30,34,36,0.62,2.2,780,66,0.55,130,95,42,24,0.87
+SOILADV007,2026-04-04,Mine-G,reclaimed_mine,20,1.55,0.9,4.8,7.0,2.4,8.0,2.1,12.0,82,18,46,36,1.45,6.5,470,890,4.6,28,15,6,4,0.76
+SOILADV008,2026-04-04,Riparian-H,riparian_buffer,30,1.12,5.8,6.7,28.0,22.5,9.0,8.5,20.0,165,40,22,38,0.44,0.3,520,31,0.36,45,32,10,8,0.94

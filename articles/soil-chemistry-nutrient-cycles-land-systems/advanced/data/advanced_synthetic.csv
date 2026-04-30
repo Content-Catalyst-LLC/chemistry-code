@@ -1,0 +1,6 @@
+sample_id,land_use,depth_cm,bulk_density_g_cm3,soc_percent,pH,cec_cmolc_kg,base_cations_cmolc_kg,nitrate_mg_kg,phosphorus_mg_kg,erosion_t_ha,sediment_p_mg_kg
+SOIL001,row_crop,30,1.32,1.8,6.4,12.0,8.4,18.0,32.0,2.4,680
+SOIL002,row_crop,30,1.45,1.1,5.3,8.5,4.2,42.0,68.0,5.8,920
+SOIL003,wetland,30,0.82,7.5,6.8,36.0,28.0,6.0,18.0,0.4,540
+SOIL004,urban_garden,15,1.18,3.2,7.6,18.0,15.5,22.0,210.0,1.6,1300
+SOIL005,pasture,30,1.05,4.1,6.1,24.0,18.2,14.0,26.0,0.9,610

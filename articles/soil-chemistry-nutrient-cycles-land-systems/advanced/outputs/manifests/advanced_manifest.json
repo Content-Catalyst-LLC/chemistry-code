@@ -1,0 +1,19 @@
+{
+  "article_slug": "soil-chemistry-nutrient-cycles-land-systems",
+  "title": "Soil Chemistry, Nutrient Cycles, and Land Systems",
+  "advanced_layer": true,
+  "synthetic_records": 8,
+  "summary_groups": 7,
+  "carbon_scenario_rows": 123,
+  "nitrogen_scenario_rows": 12,
+  "phosphorus_scenario_rows": 10,
+  "outputs": [
+    "advanced/outputs/tables/advanced_soil_chemistry_indicators.csv",
+    "advanced/outputs/tables/advanced_land_use_summary.csv",
+    "advanced/outputs/tables/advanced_soil_carbon_scenarios.csv",
+    "advanced/outputs/tables/advanced_nitrogen_balance_scenarios.csv",
+    "advanced/outputs/tables/advanced_phosphorus_export_scenarios.csv",
+    "advanced/outputs/reports/advanced_soil_chemistry_report.md"
+  ],
+  "responsible_use": "Synthetic educational soil chemistry workflow only; not for agronomic, carbon-credit, contamination, public-health, legal, valuation, or regulatory decisions."
+}
