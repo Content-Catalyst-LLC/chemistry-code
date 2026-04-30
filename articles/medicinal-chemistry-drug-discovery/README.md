@@ -1,23 +1,11 @@
 # Medicinal Chemistry and Drug Discovery
 
-Section: Chemistry in Human Knowledge and Practice
+This folder supports the Chemistry knowledge-series article:
 
-This folder will support the Chemistry knowledge-series article:
+**Medicinal Chemistry and Drug Discovery**
 
-Medicinal Chemistry and Drug Discovery
+The code is synthetic and educational. It demonstrates medicinal chemistry decision analytics, including potency conversion, pIC50, selectivity windows, ligand efficiency, lipophilic ligand efficiency, ADMET screening, safety-liability flags, developability scoring, multiparameter optimization, Pareto frontier analysis, uncertainty scenarios, and SQL-ready provenance structures.
 
-The folder is prepared for reproducible computational chemistry workflows, synthetic datasets, documentation, notebooks, SQL metadata, and full-stack examples where useful.
+## Responsible-use boundary
 
-## Suggested workflow types
-
-- chemical data analysis
-- stoichiometric and thermodynamic calculations
-- kinetics and reaction-network modeling
-- spectroscopy or chromatography data workflows
-- molecular modeling or cheminformatics examples
-- environmental chemistry or toxicology examples
-- reproducible metadata and provenance examples
-
-## Responsible-use note
-
-This folder is educational and methodological scaffolding. It is not a substitute for laboratory validation, safety review, regulatory compliance, chemical risk assessment, or professional chemical practice.
+This repository does **not** provide synthesis routes, clinical recommendations, patient-treatment guidance, dosing advice, toxicology clearance, regulatory conclusions, controlled-substance design, or real compound recommendations.

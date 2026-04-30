@@ -1,0 +1,10 @@
+{
+  "article_slug": "medicinal-chemistry-drug-discovery",
+  "outputs": [
+    "outputs/tables/medicinal_chemistry_indicators.csv",
+    "outputs/tables/project_summary.csv",
+    "outputs/tables/pareto_frontier.csv",
+    "outputs/reports/medicinal_chemistry_report.md"
+  ],
+  "responsible_use": "Synthetic educational medicinal chemistry decision analytics only."
+}
