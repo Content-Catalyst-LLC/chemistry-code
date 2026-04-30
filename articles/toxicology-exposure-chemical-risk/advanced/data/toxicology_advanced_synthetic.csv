@@ -1,0 +1,11 @@
+record_id,chemical,chemical_class,medium,route,target_system,effect_type,concentration,unit,reference_dose_mg_kg_day,slope_factor_per_mg_kg_day,point_of_departure_mg_kg_day,intake_rate,body_weight_kg,exposure_frequency_days_year,exposure_duration_years,averaging_time_days,absorption_fraction,exposure_quality_score,vulnerability_factor,mixture_group
+TOX001,arsenic,metalloid,drinking_water,ingestion,cancer_and_skin,cancer_non_cancer,0.010,mg_L,0.0003,1.5,0.008,2.0,70,350,30,10950,0.95,0.88,1.20,metals_metalloids
+TOX002,benzene,volatile_organic,air,inhalation,bone_marrow,cancer_non_cancer,0.004,mg_m3,0.008,0.055,0.18,20.0,70,250,25,9125,0.80,0.84,1.10,volatile_organics
+TOX003,lead,metal,soil_dust,ingestion,neurodevelopment,non_cancer,120.0,mg_kg,0.0035,0.0,0.05,0.0001,15,180,6,2190,0.40,0.76,1.80,metals_metalloids
+TOX004,mercury,metal,fish,ingestion,neurodevelopment,non_cancer,0.35,mg_kg,0.0001,0.0,0.006,0.03,70,156,30,10950,0.95,0.82,1.50,metals_metalloids
+TOX005,formaldehyde,aldehyde,indoor_air,inhalation,respiratory,cancer_non_cancer,0.060,mg_m3,0.0098,0.000013,0.80,16.0,70,350,10,3650,0.75,0.80,1.05,irritants
+TOX006,chlorpyrifos,pesticide,food,ingestion,neurodevelopment,non_cancer,0.002,mg_kg,0.0003,0.0,0.01,1.2,20,365,6,2190,0.70,0.79,1.70,pesticides
+TOX007,PFOS,pfas,drinking_water,ingestion,immune_endocrine,non_cancer,0.000020,mg_L,0.00000002,0.0,0.00002,2.0,70,350,30,10950,0.90,0.74,1.35,persistent_organics
+TOX008,ozone,oxidant,air,inhalation,respiratory,non_cancer,0.140,mg_m3,0.030,0.0,0.30,18.0,70,120,1,365,1.00,0.86,1.25,air_pollutants
+TOX009,cadmium,metal,food,ingestion,kidney,non_cancer,0.015,mg_kg,0.001,0.0,0.02,1.4,70,365,30,10950,0.05,0.81,1.15,metals_metalloids
+TOX010,naphthalene,pah_indoor,indoor_air,inhalation,respiratory,cancer_non_cancer,0.006,mg_m3,0.003,0.12,0.10,16.0,70,350,10,3650,0.70,0.78,1.00,volatile_organics

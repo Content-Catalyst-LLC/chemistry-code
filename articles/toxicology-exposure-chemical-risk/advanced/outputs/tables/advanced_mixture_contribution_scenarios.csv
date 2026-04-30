@@ -1,0 +1,11 @@
+scenario,mixture_group,chemical,hazard_quotient,group_hazard_index,fractional_hazard_contribution
+mixture_contribution,air_pollutants,ozone,0.3945205479452055,0.3945205479452055,1.0
+mixture_contribution,irritants,formaldehyde,1.0064299692479732,1.0064299692479732,1.0
+mixture_contribution,metals_metalloids,arsenic,0.8675799086757991,1.5367090671885193,0.5645700459509079
+mixture_contribution,metals_metalloids,lead,0.0450880626223092,1.5367090671885193,0.02934066283919305
+mixture_contribution,metals_metalloids,mercury,0.6090410958904109,1.5367090671885193,0.39632817225753725
+mixture_contribution,metals_metalloids,cadmium,0.014999999999999998,1.5367090671885193,0.009761118952361748
+mixture_contribution,persistent_organics,PFOS,24.65753424657534,24.65753424657534,1.0
+mixture_contribution,pesticides,chlorpyrifos,0.27999999999999997,0.27999999999999997,1.0
+mixture_contribution,volatile_organics,benzene,0.07827788649706457,0.3851272015655577,0.20325203252032523
+mixture_contribution,volatile_organics,naphthalene,0.3068493150684931,0.3851272015655577,0.7967479674796748

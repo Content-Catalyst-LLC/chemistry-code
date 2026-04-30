@@ -1,0 +1,21 @@
+{
+  "article_slug": "toxicology-exposure-chemical-risk",
+  "title": "Toxicology, Exposure, and Chemical Risk",
+  "advanced_layer": true,
+  "synthetic_records": 10,
+  "target_system_summary_rows": 6,
+  "mixture_group_summary_rows": 6,
+  "exposure_reduction_scenario_rows": 20,
+  "body_weight_vulnerability_scenario_rows": 24,
+  "mixture_contribution_rows": 10,
+  "outputs": [
+    "advanced/outputs/tables/advanced_toxicology_indicators.csv",
+    "advanced/outputs/tables/advanced_target_system_hazard_index.csv",
+    "advanced/outputs/tables/advanced_mixture_group_hazard_index.csv",
+    "advanced/outputs/tables/advanced_exposure_reduction_scenarios.csv",
+    "advanced/outputs/tables/advanced_body_weight_vulnerability_scenarios.csv",
+    "advanced/outputs/tables/advanced_mixture_contribution_scenarios.csv",
+    "advanced/outputs/reports/advanced_toxicology_report.md"
+  ],
+  "responsible_use": "Synthetic educational toxicology workflow only; not for regulatory, clinical, public-health, legal, occupational, cleanup, or operational decisions."
+}
