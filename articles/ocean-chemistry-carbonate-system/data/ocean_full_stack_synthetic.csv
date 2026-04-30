@@ -1,0 +1,9 @@
+record_id,region,water_mass,temperature_c,salinity,pH,total_alkalinity_umol_kg,dic_umol_kg,pco2_uatm,carbonate_umol_kg,calcium_mmol_kg,phosphate_umol_kg,nitrate_umol_kg,silicate_umol_kg,oxygen_umol_kg,depth_m,aragonite_ksp_proxy,calcite_ksp_proxy,qc_score
+OCNFS001,North_Atlantic,surface_subpolar,8.5,35.1,8.08,2310,2060,415,185,10.3,0.8,6.2,3.0,255,20,60,42,0.94
+OCNFS002,Equatorial_Pacific,surface_upwelling,24.0,34.8,7.92,2285,2130,520,145,10.2,1.9,14.5,8.0,210,30,60,42,0.91
+OCNFS003,Southern_Ocean,surface_polar,1.5,34.4,8.02,2325,2115,430,165,10.4,1.6,22.0,18.0,300,25,60,42,0.90
+OCNFS004,North_Pacific,intermediate_water,5.0,34.2,7.78,2290,2220,780,85,10.1,2.5,34.0,40.0,110,900,60,42,0.88
+OCNFS005,Arabian_Sea,oxygen_minimum_zone,12.0,35.0,7.62,2320,2265,1050,62,10.2,3.2,38.0,28.0,18,600,60,42,0.84
+OCNFS006,Caribbean_Reef,surface_tropical,28.0,36.2,8.12,2380,2040,390,210,10.5,0.2,0.4,1.0,230,10,60,42,0.93
+OCNFS007,California_Current,coastal_upwelling,13.5,33.6,7.82,2260,2185,850,95,10.0,2.2,28.0,22.0,145,70,60,42,0.86
+OCNFS008,Deep_Atlantic,deep_water,2.8,34.9,7.74,2350,2280,980,70,10.3,2.0,30.0,65.0,170,3500,60,42,0.89

@@ -1,0 +1,16 @@
+{
+  "article_slug": "ocean-chemistry-carbonate-system",
+  "title": "Ocean Chemistry and the Carbonate System",
+  "full_stack_extensions": true,
+  "location": "article_root",
+  "languages": [
+    "Julia",
+    "C",
+    "C++",
+    "Fortran",
+    "Rust",
+    "Go",
+    "R"
+  ],
+  "responsible_use": "Synthetic educational ocean chemistry workflow only; not for operational ocean monitoring, climate attribution, marine policy, fisheries management, legal evidence, regulatory reporting, carbon-credit validation, aquaculture siting, or research-grade carbonate-system calculations."
+}

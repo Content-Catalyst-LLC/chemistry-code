@@ -1,0 +1,6 @@
+region,water_mass,carbonate_pressure,attention_flag
+North_Atlantic,surface_subpolar,0.1046,monitor
+Equatorial_Pacific,surface_upwelling,0.2584,monitor
+North_Pacific,intermediate_water,0.5743,moderate_attention
+Arabian_Sea,oxygen_minimum_zone,0.8097,high_attention
+Caribbean_Reef,surface_tropical,0.0383,monitor

@@ -1,0 +1,6 @@
+water_mass,n,mean_carbonate_pressure,mean_acidification_pressure,mean_deoxygenation_pressure
+surface_subpolar,1,0.140000,0.180000,0.000000
+surface_upwelling,1,0.290000,0.340000,0.000000
+intermediate_water,1,0.570000,0.650000,0.390000
+oxygen_minimum_zone,1,0.820000,0.880000,0.900000
+surface_tropical,1,0.070000,0.080000,0.000000
